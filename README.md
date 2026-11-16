@@ -30,8 +30,8 @@ the data.
 
 ## Status
 
-Candidate release `ca-on-hamilton/2026-11-16-d070` is prepared on branch
-`codex/bl-113-hamilton-tiles`. It contains the schema 2 Hamilton dossier and the D-070
-key-only parcel tiles. Leak, allowlist, size and reproducibility checks pass. The repository
-remains private; Hamilton Stage A/B sign-off has not been recorded, so this candidate is not
-approved for public release or deployment.
+Public preview release `ca-on-hamilton/2026-11-16-d070` contains the schema 2
+Hamilton dossier and the D-070 key-only parcel tiles. Leak, allowlist, size and
+full-release reproducibility checks passed before publication. This early preview is
+for inspecting what works; it is not a final launch declaration. The release directory
+is immutable; corrections require a new release id.
