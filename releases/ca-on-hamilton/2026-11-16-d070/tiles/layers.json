@@ -1,0 +1,1 @@
+{"schema_version":1,"layers":[{"id":"LYR-HAM-PARCEL","role":"parcel","geometry":"polygon","source":"LYR-HAM-PARCEL","default_visible":true,"tile_layer":"parcels","coverage":"ca-on-hamilton","state":"provisional","order":1}]}

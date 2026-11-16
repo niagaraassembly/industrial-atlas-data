@@ -1,0 +1,1 @@
+{"schema":2,"confidence_words":{"high":"one-to-one or point-in-polygon join on current sources","medium":"join holds but is shared, nearest-within-10 m, or a coverage test","low":"exact key match against a stale or sparsely filled source","note":"Provisional words for the UI. Not the NA-86 exact/good/weak/refused scale (still open)."}}
