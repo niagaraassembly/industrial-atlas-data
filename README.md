@@ -108,3 +108,27 @@ truck volumes; a main near a parcel is not a connection or capacity; coded field
 source's values, not yet defined by the City. Railway owner and spur names are excluded.
 Rebuild with `--release-id 2026-11-17-layer-set-002`; set 001 still rebuilds byte for byte.
 
+### Layer set 003 (2026-11-17)
+
+`map-releases/ca-on-hamilton/2026-11-17-layer-set-003/` adds a **built-form**
+group with 214,287 screened Hamilton building outlines. At zooms 13–15, a click
+can identify the stable building ID, its per-parcel size rank, plan-view area,
+primary parcel, overlap count, and distance to the parcel boundary. `AREA_M2`
+is numeric to support a later size filter. `BUILD_NO` ranks buildings by
+footprint area within their primary parcel; it is a display rank, while
+`BUILD_ID` is the durable identity.
+
+The release also carries facts for all 166,745 active parcels, in small
+two-character stable-ID suffix shards. Parcel facts distinguish assigned
+buildings from every intersecting outline, include largest and median sizes and
+building-to-edge distances, and label summed footprint area as a sum rather
+than parcel coverage. Boundary contact, crossing, or a parcel boundary inside a
+footprint is reported as zero metres. No height, floor area, use, or coverage
+percentage is inferred.
+
+The building release is derived from the screened local WGS84 stream and
+parcel-facts package created by HeavyMap's
+`scripts/export_hamilton_building_ranks.py`; raw City source files, the
+shapefile package, and full relationship tables are not included here. The
+immutable tile and fact assets are indexed and SHA-256 checked in `files.json`.
+

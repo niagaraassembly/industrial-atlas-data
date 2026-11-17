@@ -1,0 +1,48 @@
+{
+  "schema": 1,
+  "ranked_ndjson": {
+    "sha256": "a975dcb8a696cce27fff347b73aa1def05ed81729d095fd591f625697ca0f9cc",
+    "feature_count": 214287
+  },
+  "parcel_facts_index": {
+    "sha256": "df4e4a976a8905148800570439320c63357be63cd1364fb294cbb3740df31c22",
+    "parcel_count": 166745
+  },
+  "tile_generator": "tippecanoe v2.53.0",
+  "tile_layer": {
+    "id": "building-footprints",
+    "label": "Building footprints (size-ranked per parcel)",
+    "source": "City of Hamilton; parcel ranks derived by HeavyMap",
+    "source_url": "https://services.arcgis.com/rYz782eMbySr2srL/arcgis/rest/services/Buildings/FeatureServer/8",
+    "source_date": "2026-10-17",
+    "clearance": "Public dataset; explicitly cleared by project owner for this release.",
+    "tile_layer": "building-footprints",
+    "feature_count": 214287,
+    "min_zoom": 13,
+    "max_zoom": 15,
+    "file": "tiles/built-form.pmtiles",
+    "color": "#a45834",
+    "default_visible": false,
+    "properties": [
+      "BUILD_ID",
+      "PARCEL_ID",
+      "BUILD_NO",
+      "AREA_M2",
+      "OVL_M2",
+      "N_PARCELS",
+      "EDGE_M"
+    ],
+    "group": "built-form",
+    "geometry": "polygon"
+  },
+  "fields": [
+    "BUILD_ID",
+    "PARCEL_ID",
+    "BUILD_NO",
+    "AREA_M2",
+    "OVL_M2",
+    "N_PARCELS",
+    "EDGE_M"
+  ],
+  "source_names_and_row_ids_included": false
+}

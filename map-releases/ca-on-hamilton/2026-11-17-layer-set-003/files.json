@@ -1,0 +1,5350 @@
+{
+  "schema": 1,
+  "files": [
+    {
+      "path": "basemap/hamilton-20261116.pmtiles",
+      "bytes": 25368361,
+      "sha256": "38d2d0e13e6228433128c884a7a5bc9ab9ac51c53a3ba4cd79241e200fb40f99"
+    },
+    {
+      "path": "basemap.json",
+      "bytes": 105,
+      "sha256": "4f7ff85e71e9bfc3d879c1b1a270d0e4f011f1b9fe4235d28b3bf72286675e8c"
+    },
+    {
+      "path": "manifest.json",
+      "bytes": 16745,
+      "sha256": "775d01b2062fadd02ca9067632dd35da744d2e2d4b1952fa3707ea3e3d0fc6ff"
+    },
+    {
+      "path": "parcel-building-facts/0.json",
+      "bytes": 2472410,
+      "sha256": "6ed073345dceaedc7c15d18e6718758056168a22c35251d980cfa6bf43124399"
+    },
+    {
+      "path": "parcel-building-facts/00.json",
+      "bytes": 85234,
+      "sha256": "6ecf5a36e314f4a9c0bb0d97f99db54bf33cf76112fe28054826be452357de80"
+    },
+    {
+      "path": "parcel-building-facts/01.json",
+      "bytes": 71011,
+      "sha256": "ffcc3449d16645eefbd5dea86717bce198712bd4f621ca7cb98971b826a82d07"
+    },
+    {
+      "path": "parcel-building-facts/02.json",
+      "bytes": 75674,
+      "sha256": "ad2f1b7303265e7a706f0f14063597442fd50a97399096c1ba6f210e0069cdf2"
+    },
+    {
+      "path": "parcel-building-facts/03.json",
+      "bytes": 83648,
+      "sha256": "dd3e1634cff06d2de07a9643758766b143793c8efa0a380358b977c1c7c69f66"
+    },
+    {
+      "path": "parcel-building-facts/04.json",
+      "bytes": 74802,
+      "sha256": "715e0a1b378243be628f18cc42077b79e9b1c2e018049b90bf880608a0ca9140"
+    },
+    {
+      "path": "parcel-building-facts/05.json",
+      "bytes": 70149,
+      "sha256": "01cd8200e05d62c6be5ff2352a98a2d6210c424f54b290f67146216d266150f9"
+    },
+    {
+      "path": "parcel-building-facts/06.json",
+      "bytes": 73450,
+      "sha256": "16e65005106faefd90e7dbeb3d3cfe6031f707ea9e2693331185bce3927d0cf8"
+    },
+    {
+      "path": "parcel-building-facts/07.json",
+      "bytes": 74783,
+      "sha256": "21e4b9376ff2b139c4d69edd0a5ed81abd435efafad7608eeead1a77a2b5fb46"
+    },
+    {
+      "path": "parcel-building-facts/08.json",
+      "bytes": 74401,
+      "sha256": "3b5dfe26f50c253d37e51affcf12d67c143c4e30ff1e9a7009eef3715599618e"
+    },
+    {
+      "path": "parcel-building-facts/09.json",
+      "bytes": 76663,
+      "sha256": "8e2f07caf0c150c8e10c489435f2c54601e9b848c76ab8e00d78dda08c767756"
+    },
+    {
+      "path": "parcel-building-facts/0a.json",
+      "bytes": 78696,
+      "sha256": "2fb018642b17caa80e4df18d6b4a0a517ad06fe807655932643a3952f78c8114"
+    },
+    {
+      "path": "parcel-building-facts/0b.json",
+      "bytes": 73361,
+      "sha256": "ef514e4b845ce16ca9e42bb8f6856304e505fb4e3fc6e79ef4898885328abe39"
+    },
+    {
+      "path": "parcel-building-facts/0c.json",
+      "bytes": 75351,
+      "sha256": "1544e8ed8fd98b162eb6886f50392748f2a22c267ac31897b265079e4eef753d"
+    },
+    {
+      "path": "parcel-building-facts/0d.json",
+      "bytes": 80423,
+      "sha256": "5222296da77109d2efcd732d7dd2f3dfd7bbd7c2ab342c30ad6ec49c4e60f1b4"
+    },
+    {
+      "path": "parcel-building-facts/0e.json",
+      "bytes": 76203,
+      "sha256": "7f0a7363a851ce9712eb57c23ed1d39ef5772645b3ee5aaf2f3900e692533569"
+    },
+    {
+      "path": "parcel-building-facts/0f.json",
+      "bytes": 75683,
+      "sha256": "56b99061746e1c16f63732bfb4db436fbb6190f8b5f5aa0ad24060749ec79718"
+    },
+    {
+      "path": "parcel-building-facts/0g.json",
+      "bytes": 87974,
+      "sha256": "ecf4db8cdae0964e1760b58d419c32a57b2a780a7519aeb89bd2245628fdd360"
+    },
+    {
+      "path": "parcel-building-facts/0h.json",
+      "bytes": 72978,
+      "sha256": "29d2a964300f861aecfa3758241a9634f0edf85fb8dc30ccc1c172abb236bb29"
+    },
+    {
+      "path": "parcel-building-facts/0j.json",
+      "bytes": 78150,
+      "sha256": "dead3ec884d661b974dfe6e0ecd44f7a94442a2e807b4d87084b4f6de98e186f"
+    },
+    {
+      "path": "parcel-building-facts/0k.json",
+      "bytes": 70087,
+      "sha256": "a1a1ff1af4e77bbe0b5d3e5392265d9821797c695d5949927c2a54a680c48e2e"
+    },
+    {
+      "path": "parcel-building-facts/0m.json",
+      "bytes": 90900,
+      "sha256": "96f67af72749fb64736fc0574110daddd1fa773e6075776337e1cab880a03b41"
+    },
+    {
+      "path": "parcel-building-facts/0n.json",
+      "bytes": 80431,
+      "sha256": "78fd44c0c81733d42b57a633b593879830ee87648f9bb7fdd0cb73ebf9dea524"
+    },
+    {
+      "path": "parcel-building-facts/0p.json",
+      "bytes": 85695,
+      "sha256": "b0005da6bfa77ae8637cd0425fc6d4051c728a7ad6f40913046d39edb8f60809"
+    },
+    {
+      "path": "parcel-building-facts/0q.json",
+      "bytes": 86538,
+      "sha256": "e6dd85ab5c865996f672c60a47634958c285fecb602cd882c3c9adf13eb08bdc"
+    },
+    {
+      "path": "parcel-building-facts/0r.json",
+      "bytes": 72514,
+      "sha256": "3a835ffbe041fe649db13ebfbbdf3766503a8907b2813d5c459235c8db8c5ed6"
+    },
+    {
+      "path": "parcel-building-facts/0s.json",
+      "bytes": 86748,
+      "sha256": "9dd198a88eb4ddfd46fd8d9ae184eae77602f4a2b8c70295cb2cf5ac5f333dc8"
+    },
+    {
+      "path": "parcel-building-facts/0t.json",
+      "bytes": 74851,
+      "sha256": "00d3b3d32f80fd741c3dc018ceb2acf59d1ced1e7b25112c290c1d7dbb56cd19"
+    },
+    {
+      "path": "parcel-building-facts/0v.json",
+      "bytes": 77679,
+      "sha256": "9eceec24871f1e6379acd5fe9cc25334b01180db6c1ebf826fb0af672df30e4f"
+    },
+    {
+      "path": "parcel-building-facts/0w.json",
+      "bytes": 61666,
+      "sha256": "e8f3e56d4f5a7773e22bc8c6089508b9d13fe51b071ac009b29ea022af73ae89"
+    },
+    {
+      "path": "parcel-building-facts/0x.json",
+      "bytes": 79984,
+      "sha256": "277a594899c4795edd3ce44e28be9d0bae2fae933fe664c0c5d43ba59f931cbe"
+    },
+    {
+      "path": "parcel-building-facts/0y.json",
+      "bytes": 68308,
+      "sha256": "dbb7ba2f5d05962447223b7089003398667ef90196ae7fe0634dd83cfdf87aba"
+    },
+    {
+      "path": "parcel-building-facts/0z.json",
+      "bytes": 78108,
+      "sha256": "96659d81ba9cdd3d8bd03742581814f47f6989f992bdabeef8e2430c9de3e751"
+    },
+    {
+      "path": "parcel-building-facts/1.json",
+      "bytes": 2398336,
+      "sha256": "c77d09c0f4dad652948a5ebacdf75702bd7091cbfbf7e0ace55306fbec2365c9"
+    },
+    {
+      "path": "parcel-building-facts/10.json",
+      "bytes": 75237,
+      "sha256": "d990b762a190a1972d3d20b2a4f108310d84a577f1c4c98195dfb925c771ae02"
+    },
+    {
+      "path": "parcel-building-facts/11.json",
+      "bytes": 88969,
+      "sha256": "bf61fa493a4dc05e784fca2b810400f7bc8eac5eca2e225862d38d8342c80395"
+    },
+    {
+      "path": "parcel-building-facts/12.json",
+      "bytes": 75283,
+      "sha256": "7a9556e2349456780fd61ec0eee3c2af808f1e8cbd99925794dec127e139a5e0"
+    },
+    {
+      "path": "parcel-building-facts/13.json",
+      "bytes": 93620,
+      "sha256": "89b3d54a56e875f959861eb2bedf1bf1fd71262ce39a9f6a7db033028f63479e"
+    },
+    {
+      "path": "parcel-building-facts/14.json",
+      "bytes": 84266,
+      "sha256": "d6ae028a350cf0e986770be37e32ab17d766da3d1a37b873dded0af100f05381"
+    },
+    {
+      "path": "parcel-building-facts/15.json",
+      "bytes": 88407,
+      "sha256": "603e0ee8022d87e138fa078e0c694cf039c03379646dfc050425cc15a5b0099f"
+    },
+    {
+      "path": "parcel-building-facts/16.json",
+      "bytes": 74866,
+      "sha256": "8a858cf1ef1ac1d200838ab524abd5db416a4d44e909bf5879e846599c61b19f"
+    },
+    {
+      "path": "parcel-building-facts/17.json",
+      "bytes": 69743,
+      "sha256": "e5fa13dc74792050c320ce6b139526d362138aa90d1f129edaeddc6c8ba3d716"
+    },
+    {
+      "path": "parcel-building-facts/18.json",
+      "bytes": 82986,
+      "sha256": "de663ec988dfc9d41504f3b97169fa2edea94121536a4d82479a1eddb0b9a9d7"
+    },
+    {
+      "path": "parcel-building-facts/19.json",
+      "bytes": 78184,
+      "sha256": "bf669cc5ec880b2151861f9c89e7b15f0efa7188451d40499832e294a99cbd63"
+    },
+    {
+      "path": "parcel-building-facts/1a.json",
+      "bytes": 82836,
+      "sha256": "06a2508430b026d3e752160af2cd7c17ec8c6c8639d71769330a9abdb49c3712"
+    },
+    {
+      "path": "parcel-building-facts/1b.json",
+      "bytes": 73850,
+      "sha256": "519928b2688bf4aa3e4e3f008c5fe41c1bea858dd0834430bcaea4d3cfb60a3a"
+    },
+    {
+      "path": "parcel-building-facts/1c.json",
+      "bytes": 69664,
+      "sha256": "87b376c813cbc67a5c1c5c9cf1fb8f55335ea12333433d91a2b3a12656041d40"
+    },
+    {
+      "path": "parcel-building-facts/1d.json",
+      "bytes": 79427,
+      "sha256": "f522257956c6c7ae65bd8d1d2931d0f6c58330eaf50ac2bddf7311b9675a7b62"
+    },
+    {
+      "path": "parcel-building-facts/1e.json",
+      "bytes": 73963,
+      "sha256": "c83761c922451ac19c66e5aaa9178b8cc8dfa4ac9a09b061e7aef9bb15a65f8f"
+    },
+    {
+      "path": "parcel-building-facts/1f.json",
+      "bytes": 94060,
+      "sha256": "fa93d476e09ec6e8e72c2e01c66e858fe24c918359010ebe71d5f246e71a7c23"
+    },
+    {
+      "path": "parcel-building-facts/1g.json",
+      "bytes": 88931,
+      "sha256": "30ed8a210c9806340e127a9de3c221a2373d8baf80596cffb4f8ed6fb8f8f146"
+    },
+    {
+      "path": "parcel-building-facts/1h.json",
+      "bytes": 73369,
+      "sha256": "5833317a3d3945e8a001b6fdfc844ca389fb8a6c0b26d8d23348768ab64207aa"
+    },
+    {
+      "path": "parcel-building-facts/1j.json",
+      "bytes": 85687,
+      "sha256": "b1b2240a21532595addced46fddd4eec17f1c2f7babbb35be4272e24baa83ba5"
+    },
+    {
+      "path": "parcel-building-facts/1k.json",
+      "bytes": 79589,
+      "sha256": "72c36565090815219dc5d634bc9de302a72d9143a825913c1cb59669a1094aeb"
+    },
+    {
+      "path": "parcel-building-facts/1m.json",
+      "bytes": 76730,
+      "sha256": "ac700386a0afaa706cf90f6366619a50b35ec2d8de22f1e0afa823941d7579b8"
+    },
+    {
+      "path": "parcel-building-facts/1n.json",
+      "bytes": 80038,
+      "sha256": "09416a7f419278558b47de5df329c7727b49b5a99393d50c3277a42f95fdfe73"
+    },
+    {
+      "path": "parcel-building-facts/1p.json",
+      "bytes": 76239,
+      "sha256": "fb465d6972c03c61dbe165f6b08e7ed6ab2fd4c691a61c70e51e28af346e7828"
+    },
+    {
+      "path": "parcel-building-facts/1q.json",
+      "bytes": 78604,
+      "sha256": "e5f679a26e5edd06bd7a2738979199cb4fb370d57c882ee3128be27a31dc4e4f"
+    },
+    {
+      "path": "parcel-building-facts/1r.json",
+      "bytes": 86089,
+      "sha256": "a0987551714dfb5be20a01c38538c03d8c48bde37c5e852f8ba950b3607da0c2"
+    },
+    {
+      "path": "parcel-building-facts/1s.json",
+      "bytes": 66738,
+      "sha256": "75daa7113c0df8c5d6317abd9d2884836daa559748c20b7b4b1759e709a3ddc4"
+    },
+    {
+      "path": "parcel-building-facts/1t.json",
+      "bytes": 72525,
+      "sha256": "7a99f71f9e6bec8099ecba7f9ec2fe37a2a5e45dfb50bb191e18094ffd54030e"
+    },
+    {
+      "path": "parcel-building-facts/1v.json",
+      "bytes": 79592,
+      "sha256": "205480cd689da2a7d5ad31ee46a2103ecb9f545e06388caf2efb625cac8261e7"
+    },
+    {
+      "path": "parcel-building-facts/1w.json",
+      "bytes": 85548,
+      "sha256": "82f63788dcf9cc170a2631ebdab2777ec06ccab019d83393ecc18943fc007751"
+    },
+    {
+      "path": "parcel-building-facts/1x.json",
+      "bytes": 84745,
+      "sha256": "565c9aa198d162ee5e096088254e30d35a7bdb892b8773e4b1a6e0142bb0d84c"
+    },
+    {
+      "path": "parcel-building-facts/1y.json",
+      "bytes": 68713,
+      "sha256": "b5d62b4191b887ad76c51a958978871c3696bd077f6b578055e5692998e07b6c"
+    },
+    {
+      "path": "parcel-building-facts/1z.json",
+      "bytes": 78598,
+      "sha256": "8b5b50b84e893210485b06bfedf54162a60b008d930be44838afe3216e4f35bd"
+    },
+    {
+      "path": "parcel-building-facts/2.json",
+      "bytes": 2447107,
+      "sha256": "13af7cbf816c8ef717b0434d119c6bf5b206a985d7040613edb8e474ad3dc891"
+    },
+    {
+      "path": "parcel-building-facts/20.json",
+      "bytes": 75346,
+      "sha256": "c6f6f0db728ffc2c0e44bb88cc40521c8876504a36655c76d7531bd47ec9891c"
+    },
+    {
+      "path": "parcel-building-facts/21.json",
+      "bytes": 75869,
+      "sha256": "5d9922ce767c562e0b1a285f78dceb601d75f92f951c4341d3d4d51fe562a48c"
+    },
+    {
+      "path": "parcel-building-facts/22.json",
+      "bytes": 80075,
+      "sha256": "3eed7016efa1111505163eb47fd4c334f4a934456fc3d49353390136368b6be2"
+    },
+    {
+      "path": "parcel-building-facts/23.json",
+      "bytes": 92196,
+      "sha256": "eca02b4e8e51b99641ed2494e8701bf0a4e35d8c2c84297169241bf0e5d366f1"
+    },
+    {
+      "path": "parcel-building-facts/24.json",
+      "bytes": 74795,
+      "sha256": "37d3cb4bca84dc0400ede1a9f05d46938f738cde12cf4b40d88061f16d7f36ea"
+    },
+    {
+      "path": "parcel-building-facts/25.json",
+      "bytes": 78641,
+      "sha256": "16f9d08279d740d3bc4814dfbe4a2c25169bf1449802ca0629e08c9d46460169"
+    },
+    {
+      "path": "parcel-building-facts/26.json",
+      "bytes": 76629,
+      "sha256": "95eb930f84cd3bbfb1483b1bda706df78153b6f09c97b43d20b8a95ddea4ee05"
+    },
+    {
+      "path": "parcel-building-facts/27.json",
+      "bytes": 77660,
+      "sha256": "c65ef3ebfd2ed87b48f97f500bb96d5fa515c1764590720a809d9209d3dd8034"
+    },
+    {
+      "path": "parcel-building-facts/28.json",
+      "bytes": 71516,
+      "sha256": "b7335bbbef6f394eba7271a290b8dc4a3497275825aaffc07e0a02bda7786d5f"
+    },
+    {
+      "path": "parcel-building-facts/29.json",
+      "bytes": 64948,
+      "sha256": "aa3e5394dbc09c9d2c72c583d320fc6d5ea43c8bf6f535e00b0bdc906fe3534a"
+    },
+    {
+      "path": "parcel-building-facts/2a.json",
+      "bytes": 68786,
+      "sha256": "3d350c3c06f9b43f9869d89cdd05363df9360f7b637d2e0377614bb2915d81f6"
+    },
+    {
+      "path": "parcel-building-facts/2b.json",
+      "bytes": 71145,
+      "sha256": "e41ec25126503155c2529d0300de474560a8db765541d56b36c7092e0e38bac5"
+    },
+    {
+      "path": "parcel-building-facts/2c.json",
+      "bytes": 72486,
+      "sha256": "c85c1dc171fa1d961d3e16f14c4d50976e5f4ab4c4ca6c1c1997dea0304b489a"
+    },
+    {
+      "path": "parcel-building-facts/2d.json",
+      "bytes": 76210,
+      "sha256": "3113cf6d723feb8e6f2f32fbd868db27b188efd769893e07fa55b3c81edf7590"
+    },
+    {
+      "path": "parcel-building-facts/2e.json",
+      "bytes": 81074,
+      "sha256": "452ee7eecfb68c859049b997dce4be049629f20b2e9362823d5c29dd58b32fe5"
+    },
+    {
+      "path": "parcel-building-facts/2f.json",
+      "bytes": 69254,
+      "sha256": "5d53c0ea7ee1851752ee6718625f5ca759aa9eee8a768620728927a8d2c4020f"
+    },
+    {
+      "path": "parcel-building-facts/2g.json",
+      "bytes": 81019,
+      "sha256": "deeac2a53c07d236d100c8985248d4a43b02c84bff4fbade1dfb39d75a8d0ef7"
+    },
+    {
+      "path": "parcel-building-facts/2h.json",
+      "bytes": 79536,
+      "sha256": "d67ceca4d31307856e0fdb095396b0c891b573dbb902cada8217de7fc1671ed8"
+    },
+    {
+      "path": "parcel-building-facts/2j.json",
+      "bytes": 78681,
+      "sha256": "e1e7d3e2a971b71c721d99186df30948a1bfb464675bab6b268cadc9320b6d18"
+    },
+    {
+      "path": "parcel-building-facts/2k.json",
+      "bytes": 82401,
+      "sha256": "68452bdd7ac1551304d67f4a1db3c1836c1ab9072ebf5cb1266f4a3a50a604f8"
+    },
+    {
+      "path": "parcel-building-facts/2m.json",
+      "bytes": 77319,
+      "sha256": "9c772c5728d2ae0e131682c3e25a7e4b4b7dca4b4364eebd990b09ce3047e540"
+    },
+    {
+      "path": "parcel-building-facts/2n.json",
+      "bytes": 86156,
+      "sha256": "0ce8e4a69c7b7949f04760e40a9b87d2ca17c65e6fe00ae6cdb3881afae2221e"
+    },
+    {
+      "path": "parcel-building-facts/2p.json",
+      "bytes": 77648,
+      "sha256": "1c3e94b465f213b31ed1aa47df3d6fac33b0c6802041a06b2743eb986e552429"
+    },
+    {
+      "path": "parcel-building-facts/2q.json",
+      "bytes": 70668,
+      "sha256": "c542cfb8884a0856d7ed6723963cdb37019ddcfa0bec9ed8f3413b9d0d868edf"
+    },
+    {
+      "path": "parcel-building-facts/2r.json",
+      "bytes": 82306,
+      "sha256": "de1042a15c5c1dc6e1892ff07e0495b9cf6b774644bd2654714b0cb55dad772a"
+    },
+    {
+      "path": "parcel-building-facts/2s.json",
+      "bytes": 75371,
+      "sha256": "693bfb015cc08abaa0ec58ab6854972262708e35e999ed76cda84e5fc09dcf76"
+    },
+    {
+      "path": "parcel-building-facts/2t.json",
+      "bytes": 67713,
+      "sha256": "5cb20636b13592da597ad09894b7e42001612d183d87b16079985bbc5e7c63e5"
+    },
+    {
+      "path": "parcel-building-facts/2v.json",
+      "bytes": 80512,
+      "sha256": "009461759be4b55c11080e8f9e654ffe1090610fe8746981972c5757fa838be5"
+    },
+    {
+      "path": "parcel-building-facts/2w.json",
+      "bytes": 68748,
+      "sha256": "380dfcaab8254756e8919ba292872a7ff7a1b76c4c33e741d1f07e15cb24de32"
+    },
+    {
+      "path": "parcel-building-facts/2x.json",
+      "bytes": 71022,
+      "sha256": "3ce9f8f84caceebc2bbab3371b20800c36636dcf40168e8a2452949bf9d84cf4"
+    },
+    {
+      "path": "parcel-building-facts/2y.json",
+      "bytes": 85184,
+      "sha256": "788caad1448a17d4da6b7fd61340f96566afff5f5bc11a9a5d90d1292317be62"
+    },
+    {
+      "path": "parcel-building-facts/2z.json",
+      "bytes": 82343,
+      "sha256": "66a94279c14be7ddc2819a202a2c1638a729c5ed517c5b1f62645139da9e99aa"
+    },
+    {
+      "path": "parcel-building-facts/3.json",
+      "bytes": 2523525,
+      "sha256": "4d0f297b2bedc94cf2fafa55cb64001eabbaee1dbe8559b7c6f6e13a6c657e57"
+    },
+    {
+      "path": "parcel-building-facts/30.json",
+      "bytes": 76182,
+      "sha256": "cc6db92e63100bcae869ebc6c4d9fe206002c42c752a37eaae31063fbc184d76"
+    },
+    {
+      "path": "parcel-building-facts/31.json",
+      "bytes": 82781,
+      "sha256": "fa1af61a69516a47cd4b781f1eb83bc49a66b8fb4a5b8eff55e1ec10882ec289"
+    },
+    {
+      "path": "parcel-building-facts/32.json",
+      "bytes": 81496,
+      "sha256": "b4bc0751ba4c02e2ec450e0b2622d4e78e8cfc727d92321b447ae22dce8cc8da"
+    },
+    {
+      "path": "parcel-building-facts/33.json",
+      "bytes": 75810,
+      "sha256": "ef870af6554d6d148e4ca57142c4d5af8c7df98f8f743bab0c174def5a21ba9c"
+    },
+    {
+      "path": "parcel-building-facts/34.json",
+      "bytes": 82299,
+      "sha256": "f9984a155ff55c5395b2e760e27e5d6d65b67e8fe623992cc17e39e7e96b78b4"
+    },
+    {
+      "path": "parcel-building-facts/35.json",
+      "bytes": 72838,
+      "sha256": "b95efdbcbc4ed7a1970dcca4a3e002e9ed673ab6e8a8543a1fca58ac646b623a"
+    },
+    {
+      "path": "parcel-building-facts/36.json",
+      "bytes": 74879,
+      "sha256": "5d287975dd3f07294230e0a3c4f1dbf70ebca21b0cf12665d87168f45f744f4e"
+    },
+    {
+      "path": "parcel-building-facts/37.json",
+      "bytes": 62106,
+      "sha256": "5c258a9ada2e9c2e3285d27b66a7f58c3ea486344c55c90006345a4d2d0eb2df"
+    },
+    {
+      "path": "parcel-building-facts/38.json",
+      "bytes": 82353,
+      "sha256": "56afccacb15bd832f0b3a6b8819f63707ae4d47679528c5b9c29ab68db70167b"
+    },
+    {
+      "path": "parcel-building-facts/39.json",
+      "bytes": 76300,
+      "sha256": "49afdfe1e0d78a0e70d5503cd039bcc0cf5f04bdcd554359c741e2fde9a431be"
+    },
+    {
+      "path": "parcel-building-facts/3a.json",
+      "bytes": 72553,
+      "sha256": "243f0314ba2c301eb45a82453c15f5efb25c8360a6195116d46a2b251a2c22b5"
+    },
+    {
+      "path": "parcel-building-facts/3b.json",
+      "bytes": 70671,
+      "sha256": "3bd08e88f99cf797aa6fc82abcf77506b0e91266b654514bf4f079dbe3afefd0"
+    },
+    {
+      "path": "parcel-building-facts/3c.json",
+      "bytes": 79556,
+      "sha256": "c5886766c48f883969be66f454da6536dac5cd9a741e564e4a761f6331fcfc75"
+    },
+    {
+      "path": "parcel-building-facts/3d.json",
+      "bytes": 72458,
+      "sha256": "e0a74aa7a59f12d4b9fbbf56b77c9ec4c6484b6cac2a67ef54fd2d5530d38db5"
+    },
+    {
+      "path": "parcel-building-facts/3e.json",
+      "bytes": 78541,
+      "sha256": "b222b7fc3ea054c53c92af31ee959cc769cf6d630e311c541a41a1676cf7ef58"
+    },
+    {
+      "path": "parcel-building-facts/3f.json",
+      "bytes": 62090,
+      "sha256": "a404c079a1522ca4b0bf430adfffd752948a85b5b46bfc19e13937efd7c85aa9"
+    },
+    {
+      "path": "parcel-building-facts/3g.json",
+      "bytes": 77125,
+      "sha256": "c5a0a478030e6bb9e1313ebcdce4c75926604a64cd13e99244e31f96f95866ef"
+    },
+    {
+      "path": "parcel-building-facts/3h.json",
+      "bytes": 70211,
+      "sha256": "5e61b20fa969b3f40c83090b0358d677f0a4eabd6411fcb41af44149c1dd9bc6"
+    },
+    {
+      "path": "parcel-building-facts/3j.json",
+      "bytes": 83791,
+      "sha256": "6c6464270eecf89e27c51391a55e8fd9732516bc17f102bc3094fd4a0a03a3a0"
+    },
+    {
+      "path": "parcel-building-facts/3k.json",
+      "bytes": 75283,
+      "sha256": "92c4d6ca3b56c13c8ee3f8c71e90bf189116ef69c14c0a27d4f5bbd6ba65abe0"
+    },
+    {
+      "path": "parcel-building-facts/3m.json",
+      "bytes": 84264,
+      "sha256": "055e207e183595b6f807d2e8af4e732961400cdfe5b120fe9b6f626274214add"
+    },
+    {
+      "path": "parcel-building-facts/3n.json",
+      "bytes": 72617,
+      "sha256": "e5dd90d2557440d79bfa9c20709991e05878f56e1dda18b4dd0455a8903a59cb"
+    },
+    {
+      "path": "parcel-building-facts/3p.json",
+      "bytes": 82265,
+      "sha256": "59f9bbb5e4d769efd47000831c3666435b61fc8f5480c6b3d318ed6f40c58605"
+    },
+    {
+      "path": "parcel-building-facts/3q.json",
+      "bytes": 76733,
+      "sha256": "0321da0d4701ff80380d9f260045f17bb81b457fcc6e92d03cf75cd9e46cba57"
+    },
+    {
+      "path": "parcel-building-facts/3r.json",
+      "bytes": 81772,
+      "sha256": "bc06eb4fa9e37b3e624417f45bc7b72aed53f1d109d6a45620ab2cc2a443cd22"
+    },
+    {
+      "path": "parcel-building-facts/3s.json",
+      "bytes": 82810,
+      "sha256": "04810d287a02ec30ed7c7d745571f14bfb978cc8e079ee5dce1be4025a1dd521"
+    },
+    {
+      "path": "parcel-building-facts/3t.json",
+      "bytes": 76750,
+      "sha256": "9a6b9056148a33a666330ad117c8276855506f79e95d08701f60073831495483"
+    },
+    {
+      "path": "parcel-building-facts/3v.json",
+      "bytes": 84184,
+      "sha256": "e17427fd3d97fc126bbf6f32966584b63db836f1169a8accb12b647b2f1b10cd"
+    },
+    {
+      "path": "parcel-building-facts/3w.json",
+      "bytes": 74898,
+      "sha256": "b0a73277c4cce462d85976b2c473a86cb0f6e013b00d033ecd4bc474e48cf35f"
+    },
+    {
+      "path": "parcel-building-facts/3x.json",
+      "bytes": 75744,
+      "sha256": "7ec05c2bd34f0b4a131cb07854c7cc60303354eae7b7e17a8ebdb97667d2577e"
+    },
+    {
+      "path": "parcel-building-facts/3y.json",
+      "bytes": 88859,
+      "sha256": "61ced3e23b9de1961cbdb45a3bc70d0917fed5006d9587665b50849d8a3a20b3"
+    },
+    {
+      "path": "parcel-building-facts/3z.json",
+      "bytes": 70072,
+      "sha256": "24fc1e8e26fabfa8e9be215f729a4d4386e01f0577d53d46140499fbd5daf6c5"
+    },
+    {
+      "path": "parcel-building-facts/4.json",
+      "bytes": 2447831,
+      "sha256": "fb79c4b8dad4ff5729f78943ab3af19b90a93c64922e015d35dda5363c98dd1c"
+    },
+    {
+      "path": "parcel-building-facts/40.json",
+      "bytes": 78045,
+      "sha256": "00717c42346d2665e88be573115b9d191013039dd06b8c2246c4d7eca1eef6cf"
+    },
+    {
+      "path": "parcel-building-facts/41.json",
+      "bytes": 82340,
+      "sha256": "e3506e9ab5bcbc7d51d4f6d54ea2bde0bbacec182be6e12eea7ed8368b68c175"
+    },
+    {
+      "path": "parcel-building-facts/42.json",
+      "bytes": 80131,
+      "sha256": "a6d609d69c1160921c2377571b701ea561740d12c5df26c5f6ece5d3cb6e4afb"
+    },
+    {
+      "path": "parcel-building-facts/43.json",
+      "bytes": 67369,
+      "sha256": "3ba11f23387ad800d6893cd2259d8d684394c6f2ddb8253092c5bd77167ff134"
+    },
+    {
+      "path": "parcel-building-facts/44.json",
+      "bytes": 79492,
+      "sha256": "510e3654bda984ef70d41ebfd5086094d4c185f8a282c3e01af80d3a6888d36e"
+    },
+    {
+      "path": "parcel-building-facts/45.json",
+      "bytes": 82837,
+      "sha256": "9f8b1439a473226081c2d609bc6c18a096510c6bc69e68e593f026861414e6e0"
+    },
+    {
+      "path": "parcel-building-facts/46.json",
+      "bytes": 84212,
+      "sha256": "eb91b8c88962f9d719169881b8a1dd08105ee7dda14588c1ff2a3fc9fd51fc16"
+    },
+    {
+      "path": "parcel-building-facts/47.json",
+      "bytes": 70550,
+      "sha256": "8ae3209cde30a02de6df98db8b633e00af2c9608c19d76bd8e2d85e7fe9e83c2"
+    },
+    {
+      "path": "parcel-building-facts/48.json",
+      "bytes": 68157,
+      "sha256": "b4da7bd48464bd96fb44582cd43e7d184284862e0a32e63fe36ed39c1dc77ee8"
+    },
+    {
+      "path": "parcel-building-facts/49.json",
+      "bytes": 80536,
+      "sha256": "cf7760134128e43e31a378bc9e7a0d26e4bc0660a43dce7c092c8a420f817b36"
+    },
+    {
+      "path": "parcel-building-facts/4a.json",
+      "bytes": 80923,
+      "sha256": "2edcaae3c1c8e87af2251706f47842161b86bbe21039953fe4e4b4055acfda78"
+    },
+    {
+      "path": "parcel-building-facts/4b.json",
+      "bytes": 89314,
+      "sha256": "9809d5535544c77f1e8352aa9d8f51dca23d112d300082739d31f5fbbffa63e8"
+    },
+    {
+      "path": "parcel-building-facts/4c.json",
+      "bytes": 82863,
+      "sha256": "42bf44f0da9351e421ed1d30af9d815c2da6d0ad88d766bbe9c20df9144275d0"
+    },
+    {
+      "path": "parcel-building-facts/4d.json",
+      "bytes": 77758,
+      "sha256": "25c808c3139cb4636999055a850923695f6c0e7682ad503c4b0c32cdb8a094b6"
+    },
+    {
+      "path": "parcel-building-facts/4e.json",
+      "bytes": 83713,
+      "sha256": "ff0fd3ab1da79e20bc5789800525a6d3992ed37431deaba6ea1172a7930f299e"
+    },
+    {
+      "path": "parcel-building-facts/4f.json",
+      "bytes": 73814,
+      "sha256": "8a4b95af6a50524059d2fa96783d0036ba5b3aa77f46c8bfcd607f07b457c40f"
+    },
+    {
+      "path": "parcel-building-facts/4g.json",
+      "bytes": 70591,
+      "sha256": "6d49f4847ffe7bf970d01ab0beb32f31237fe6b2ebc335d2c49107accf7a1896"
+    },
+    {
+      "path": "parcel-building-facts/4h.json",
+      "bytes": 83260,
+      "sha256": "1c9b40ef83aa91de769464f25e509b19dd8ae7d2411c76cf5320a4440deaaa00"
+    },
+    {
+      "path": "parcel-building-facts/4j.json",
+      "bytes": 71539,
+      "sha256": "878fc268d8fd6264b540b246e763b0ef57f694713b344d94d3462e9eca7749d6"
+    },
+    {
+      "path": "parcel-building-facts/4k.json",
+      "bytes": 85663,
+      "sha256": "b74a5d4460b2bdfe169a1a0c9997c6ebfdfc067e6d765559d298cc6883247175"
+    },
+    {
+      "path": "parcel-building-facts/4m.json",
+      "bytes": 80053,
+      "sha256": "7a98a964ee636c56b23ea532acc5022b1d3ccf25791d58b7cf3261b191a72540"
+    },
+    {
+      "path": "parcel-building-facts/4n.json",
+      "bytes": 87633,
+      "sha256": "ac11822e923baf1d738c39113fcb5d0df72976b8d88830f2e3b85c2789a2f6b9"
+    },
+    {
+      "path": "parcel-building-facts/4p.json",
+      "bytes": 77178,
+      "sha256": "370d8db76802d4feaf037b339feb7303c6ebe1ee815f6fd13cf9bcae1cbf8152"
+    },
+    {
+      "path": "parcel-building-facts/4q.json",
+      "bytes": 87124,
+      "sha256": "80f5ad23524e55fa0d0aed12c6a1fcfecc4f6dd9626b436f3cd215a7a1aebbfe"
+    },
+    {
+      "path": "parcel-building-facts/4r.json",
+      "bytes": 76747,
+      "sha256": "8e6f2fece48485522b49d19ae11103c76807e863016295f00ba0f4489ddf890e"
+    },
+    {
+      "path": "parcel-building-facts/4s.json",
+      "bytes": 83403,
+      "sha256": "8fc6cef2fbde45bdad2b77dec5f031ebd6b7a155b27bd2c2b6c9e76004aba38e"
+    },
+    {
+      "path": "parcel-building-facts/4t.json",
+      "bytes": 72783,
+      "sha256": "f4b8f898636ceb691d13e141e74590bbb6dbf796f647a8420a10bb8dc13279f0"
+    },
+    {
+      "path": "parcel-building-facts/4v.json",
+      "bytes": 69719,
+      "sha256": "15b37fd175c172cdc2555be0b6f4f546a4334e5e08920a1f31a0970533acc6ff"
+    },
+    {
+      "path": "parcel-building-facts/4w.json",
+      "bytes": 83372,
+      "sha256": "094d2faa040fde991d9d2dbbd40280ed72cdb0d85706f73e2e42fc9676bbb5f6"
+    },
+    {
+      "path": "parcel-building-facts/4x.json",
+      "bytes": 71945,
+      "sha256": "9cf8d8f86b0012e82e7ee651d5ce6dd009eaabd3b70c909bff863cd81288ceae"
+    },
+    {
+      "path": "parcel-building-facts/4y.json",
+      "bytes": 75776,
+      "sha256": "913e43ef9318bdf62265a1e748342dbb17cbb367d117a6ef7f3e6897b681d40d"
+    },
+    {
+      "path": "parcel-building-facts/4z.json",
+      "bytes": 76767,
+      "sha256": "0054ac4b1fa1c35df8ebe22347a94107b5b8fe92a9e3ec28af5e92219e28b139"
+    },
+    {
+      "path": "parcel-building-facts/5.json",
+      "bytes": 2457532,
+      "sha256": "f8ad91f97baf7b1131c83144850588cfbe1f75a6a9153f270ac3a2bd6467683e"
+    },
+    {
+      "path": "parcel-building-facts/50.json",
+      "bytes": 76330,
+      "sha256": "f5c112df4899e1421b25178c8abc607caed5c6c0b196ad8796dbf65d6222d5e5"
+    },
+    {
+      "path": "parcel-building-facts/51.json",
+      "bytes": 75654,
+      "sha256": "4fd64f8bf937819901f694fe72f73cb172a25395f01629177113eca7c38a0fc1"
+    },
+    {
+      "path": "parcel-building-facts/52.json",
+      "bytes": 79629,
+      "sha256": "93f267a298191fb62fe110e5b50ebc7b6fa597a382643d43d05f26e905a6a68d"
+    },
+    {
+      "path": "parcel-building-facts/53.json",
+      "bytes": 68245,
+      "sha256": "ba663b106002e5e494139e20513371d17b6afe8fbe1c8246e8c70cbb03fe369d"
+    },
+    {
+      "path": "parcel-building-facts/54.json",
+      "bytes": 66305,
+      "sha256": "677c7d25b0d2efe96a4ab12a935c796c2be45057b73a1fe18c6ad1a214e7aadb"
+    },
+    {
+      "path": "parcel-building-facts/55.json",
+      "bytes": 79117,
+      "sha256": "6efd4c1802aaece23c0a8b1b5aaf6e79e46cbb7d234f8f8aa00cc9a9d9e9ca72"
+    },
+    {
+      "path": "parcel-building-facts/56.json",
+      "bytes": 71471,
+      "sha256": "0de66933cb401b8e5efe6867dc4dd82463d46925f207c6c1db363e6a5542b097"
+    },
+    {
+      "path": "parcel-building-facts/57.json",
+      "bytes": 78654,
+      "sha256": "f43b119ad4fac3339ea0256d4591a1df1131b1b69d5eef13ebb725212618fe62"
+    },
+    {
+      "path": "parcel-building-facts/58.json",
+      "bytes": 77227,
+      "sha256": "1d15b16ee0c5d8771c28683ab624dea396cf17f375d9a11ed9a549090df517d6"
+    },
+    {
+      "path": "parcel-building-facts/59.json",
+      "bytes": 80080,
+      "sha256": "f336c819b121093bf4033c88cfc7c064223b7b85e6998b66697c6d9aa37a7feb"
+    },
+    {
+      "path": "parcel-building-facts/5a.json",
+      "bytes": 68749,
+      "sha256": "8f6afa5cc654c97ef4143279b312f347172d9eb3be90cb6f6777d5edc0348139"
+    },
+    {
+      "path": "parcel-building-facts/5b.json",
+      "bytes": 69172,
+      "sha256": "2981e536013d66e6bbb43cbcd3e0a3a71b8b819d6cea6cf304c445cb8d65f269"
+    },
+    {
+      "path": "parcel-building-facts/5c.json",
+      "bytes": 75143,
+      "sha256": "385530a04ff2da60990332f969b42df2df6235fa1cd46f3cf9a618f47407a727"
+    },
+    {
+      "path": "parcel-building-facts/5d.json",
+      "bytes": 75726,
+      "sha256": "4af9d9739c7e4b8679971112412598382528344495e4fe56a23c3f2637aebb47"
+    },
+    {
+      "path": "parcel-building-facts/5e.json",
+      "bytes": 76756,
+      "sha256": "472a51a095ccf6f179d8a87d9f06ef709ae9d2cdf3e2e5117f7d857b118ec51a"
+    },
+    {
+      "path": "parcel-building-facts/5f.json",
+      "bytes": 78562,
+      "sha256": "6385b21a2bef80739f7cddf33087ef5c6fd176111ce9b3133e0cddbe7a8a893d"
+    },
+    {
+      "path": "parcel-building-facts/5g.json",
+      "bytes": 75319,
+      "sha256": "f31a95899a23f0af65c782712aae54ea549567752dc53a7a6a58a3c93da57400"
+    },
+    {
+      "path": "parcel-building-facts/5h.json",
+      "bytes": 68737,
+      "sha256": "096f3469525268c20c1d6ace7be224442cc7af8abe7a5e44f50d98c2d1cbf88b"
+    },
+    {
+      "path": "parcel-building-facts/5j.json",
+      "bytes": 79938,
+      "sha256": "91de65162375289ba0f34a93a7450349588fd74f3689cac0cd4f8c0909eed8f1"
+    },
+    {
+      "path": "parcel-building-facts/5k.json",
+      "bytes": 77698,
+      "sha256": "6d2baabc43a1ac815ff86a45ae01787fcd08b6cffb48e734bf4b55dab862a118"
+    },
+    {
+      "path": "parcel-building-facts/5m.json",
+      "bytes": 74832,
+      "sha256": "338360f2e7ffdb5a96adf440965f2e833b00612087d0c15f2baaacdae60ef3c5"
+    },
+    {
+      "path": "parcel-building-facts/5n.json",
+      "bytes": 88120,
+      "sha256": "9f912f3037b877630ef84f2698f0f78f99944e72800ceb444a7c8bd6322ede41"
+    },
+    {
+      "path": "parcel-building-facts/5p.json",
+      "bytes": 75816,
+      "sha256": "2462a53078a7a31b4ab161197dfd17b8d0b8b21cf48b9e34b487b230ac82fa59"
+    },
+    {
+      "path": "parcel-building-facts/5q.json",
+      "bytes": 73853,
+      "sha256": "9a722e89f502b62428a511ec38312b9998d1b6d7065cc3e6c2788a2b57a02da3"
+    },
+    {
+      "path": "parcel-building-facts/5r.json",
+      "bytes": 77234,
+      "sha256": "7fb56b498ff2063e57d983e098f74cf1f01088d35948014cdda8f9056cf26386"
+    },
+    {
+      "path": "parcel-building-facts/5s.json",
+      "bytes": 84315,
+      "sha256": "2ef7fc6182f3d920f8452e8e71821d5b7f688f3016d000bd38646b3a3942fb06"
+    },
+    {
+      "path": "parcel-building-facts/5t.json",
+      "bytes": 72961,
+      "sha256": "acf52dc3fd65e7193faa081808cd910970f84cb69a8ffe2f8c0adcf7061da523"
+    },
+    {
+      "path": "parcel-building-facts/5v.json",
+      "bytes": 79043,
+      "sha256": "b37efc232856253618a998e4edfecc6899c0b4a50c5545b96715f9af127ec94e"
+    },
+    {
+      "path": "parcel-building-facts/5w.json",
+      "bytes": 80544,
+      "sha256": "b817a260a6b4011e7d0c852714e5e431b2ef89e132a703bbcef151b1bb6a73ae"
+    },
+    {
+      "path": "parcel-building-facts/5x.json",
+      "bytes": 69657,
+      "sha256": "af4f03d4d04f53ed2b70955ac3781440cf56fb97d1d5a740ac8720b362b75f5e"
+    },
+    {
+      "path": "parcel-building-facts/5y.json",
+      "bytes": 76259,
+      "sha256": "cbd98f7d3da69f48a3acca0c295f11e5d550dcf319a12c046424dbb4dae8e435"
+    },
+    {
+      "path": "parcel-building-facts/5z.json",
+      "bytes": 78154,
+      "sha256": "81dbd198291376f90521418f3a15f361442034a3e30257dd0686693187a4f142"
+    },
+    {
+      "path": "parcel-building-facts/6.json",
+      "bytes": 2438509,
+      "sha256": "0eb820ce63aab0410cdaec87bc7c02f6c166a0dd6a0070647d7196fc6c51016f"
+    },
+    {
+      "path": "parcel-building-facts/60.json",
+      "bytes": 83405,
+      "sha256": "3030f9cbe42c992f124ca9f9b860a7093457d05acb5650e6a8da6acf91e5c84e"
+    },
+    {
+      "path": "parcel-building-facts/61.json",
+      "bytes": 68761,
+      "sha256": "9f28c46fb63fb15f669f15fa6ce4d53d5de60a7694ed09f41b59b04b2277c8e4"
+    },
+    {
+      "path": "parcel-building-facts/62.json",
+      "bytes": 73598,
+      "sha256": "7f6ef9e615d183955e1ec89c392749e228e98940e1680e63fe3a39cd823ac13e"
+    },
+    {
+      "path": "parcel-building-facts/63.json",
+      "bytes": 87578,
+      "sha256": "5d03e440df623eafb4dad8f96ed0c5b47129ed3a60eb0c3652352bc2ff4a43ef"
+    },
+    {
+      "path": "parcel-building-facts/64.json",
+      "bytes": 69644,
+      "sha256": "d46ea909a6b70da68273be77e991e0eb3aa480e8197e7225f36c7f0c744a1382"
+    },
+    {
+      "path": "parcel-building-facts/65.json",
+      "bytes": 76124,
+      "sha256": "ac243ae3ddd320329d3737d258829d6a81a266e38228dc3e950db398c84c889d"
+    },
+    {
+      "path": "parcel-building-facts/66.json",
+      "bytes": 85787,
+      "sha256": "9b9a5b0fa0d8a42e8dadf1f5371ddeb454e1c02aa86c10a96d63c0c5f36b79a4"
+    },
+    {
+      "path": "parcel-building-facts/67.json",
+      "bytes": 70039,
+      "sha256": "41bdc0fca2fd8b4386db627abcaefac1e11ec07d0a7359ff08ab402603e2a80b"
+    },
+    {
+      "path": "parcel-building-facts/68.json",
+      "bytes": 71513,
+      "sha256": "20664faaa38c95fc9d985d67394d9c96f61b897ddbc293f84d3cdf91b0ff9551"
+    },
+    {
+      "path": "parcel-building-facts/69.json",
+      "bytes": 77678,
+      "sha256": "2ffa824124ed07a9f674c60469efb31eac6419131e01a269a6f00771841b48f8"
+    },
+    {
+      "path": "parcel-building-facts/6a.json",
+      "bytes": 71133,
+      "sha256": "075690e4e7e4c19106a7443ad7f9cb630add3e11c209d781f6ed90f79d8d6584"
+    },
+    {
+      "path": "parcel-building-facts/6b.json",
+      "bytes": 72928,
+      "sha256": "6d0f7af5c85a25ebe7aa33f5042eb951ef78b3f39a07511c943086d7e0c27bda"
+    },
+    {
+      "path": "parcel-building-facts/6c.json",
+      "bytes": 74402,
+      "sha256": "cf976679724244629f01b879fd5d1f56bb9a4c8b2cb9c970d9425b7de6e73112"
+    },
+    {
+      "path": "parcel-building-facts/6d.json",
+      "bytes": 66842,
+      "sha256": "057395f3393374f77aa9b46ee70761ce84e501f4df8c6ecad99679e632385f37"
+    },
+    {
+      "path": "parcel-building-facts/6e.json",
+      "bytes": 71605,
+      "sha256": "e5ff27b52064244bb41fa83009737e97dfb9bf2b9b8435c71576486cd66c7680"
+    },
+    {
+      "path": "parcel-building-facts/6f.json",
+      "bytes": 79190,
+      "sha256": "3fadfb44724c2212a5f24634c1b565686fd7cd57888389f730a0eeaded2c9e53"
+    },
+    {
+      "path": "parcel-building-facts/6g.json",
+      "bytes": 75152,
+      "sha256": "2c4d7ad9acd7bbec7e493fc287b87be72b4c1f6bbaf67602a19314e005d93542"
+    },
+    {
+      "path": "parcel-building-facts/6h.json",
+      "bytes": 82378,
+      "sha256": "084c3ffd1ef0ad1f8255d2a184eb01fffafced2cd4690a20c8c881f0b658e72a"
+    },
+    {
+      "path": "parcel-building-facts/6j.json",
+      "bytes": 85131,
+      "sha256": "4f7d39d9448ce2b7fa3a58dd8c18772fb4f3a9cc5b2a1e9cf36870064c8d4fba"
+    },
+    {
+      "path": "parcel-building-facts/6k.json",
+      "bytes": 82395,
+      "sha256": "0dda0cc20b3a09e62bfe89360d7c9c857ae350f02ff0545580c6af29587ab688"
+    },
+    {
+      "path": "parcel-building-facts/6m.json",
+      "bytes": 75312,
+      "sha256": "34f39d235885790a083ca796ed6ffa255fa5d47eab553f62de43867d0127e9e0"
+    },
+    {
+      "path": "parcel-building-facts/6n.json",
+      "bytes": 73539,
+      "sha256": "6fa717b8de9b85d17ccdd82dde7b2a47d9901c30078394a5d77a2090aba078a8"
+    },
+    {
+      "path": "parcel-building-facts/6p.json",
+      "bytes": 84632,
+      "sha256": "f613e1fa45366c79160bc0c06cc9cebe970b5dc975917fec450f11492af41b77"
+    },
+    {
+      "path": "parcel-building-facts/6q.json",
+      "bytes": 66401,
+      "sha256": "59b598c586650d4f5fc0ea1557e9f760d514016d20d40e769b533cb7a2280226"
+    },
+    {
+      "path": "parcel-building-facts/6r.json",
+      "bytes": 72843,
+      "sha256": "a3234bbde0dff041300562de034d6bd613265289a45c56c3630b70336d0de2c2"
+    },
+    {
+      "path": "parcel-building-facts/6s.json",
+      "bytes": 69729,
+      "sha256": "a9a602ab108264b46bc1fe4f6621c3937f0b6c827ba0a085804d49145caa415f"
+    },
+    {
+      "path": "parcel-building-facts/6t.json",
+      "bytes": 81911,
+      "sha256": "5aa16ff1c89c5d4b406aec19e3f5053c3070e1dcd40ad095aaba8aba15351fa8"
+    },
+    {
+      "path": "parcel-building-facts/6v.json",
+      "bytes": 71565,
+      "sha256": "af9c668214935d6ab9b480c895135efccc1c9e94d4273d9041ffe35e8ca95185"
+    },
+    {
+      "path": "parcel-building-facts/6w.json",
+      "bytes": 69243,
+      "sha256": "4384600126b9c0e56894803f1b3d2b3f4a474a289d4f99cfde7361494a922202"
+    },
+    {
+      "path": "parcel-building-facts/6x.json",
+      "bytes": 78633,
+      "sha256": "73f7415bd249051e0aa7760c8c6788dccd1dacf8ffc36e51e902b05ae4ab29c5"
+    },
+    {
+      "path": "parcel-building-facts/6y.json",
+      "bytes": 74328,
+      "sha256": "6d1e76117f4676eda0c977147ddac7464c276f94b620790ab3a04764e37ee10f"
+    },
+    {
+      "path": "parcel-building-facts/6z.json",
+      "bytes": 86928,
+      "sha256": "d90e061b55db0affb0dfe85e6ed7a57e528dfaecae58b18387383dfce29e50fd"
+    },
+    {
+      "path": "parcel-building-facts/7.json",
+      "bytes": 2415393,
+      "sha256": "fe2a7190dabd5f98e5eb8f7b93e4c32f630c07ed3c31a166e50388407fff57c0"
+    },
+    {
+      "path": "parcel-building-facts/70.json",
+      "bytes": 69677,
+      "sha256": "073c3d3e77728877c734e65de8f865358231da241ed457a0fb24c866c1f3bae1"
+    },
+    {
+      "path": "parcel-building-facts/71.json",
+      "bytes": 72079,
+      "sha256": "153c9214d501f3d860689b449386621297a3e986126338121c1384eacc83923f"
+    },
+    {
+      "path": "parcel-building-facts/72.json",
+      "bytes": 75335,
+      "sha256": "0fdc17db9b7ce22e216a684a25d27d6d4ee7d5c3bb159902d48dc703aa2b264f"
+    },
+    {
+      "path": "parcel-building-facts/73.json",
+      "bytes": 87116,
+      "sha256": "969759ddcf7d111871a59c62ff78af24d1a9c8122ae28005508b14fbc4472bd5"
+    },
+    {
+      "path": "parcel-building-facts/74.json",
+      "bytes": 60726,
+      "sha256": "fee3a093708c4b73e0d65d852a337f862145e38fcb2fa0b86c46d5f50e2a29b1"
+    },
+    {
+      "path": "parcel-building-facts/75.json",
+      "bytes": 83835,
+      "sha256": "0d0d0f6326462b6a9965d0d4198b1a81147d71ae1c00d3b442c761cf77a06bfc"
+    },
+    {
+      "path": "parcel-building-facts/76.json",
+      "bytes": 78621,
+      "sha256": "adf42b9933e566be926df8db19b0785a971171fa1afa3ebfbd517776e1c86675"
+    },
+    {
+      "path": "parcel-building-facts/77.json",
+      "bytes": 74428,
+      "sha256": "ef5d57f43253a9429396a25e818d021df120efdcb4828c99e5850b34cb7369cc"
+    },
+    {
+      "path": "parcel-building-facts/78.json",
+      "bytes": 69640,
+      "sha256": "268a367e275e6570f22faea3346ae979328e565055b4beaf622060426c0e9f18"
+    },
+    {
+      "path": "parcel-building-facts/79.json",
+      "bytes": 74003,
+      "sha256": "28b723d56914df58b88c22506f4093535287381d1c3918731b9fc0bb8510a7c1"
+    },
+    {
+      "path": "parcel-building-facts/7a.json",
+      "bytes": 77196,
+      "sha256": "c06fa5ee39280beae0a664ad4117e47775b98f5b57e9823a80fb6e791db9ce1e"
+    },
+    {
+      "path": "parcel-building-facts/7b.json",
+      "bytes": 75848,
+      "sha256": "50ac4b6441d42f819af7d0b336dae816987a727a5fe9ac2d21c085fab7c3cff8"
+    },
+    {
+      "path": "parcel-building-facts/7c.json",
+      "bytes": 76763,
+      "sha256": "b1ae70da09ae62a9a65cd55fbf7d2ad0be392f631ffc678ea8e4dbc5e2934382"
+    },
+    {
+      "path": "parcel-building-facts/7d.json",
+      "bytes": 76252,
+      "sha256": "8ccdb28753db649edde9799daa208967f92085ec4bde0da72078399f9795b9fd"
+    },
+    {
+      "path": "parcel-building-facts/7e.json",
+      "bytes": 77258,
+      "sha256": "097441cfb35f0de5a82caa96c2127f96829b3fde71c4576206af1492f4f674ea"
+    },
+    {
+      "path": "parcel-building-facts/7f.json",
+      "bytes": 78649,
+      "sha256": "28f128520cff44c8f80da2d39b1d55188fa119bd160382f30ab2407122f91898"
+    },
+    {
+      "path": "parcel-building-facts/7g.json",
+      "bytes": 74351,
+      "sha256": "939fcdbeafa4c178e9b81f590ad1fed99687caf36691990b6477527dc3f3f56d"
+    },
+    {
+      "path": "parcel-building-facts/7h.json",
+      "bytes": 76680,
+      "sha256": "5055d3a2de66330a7236ec0e2734d8b2fc3eb1f8d1c4f2fd90e96435be5bdf8e"
+    },
+    {
+      "path": "parcel-building-facts/7j.json",
+      "bytes": 77129,
+      "sha256": "f0c036557b8298e4396bf0f48cda7a8be7ebcf4dcdf695a7fd0b8045b855397e"
+    },
+    {
+      "path": "parcel-building-facts/7k.json",
+      "bytes": 82412,
+      "sha256": "093799e97f89b98df478f7d89cc09568d37f64b8db46be5fbde06c5c7fb0715e"
+    },
+    {
+      "path": "parcel-building-facts/7m.json",
+      "bytes": 81853,
+      "sha256": "ac396f83866e7df9da28d5ded8969c9b00239f369a512d65018dda1661297e05"
+    },
+    {
+      "path": "parcel-building-facts/7n.json",
+      "bytes": 80490,
+      "sha256": "4733d1a1f19a81f8d99ddb1b532881bd0b20f2b509e94b39f0b18cc57ca0e711"
+    },
+    {
+      "path": "parcel-building-facts/7p.json",
+      "bytes": 71966,
+      "sha256": "7390d32729e6b6499ba2d240c5ddecddd9a7752fee724a696abfd8a9c49ab498"
+    },
+    {
+      "path": "parcel-building-facts/7q.json",
+      "bytes": 77718,
+      "sha256": "d338c0e3f48c3ec696bb9ccfbbe24c1ac3d438d251b75d3af625f90637611885"
+    },
+    {
+      "path": "parcel-building-facts/7r.json",
+      "bytes": 74373,
+      "sha256": "274b41e76da0987256e2df62ab336b98d453dbbd620761985256b6c7f2c6c676"
+    },
+    {
+      "path": "parcel-building-facts/7s.json",
+      "bytes": 73530,
+      "sha256": "313af339fa59a82205c59cc9f9557d716d6d6ccbb4e288764c66ce643f201cfb"
+    },
+    {
+      "path": "parcel-building-facts/7t.json",
+      "bytes": 74345,
+      "sha256": "2d1d646f2b5ac9376913bb657d4859f867ca234a8bb6f8dd03ccf11fc65818ca"
+    },
+    {
+      "path": "parcel-building-facts/7v.json",
+      "bytes": 68231,
+      "sha256": "b1e89db0e0001a434bec4e012960a46c301f572367d6cf218b47ab20355491e1"
+    },
+    {
+      "path": "parcel-building-facts/7w.json",
+      "bytes": 81042,
+      "sha256": "b3cc3c5897bc6d8f390d2410da59bbd8e4fce81f141818c065576bfc903b6d4b"
+    },
+    {
+      "path": "parcel-building-facts/7x.json",
+      "bytes": 65966,
+      "sha256": "02db8036bea3caa36a7d5a0a029a57d912fa2a27199166bb6b5f262a312954d9"
+    },
+    {
+      "path": "parcel-building-facts/7y.json",
+      "bytes": 79432,
+      "sha256": "3b08d09638b8b51a7e3cfe69a2de0c3aa8b1aa5a35e364d4c346c05393a3f8cb"
+    },
+    {
+      "path": "parcel-building-facts/7z.json",
+      "bytes": 86696,
+      "sha256": "09558e97ecc27b9c40fe7eb15d2d3ec1ab6da2a970f5f4f9cf40849cdddba791"
+    },
+    {
+      "path": "parcel-building-facts/8.json",
+      "bytes": 2461769,
+      "sha256": "70d53d087365f04dd4039948ccf071a371e1d058f30a8251e75f1c859fd9d99a"
+    },
+    {
+      "path": "parcel-building-facts/80.json",
+      "bytes": 70191,
+      "sha256": "ba08e9043712159675191f8feeb5145177878c36cde3cda40102b909b21ed91b"
+    },
+    {
+      "path": "parcel-building-facts/81.json",
+      "bytes": 73001,
+      "sha256": "f1a51deb999e2b3378f69ac1800d679cbad84d1fd62fdd97913d8dab678d3bf2"
+    },
+    {
+      "path": "parcel-building-facts/82.json",
+      "bytes": 75359,
+      "sha256": "bdb36503cfe287464feace002b1fa07310e071eea15e180b5738ec57ecbddbd0"
+    },
+    {
+      "path": "parcel-building-facts/83.json",
+      "bytes": 74329,
+      "sha256": "89907a22992bd16397fdce688bee35dd62d431f6c5dd28799401fddc097f5446"
+    },
+    {
+      "path": "parcel-building-facts/84.json",
+      "bytes": 79582,
+      "sha256": "8c15495bbe55edab61dd38bb625cf248b3629d69069e0c73cca36eb81bb55c9f"
+    },
+    {
+      "path": "parcel-building-facts/85.json",
+      "bytes": 80521,
+      "sha256": "2210db1ba16df980f3c25119bf7380b2953470a3738587e7d95c14a00bf9e261"
+    },
+    {
+      "path": "parcel-building-facts/86.json",
+      "bytes": 73844,
+      "sha256": "f3cf24465ce14c169d450138570456a7232f0ea8492412dde22eef6c212af666"
+    },
+    {
+      "path": "parcel-building-facts/87.json",
+      "bytes": 78772,
+      "sha256": "eba7eaeab6afa5e7e8bdcb4e94950cd7f0e0cdc360d033932a691123f4d0eec9"
+    },
+    {
+      "path": "parcel-building-facts/88.json",
+      "bytes": 68268,
+      "sha256": "0694ec21ab77d9ce82880031ef86e2790b92b15231e90dbf6a12c07b2b59b534"
+    },
+    {
+      "path": "parcel-building-facts/89.json",
+      "bytes": 80438,
+      "sha256": "3c724c731795f4a077daa35ba8290042ad291534f82709c92f2a669a0b67d2ff"
+    },
+    {
+      "path": "parcel-building-facts/8a.json",
+      "bytes": 84643,
+      "sha256": "8ce7e995de90c1613d3910f26b79202bd3d5248077768dfcceee9b0c7346e39c"
+    },
+    {
+      "path": "parcel-building-facts/8b.json",
+      "bytes": 87922,
+      "sha256": "8e9a46a09274b494deb841f14bddde285293d885e7e04c5713940dd8bf2b577e"
+    },
+    {
+      "path": "parcel-building-facts/8c.json",
+      "bytes": 72437,
+      "sha256": "e98de7a79d874b7a9ee1eab423d6fc0e42e01ef35736fd39541ed02fa1c681bd"
+    },
+    {
+      "path": "parcel-building-facts/8d.json",
+      "bytes": 82326,
+      "sha256": "86cdefa91684d879f09a58a7945eb5caad098eb04dd7d0d7e8aa8965a633afd0"
+    },
+    {
+      "path": "parcel-building-facts/8e.json",
+      "bytes": 70069,
+      "sha256": "cdc15f64a365d5c64744c2db5af9fac1120e4c861848425b2ac04639db81695e"
+    },
+    {
+      "path": "parcel-building-facts/8f.json",
+      "bytes": 82411,
+      "sha256": "96fddef5115d376eafd107dcb2f2d667479ac0d15a6f7fc84db03f0e65eebd90"
+    },
+    {
+      "path": "parcel-building-facts/8g.json",
+      "bytes": 85575,
+      "sha256": "289bbe80f620d122cdaae4237b6c29d4c575a9046ba5d1a156c5fa33ede28330"
+    },
+    {
+      "path": "parcel-building-facts/8h.json",
+      "bytes": 75727,
+      "sha256": "9a830d5e9f259b60917ee03329cb0f77b18c279940026cface2e5cb4c35c25e5"
+    },
+    {
+      "path": "parcel-building-facts/8j.json",
+      "bytes": 68192,
+      "sha256": "e8cda96b27ec78b24baaa4ee2a8b471e71788de7f733fa79cb86664a1bb0cea9"
+    },
+    {
+      "path": "parcel-building-facts/8k.json",
+      "bytes": 74341,
+      "sha256": "a718eb8f4206417c501ea7ae3b93ccd7b744a62fa030596dd432e18531b3d41e"
+    },
+    {
+      "path": "parcel-building-facts/8m.json",
+      "bytes": 81455,
+      "sha256": "d127b8191f5d7f52fd17374787f7c1f13934cb851b192203db5fb4cb45ad01d5"
+    },
+    {
+      "path": "parcel-building-facts/8n.json",
+      "bytes": 81900,
+      "sha256": "8ba5678002e610b8310fe72abaace36129e9cba57f7929d170da22484056962b"
+    },
+    {
+      "path": "parcel-building-facts/8p.json",
+      "bytes": 86577,
+      "sha256": "5d3cf39ca86e4aeb1c68f8528c2169ef6e398a60569f8b5771bc6ffc95d36975"
+    },
+    {
+      "path": "parcel-building-facts/8q.json",
+      "bytes": 75346,
+      "sha256": "e3bde079ee5526b6437074cac727b7010f0359360427aeb73e55566fc8e01363"
+    },
+    {
+      "path": "parcel-building-facts/8r.json",
+      "bytes": 56464,
+      "sha256": "64a551c4cf7588ec2a0bea88c36c78f38556d29a36661f1a1ece5a400a56222c"
+    },
+    {
+      "path": "parcel-building-facts/8s.json",
+      "bytes": 79982,
+      "sha256": "1f062ddd7f4805fc07bc40f729fac086f6d3e85ca9833bed333b3cb2124187cc"
+    },
+    {
+      "path": "parcel-building-facts/8t.json",
+      "bytes": 72521,
+      "sha256": "e5b7a1b0a959e3a25dde41ac9074d13d428d1c1c026953341a5d06a358b4ee94"
+    },
+    {
+      "path": "parcel-building-facts/8v.json",
+      "bytes": 71041,
+      "sha256": "56d84200401c8862000f3c34e6d05bf4bc16f2d2aeb5a924cb5d1a19a45cb52f"
+    },
+    {
+      "path": "parcel-building-facts/8w.json",
+      "bytes": 79567,
+      "sha256": "3f6289c52f5d9be9d511005eb4338eec0e52aba4e398eab54e40b820d4fc3cd5"
+    },
+    {
+      "path": "parcel-building-facts/8x.json",
+      "bytes": 75786,
+      "sha256": "0562c6ae85391cfb3ceb6555294a07c0fbd621386e189fa8a387784455af0e05"
+    },
+    {
+      "path": "parcel-building-facts/8y.json",
+      "bytes": 77199,
+      "sha256": "e327414c693f0749bbbc51195245e76af834735116820c8cc7835c34c1d1b80f"
+    },
+    {
+      "path": "parcel-building-facts/8z.json",
+      "bytes": 75771,
+      "sha256": "641b0cbf0e2b8b10b302c2a50bcd56540a121ea84c67bdd16c3a0e25140be4e3"
+    },
+    {
+      "path": "parcel-building-facts/9.json",
+      "bytes": 2430297,
+      "sha256": "7db251af54c044654ec4106dc419d06e1b15a17fbf21d6f8ddd3adb218b1641c"
+    },
+    {
+      "path": "parcel-building-facts/90.json",
+      "bytes": 73926,
+      "sha256": "a468c9b9c610aa2cc24adcefe4fd172534ba1ee33797610749af49c9682e60a5"
+    },
+    {
+      "path": "parcel-building-facts/91.json",
+      "bytes": 72435,
+      "sha256": "04cfd0853912a5dd7cee9c9b3d5d2bab6692c3c6ad1af5dadf6083a89e76a751"
+    },
+    {
+      "path": "parcel-building-facts/92.json",
+      "bytes": 76285,
+      "sha256": "fbae2df4b22b7ffbee9d450a3c06e62a56d5cf11b266538e7d16549720ae6805"
+    },
+    {
+      "path": "parcel-building-facts/93.json",
+      "bytes": 70554,
+      "sha256": "b52f1dae0390e2fa2d057f41623683f45a598537c7b424d74ec39f9f6f1504e2"
+    },
+    {
+      "path": "parcel-building-facts/94.json",
+      "bytes": 82322,
+      "sha256": "39b92f53ed7cee22b9be3270319cf9e87ad1dadd619d1b7745f8c9453c61306e"
+    },
+    {
+      "path": "parcel-building-facts/95.json",
+      "bytes": 78586,
+      "sha256": "7ceee7051d9b13b10c3113fa8021d8147bded31cb8d3b455496b90d9a61535ba"
+    },
+    {
+      "path": "parcel-building-facts/96.json",
+      "bytes": 76765,
+      "sha256": "b09bf871c7eda5fa170de142b806da16eadf40832be3a63bc12256299343912c"
+    },
+    {
+      "path": "parcel-building-facts/97.json",
+      "bytes": 77622,
+      "sha256": "5bf8437cc44820252d7d08f050137d844ff3810392896e46e8c61cfb193b44e5"
+    },
+    {
+      "path": "parcel-building-facts/98.json",
+      "bytes": 72427,
+      "sha256": "c297b789e8f4e9af61acfc15dc5aa128645084a7fdf14e361cad5718f7bca792"
+    },
+    {
+      "path": "parcel-building-facts/99.json",
+      "bytes": 76311,
+      "sha256": "49a9d1a4451d0e8175524ef51c4151c10cfbf47b68ab3b1594b2a4f8d3a4d918"
+    },
+    {
+      "path": "parcel-building-facts/9a.json",
+      "bytes": 83837,
+      "sha256": "370d83f82d8d27d8782fece60ead678308f262fcf1138616a91e568f22c3fe53"
+    },
+    {
+      "path": "parcel-building-facts/9b.json",
+      "bytes": 64448,
+      "sha256": "8341d1769a81b14545662b40e474f17a2a7712af5fc5c964ace140f35bcbbc34"
+    },
+    {
+      "path": "parcel-building-facts/9c.json",
+      "bytes": 63014,
+      "sha256": "b101aa96c4d2d0f95fffeaa3cd4d9fc0c81e3cd67565fbdc8cf92a3fe7512432"
+    },
+    {
+      "path": "parcel-building-facts/9d.json",
+      "bytes": 83390,
+      "sha256": "912789542fcc616a45cc95f28e8b9e1754c77198e03dc4d7fa6cec9c624c02c3"
+    },
+    {
+      "path": "parcel-building-facts/9e.json",
+      "bytes": 83269,
+      "sha256": "c994eb3f6c54ed9ab7d416d887af85fa439a07fb7669ad363fe3572a8e9656a7"
+    },
+    {
+      "path": "parcel-building-facts/9f.json",
+      "bytes": 72981,
+      "sha256": "e530fd5210205f20e1f3026341b2eb59958a5fe523e253b57bcb91a5cc20b352"
+    },
+    {
+      "path": "parcel-building-facts/9g.json",
+      "bytes": 68306,
+      "sha256": "bfd9d76ac0c0f1b47c2a3e37aadc238d26e1886ff5464c497b80e9b2f9be1a1e"
+    },
+    {
+      "path": "parcel-building-facts/9h.json",
+      "bytes": 69734,
+      "sha256": "af8e608fc0647be5d6e3b6ffcdbfbe98db70f616b83daa6f06b429eff226d0e6"
+    },
+    {
+      "path": "parcel-building-facts/9j.json",
+      "bytes": 78713,
+      "sha256": "c9510a97a605c050878b84dffc74fd9137f4e1a90bb83d3f4d2c05bcc33299f2"
+    },
+    {
+      "path": "parcel-building-facts/9k.json",
+      "bytes": 62519,
+      "sha256": "95bc676e55625dbf1b69663117f271afb888dda192cd41a30106bba7f7ceb114"
+    },
+    {
+      "path": "parcel-building-facts/9m.json",
+      "bytes": 78608,
+      "sha256": "4e97c49e3811864e88857a18a07935d22b790f48364e103e062f680a6091c52f"
+    },
+    {
+      "path": "parcel-building-facts/9n.json",
+      "bytes": 74467,
+      "sha256": "3682808e5507d3409d28ca073ae1770bf44de52c26e0d6b2f40ca8dfa6ab1558"
+    },
+    {
+      "path": "parcel-building-facts/9p.json",
+      "bytes": 82732,
+      "sha256": "31c2c68c3f149774fb2c68737b8c7043c4706b7da5bb32b5de395b69a91b3cec"
+    },
+    {
+      "path": "parcel-building-facts/9q.json",
+      "bytes": 73924,
+      "sha256": "eada9b7be12815b3a2fc20a97657ebf1fd0652d4a3c19f38fd07c2c488632c1a"
+    },
+    {
+      "path": "parcel-building-facts/9r.json",
+      "bytes": 79083,
+      "sha256": "082c25c141ebcd28eb854d30139953dfcddff8d7b7d79649a72e9d3cee48b4cc"
+    },
+    {
+      "path": "parcel-building-facts/9s.json",
+      "bytes": 74874,
+      "sha256": "2e37e2c0e0dcc87f444bdbe507c83f85e675239b4ffe21800d751d90438a779e"
+    },
+    {
+      "path": "parcel-building-facts/9t.json",
+      "bytes": 72088,
+      "sha256": "a81e4d7235fc8bf659c1381b4a3ffe5bb5b9528870eb81a8166728dce4f06c0a"
+    },
+    {
+      "path": "parcel-building-facts/9v.json",
+      "bytes": 72418,
+      "sha256": "f376340572ab59cbd657027f2b16cd71b77ca3a528db8bcc7a83e696c573a1bb"
+    },
+    {
+      "path": "parcel-building-facts/9w.json",
+      "bytes": 80426,
+      "sha256": "73c503e8ef308243289bc8f4a2028d75e9650c0c74c4a2b27be8ad5bfae3835e"
+    },
+    {
+      "path": "parcel-building-facts/9x.json",
+      "bytes": 82347,
+      "sha256": "4043f34f0f2ccc03a55428fd87c1b1258e2c383deae8f87b9ae6e4f64347b426"
+    },
+    {
+      "path": "parcel-building-facts/9y.json",
+      "bytes": 82837,
+      "sha256": "640c0e1ac33ae9642d9222f9c6e7decb8bd8dc5d7385a2152291bb507be71bcc"
+    },
+    {
+      "path": "parcel-building-facts/9z.json",
+      "bytes": 74861,
+      "sha256": "c7d075110b9979e19b736ab6b7d3880f21f4fb6a886295c172e2591acb61666a"
+    },
+    {
+      "path": "parcel-building-facts/a.json",
+      "bytes": 2465901,
+      "sha256": "4df675fb66c5391dc29a26cffcd8813a9e4fdb0c749f7b3f328d151a007010fc"
+    },
+    {
+      "path": "parcel-building-facts/a0.json",
+      "bytes": 82273,
+      "sha256": "94a6f7e8b9ac1e8f77bb7402168be5655be7e44735e48b6f1ea425520a7d8cd3"
+    },
+    {
+      "path": "parcel-building-facts/a1.json",
+      "bytes": 69972,
+      "sha256": "6b65a46adf40b07714db9c8665a9227571d7f7a55db8c213133383f82ab8c4b7"
+    },
+    {
+      "path": "parcel-building-facts/a2.json",
+      "bytes": 71505,
+      "sha256": "8345d9229716f3f2eabd9deb9795afee0f1b1ae8d626f77758be12b295f92856"
+    },
+    {
+      "path": "parcel-building-facts/a3.json",
+      "bytes": 72512,
+      "sha256": "bdc34a44a8d8f19444f3043c3ed7ab430c73e6be730382304298207f16e889ae"
+    },
+    {
+      "path": "parcel-building-facts/a4.json",
+      "bytes": 67323,
+      "sha256": "639592e024717f8a6ff638305f47310818f9f72ea55021f75763cc2c9bac4b0c"
+    },
+    {
+      "path": "parcel-building-facts/a5.json",
+      "bytes": 66368,
+      "sha256": "e0cafa0dfef96003633118aa0df4f7603024077ee3cf98c00306a0451187a909"
+    },
+    {
+      "path": "parcel-building-facts/a6.json",
+      "bytes": 68709,
+      "sha256": "33825c1f6a906ac98c5c2a19770ef683df02386e093cc8b761e63ac22c33b574"
+    },
+    {
+      "path": "parcel-building-facts/a7.json",
+      "bytes": 74388,
+      "sha256": "15921369b701b2f49736385176ef23059abf70bf304f7622ea06a9efe511130f"
+    },
+    {
+      "path": "parcel-building-facts/a8.json",
+      "bytes": 74834,
+      "sha256": "5a85f94402a847737d4458ceac52cffc8b0ed6b878316cb37dba45de5839ba70"
+    },
+    {
+      "path": "parcel-building-facts/a9.json",
+      "bytes": 73369,
+      "sha256": "d90b2d2ec5d0dbdfff268ccdbc43d037c52ce06053eff9bffa3c50af8cdf41f0"
+    },
+    {
+      "path": "parcel-building-facts/aa.json",
+      "bytes": 77158,
+      "sha256": "77817b8990b50ee2acbdbda33d1b80a81b43a11ec00f208a71ea1932bd09b93d"
+    },
+    {
+      "path": "parcel-building-facts/ab.json",
+      "bytes": 81514,
+      "sha256": "117a8aca48d1c35a39dabae9990a86e4f6b5947a8cc053e2cfd2db6526d5f26d"
+    },
+    {
+      "path": "parcel-building-facts/ac.json",
+      "bytes": 80961,
+      "sha256": "27091b7b27c187a1ec8e18d1bc58b0996e10e9d877432728ab48de5cdc49ee3e"
+    },
+    {
+      "path": "parcel-building-facts/ad.json",
+      "bytes": 78152,
+      "sha256": "4c5315a257df81331b9b57635172f780d6d1d06617c0dded23290ea077f53aa4"
+    },
+    {
+      "path": "parcel-building-facts/ae.json",
+      "bytes": 71446,
+      "sha256": "f18987ce222faa5f14ec00adf270a4e3998ce099dae380a37a6a417a0679e436"
+    },
+    {
+      "path": "parcel-building-facts/af.json",
+      "bytes": 73797,
+      "sha256": "1d1823aff08ac7866f5ec5fd4991a385f0b5ef1a5694061771562fcb1468e1da"
+    },
+    {
+      "path": "parcel-building-facts/ag.json",
+      "bytes": 79945,
+      "sha256": "5ebddcbc78c99fbef679835c055ddbe088352d91b7ab4ba9943f169ea65fbf36"
+    },
+    {
+      "path": "parcel-building-facts/ah.json",
+      "bytes": 74393,
+      "sha256": "f3a2aabf92341ebbf2f615423b350af5c002080b46a27a7559d025c4b158d911"
+    },
+    {
+      "path": "parcel-building-facts/aj.json",
+      "bytes": 67297,
+      "sha256": "304bdb1020f99e7e67b7878fbfe1c34df95f48f76f2097248357d938a110533d"
+    },
+    {
+      "path": "parcel-building-facts/ak.json",
+      "bytes": 63449,
+      "sha256": "a569115b611b8d985ad9395cf47defb50442dda1794db3cae5b4ddcee274243f"
+    },
+    {
+      "path": "parcel-building-facts/am.json",
+      "bytes": 82363,
+      "sha256": "06c481f0fa01b0d75358b87c56bd07c7a1577e0d7ccc9ee143525b6da8063a31"
+    },
+    {
+      "path": "parcel-building-facts/an.json",
+      "bytes": 82331,
+      "sha256": "56a0053e6cfbea2c39695e721757e7411048124a5ccf1c4cef1ab5dddfc0e395"
+    },
+    {
+      "path": "parcel-building-facts/ap.json",
+      "bytes": 80090,
+      "sha256": "c6f97cdc876ed540bf1c541b400e707a5b28fc31b6f301e75c589d4ed10c7d5f"
+    },
+    {
+      "path": "parcel-building-facts/aq.json",
+      "bytes": 78114,
+      "sha256": "1d415993d3135c701790ff7e60a38e663f24b2a362251acccffcacc43ede452c"
+    },
+    {
+      "path": "parcel-building-facts/ar.json",
+      "bytes": 78140,
+      "sha256": "efa6d199cccb123eed992398660f28a58402099a66ebb85daf191e3ae5050dac"
+    },
+    {
+      "path": "parcel-building-facts/as.json",
+      "bytes": 72054,
+      "sha256": "aebe9e76f300da45fd623d7f4ab4a2bb21e9a57d2c6a0161612d9968af038dc4"
+    },
+    {
+      "path": "parcel-building-facts/at.json",
+      "bytes": 81408,
+      "sha256": "3c84525488ee61ff69daa134ea7c55917a54ba1b9fdf29bc9703877daccdd1c3"
+    },
+    {
+      "path": "parcel-building-facts/av.json",
+      "bytes": 80429,
+      "sha256": "702ea9f19680ec0e0085783a3c4b2475020dfae5451b5b8fde1537da437ea22d"
+    },
+    {
+      "path": "parcel-building-facts/aw.json",
+      "bytes": 86980,
+      "sha256": "e7c025cb84690c3a345f89692695271d78f55c6552856381b9fa801b69aca1e6"
+    },
+    {
+      "path": "parcel-building-facts/ax.json",
+      "bytes": 79128,
+      "sha256": "604128255681dc4822401c9d42c4250ae2a5e01d6910e1ab5128eb13d081dd33"
+    },
+    {
+      "path": "parcel-building-facts/ay.json",
+      "bytes": 71030,
+      "sha256": "c7934242004ce9c00e9cace196297a0b9ad79cbc86b76a7f0665ba0496c149a0"
+    },
+    {
+      "path": "parcel-building-facts/az.json",
+      "bytes": 74948,
+      "sha256": "47dbb60fc96bdc96d9c6b4e92e4f20aefe5edf1b93883c46a692d67f95e118be"
+    },
+    {
+      "path": "parcel-building-facts/b.json",
+      "bytes": 2438615,
+      "sha256": "9b92c47d89d459a06aba2d85a054e5234abbea724ac5bd503426fe29e131c7e9"
+    },
+    {
+      "path": "parcel-building-facts/b0.json",
+      "bytes": 74475,
+      "sha256": "4b0c70fe4d9573e6fd6033bbb145c2049f3d48f0078fce6efa3b2a28d308d15a"
+    },
+    {
+      "path": "parcel-building-facts/b1.json",
+      "bytes": 70123,
+      "sha256": "529b6e01beedf73c0eda17f06965b36bd874303dcb17b7c2c86679725b917c55"
+    },
+    {
+      "path": "parcel-building-facts/b2.json",
+      "bytes": 79090,
+      "sha256": "869c810f86b38d9b4b75359f5d02e6566fdf1680f6566a387fda32e3071955bb"
+    },
+    {
+      "path": "parcel-building-facts/b3.json",
+      "bytes": 86992,
+      "sha256": "5debb3574277392dc92863df1958b51f799ece9e323338415a47aa3c4540ef7a"
+    },
+    {
+      "path": "parcel-building-facts/b4.json",
+      "bytes": 79054,
+      "sha256": "0c27265a8b6251b1158a28731c21d8bebddb924c8efa5114dee48dbf00b04f46"
+    },
+    {
+      "path": "parcel-building-facts/b5.json",
+      "bytes": 78656,
+      "sha256": "b43a7fbe754b074bf4c768f1ebc20df388e208c5ba322a0792c864f86f4d7fe5"
+    },
+    {
+      "path": "parcel-building-facts/b6.json",
+      "bytes": 77143,
+      "sha256": "e22d535b5772c9de8481e6ae494c0d216c7009d3512dcdc897f7f3b9ae3e6170"
+    },
+    {
+      "path": "parcel-building-facts/b7.json",
+      "bytes": 77693,
+      "sha256": "d753cc19ac03df0a069847e9b7edee53d213c3fde681f1ad65eecf1e7a50498e"
+    },
+    {
+      "path": "parcel-building-facts/b8.json",
+      "bytes": 79977,
+      "sha256": "68b45b41b894e44c51a60f1644d98926a77ce0b9aa1d4a922b91207b62d2877f"
+    },
+    {
+      "path": "parcel-building-facts/b9.json",
+      "bytes": 73037,
+      "sha256": "3c12ae645cc72d0ed246da69669a47abde40f0eb3a1e5d380100e0d6d021df0b"
+    },
+    {
+      "path": "parcel-building-facts/ba.json",
+      "bytes": 75425,
+      "sha256": "bea6e2322b65c1349c822ed22d7c1792b92dfaca05c12dd43ee4c9f4019f9bee"
+    },
+    {
+      "path": "parcel-building-facts/bb.json",
+      "bytes": 70144,
+      "sha256": "0d269023920095c79245ac7f3953d03c302608b24b6ca2bda4277ce859d6c46c"
+    },
+    {
+      "path": "parcel-building-facts/bc.json",
+      "bytes": 79082,
+      "sha256": "85cb1859ffd8d4dfd97abda549cfd7c2aa8bd326ec778d094d22b830cfe21c14"
+    },
+    {
+      "path": "parcel-building-facts/bd.json",
+      "bytes": 79547,
+      "sha256": "a08d1b4145cd6cdb17a2b33a6090a343e554a44547668d15bdf6cb59685940b7"
+    },
+    {
+      "path": "parcel-building-facts/be.json",
+      "bytes": 79516,
+      "sha256": "d69017bb753aa0003f9f893fb99ddc5a81791ccc4117423bfecb4d1bc4b73441"
+    },
+    {
+      "path": "parcel-building-facts/bf.json",
+      "bytes": 85310,
+      "sha256": "387ed90370bf941405209b14e11b96772c0431b314c846f25f256d520908e701"
+    },
+    {
+      "path": "parcel-building-facts/bg.json",
+      "bytes": 73522,
+      "sha256": "19369d68018e05f299ac11f77fb5c514655103e4cfc4622caf9c0779c4500fbf"
+    },
+    {
+      "path": "parcel-building-facts/bh.json",
+      "bytes": 77583,
+      "sha256": "417b9d8925625be97cc77a7faedc91a761e7a731bbb0e5458ca3493d76e44eb2"
+    },
+    {
+      "path": "parcel-building-facts/bj.json",
+      "bytes": 65887,
+      "sha256": "467990cadf93add3332e0c6685c822eaac308106ff935985e66c65b9c5f916a5"
+    },
+    {
+      "path": "parcel-building-facts/bk.json",
+      "bytes": 76771,
+      "sha256": "86f0f692c85c5fb4108aeb43628e21b8968f2dc60bdca6d8addc11d5049ff69f"
+    },
+    {
+      "path": "parcel-building-facts/bm.json",
+      "bytes": 73440,
+      "sha256": "0a2899d76a69240316e0c3e5c1f6b8b80d65e8395449d05ae48d4f13c18da581"
+    },
+    {
+      "path": "parcel-building-facts/bn.json",
+      "bytes": 82304,
+      "sha256": "1b6e0b889187700530c3b4c6642c4e2182fe1cff0c3e6bf76b5b0f4ee5ae4410"
+    },
+    {
+      "path": "parcel-building-facts/bp.json",
+      "bytes": 70086,
+      "sha256": "daa6d85675e927fb8c9b76f063f51b9ef39ba579dfb7271b459440d9cc662cf1"
+    },
+    {
+      "path": "parcel-building-facts/bq.json",
+      "bytes": 76099,
+      "sha256": "e35ed2689e02543be995c45b2807b6a16d947a5c7d12b721d9851307e7a2c032"
+    },
+    {
+      "path": "parcel-building-facts/br.json",
+      "bytes": 77680,
+      "sha256": "3d6f801656689d2c89e928c628eeea58139d09e7ae93d09718dde84e8a84fd12"
+    },
+    {
+      "path": "parcel-building-facts/bs.json",
+      "bytes": 84661,
+      "sha256": "1ce88e2af81ed1ca399e8535c9abbe0f2b5d2c128910829c2d202309a08dbf95"
+    },
+    {
+      "path": "parcel-building-facts/bt.json",
+      "bytes": 87091,
+      "sha256": "14f4a65e10c0d76be161bd0bd02fd1ae4a010d810ddea1089587b202ab75916d"
+    },
+    {
+      "path": "parcel-building-facts/bv.json",
+      "bytes": 66333,
+      "sha256": "272ef6e3d5b8bb29263d14cbf3e508dafbaaf4fce33dd0220509d24a36d23dcf"
+    },
+    {
+      "path": "parcel-building-facts/bw.json",
+      "bytes": 71110,
+      "sha256": "d4429c8aa661608c8422f29c45346c0c854c5c06f76f7123b7ffa5ffc4b36900"
+    },
+    {
+      "path": "parcel-building-facts/bx.json",
+      "bytes": 77209,
+      "sha256": "be5e390cc8588d89b850319867d511d7a9c5048731592ee526a2d71e938e1d0e"
+    },
+    {
+      "path": "parcel-building-facts/by.json",
+      "bytes": 75750,
+      "sha256": "e172d7f30025ff5eb2af008db0acb5b86d66da9c254da42edb8d0b7fedcfd280"
+    },
+    {
+      "path": "parcel-building-facts/bz.json",
+      "bytes": 84272,
+      "sha256": "f5b5a7b9dbac47c53b37677c1d60db37d808951019e590113803de6f8c9ab9eb"
+    },
+    {
+      "path": "parcel-building-facts/c.json",
+      "bytes": 2419535,
+      "sha256": "1e951f94d1112cfc29f01ae7a597fb48980c6ac84a8a5539905b0d8f47736c69"
+    },
+    {
+      "path": "parcel-building-facts/c0.json",
+      "bytes": 74805,
+      "sha256": "dba25addcf3742b89f7cddc1f43c9b942fc7a6ffb768cfa737f81986f401c101"
+    },
+    {
+      "path": "parcel-building-facts/c1.json",
+      "bytes": 67400,
+      "sha256": "5097e1afbc477fc8f9f716f1f870cfd03fbe09e2ce489fe5ee4be240bc7a1f2c"
+    },
+    {
+      "path": "parcel-building-facts/c2.json",
+      "bytes": 74838,
+      "sha256": "8cdb2a7fc1d278a1aade62b80105ef4c9ead10e34302d20498e9812360fa7d72"
+    },
+    {
+      "path": "parcel-building-facts/c3.json",
+      "bytes": 84232,
+      "sha256": "6967f269dadef4afe1b0293e0bb4e9770491b57b97d61fc78a20a5271b23e84c"
+    },
+    {
+      "path": "parcel-building-facts/c4.json",
+      "bytes": 73467,
+      "sha256": "dc8d801caac6cde37988697a94748d402f67676b8c38314de4b99a32c59b4018"
+    },
+    {
+      "path": "parcel-building-facts/c5.json",
+      "bytes": 67261,
+      "sha256": "4fd15c06a824ed3533858549570903563c290b65a6b9e2c0b1a044fe794a3dbe"
+    },
+    {
+      "path": "parcel-building-facts/c6.json",
+      "bytes": 84236,
+      "sha256": "d88fc952f6ea01d8dfb7a09485dbdaeb809fb56699984cb39dca17f037024307"
+    },
+    {
+      "path": "parcel-building-facts/c7.json",
+      "bytes": 71045,
+      "sha256": "7a046979a3884c2401fd8d8ba1ce9e53700d701b15ae35da7b64955417811e2d"
+    },
+    {
+      "path": "parcel-building-facts/c8.json",
+      "bytes": 79972,
+      "sha256": "31414d332b50aa9b3456265747e62dedaf780cbcd16e5162f6f648da77f402ab"
+    },
+    {
+      "path": "parcel-building-facts/c9.json",
+      "bytes": 85731,
+      "sha256": "77129244464e21c9d8506b3a3c4a9c2277e9c4215214268448098899611ba825"
+    },
+    {
+      "path": "parcel-building-facts/ca.json",
+      "bytes": 77619,
+      "sha256": "50df80cc7a0d58d01d7cde802fa860bb8d7d6d7c73bc359f09f348c44ea50a88"
+    },
+    {
+      "path": "parcel-building-facts/cb.json",
+      "bytes": 68230,
+      "sha256": "5df23074a3911f7b4aa1fa10a580bb49523dc03f6b264e704fc854c93d5aae12"
+    },
+    {
+      "path": "parcel-building-facts/cc.json",
+      "bytes": 76274,
+      "sha256": "8db3a5a0c8569459bc0fc3d26425d1c0a097fd25df9e5f182042ceecbc484873"
+    },
+    {
+      "path": "parcel-building-facts/cd.json",
+      "bytes": 86087,
+      "sha256": "4aae631b5b60105b42ea6a1697794862d0a68ef40c3e376d0263b4f7e7be3654"
+    },
+    {
+      "path": "parcel-building-facts/ce.json",
+      "bytes": 81895,
+      "sha256": "d8feae206575daf4ccf8776b1cface33074a1abe7666b2108ce2d8b9bc2785e7"
+    },
+    {
+      "path": "parcel-building-facts/cf.json",
+      "bytes": 75237,
+      "sha256": "46c9d64991f5dae340a13b41d9d11c0e4e59ce9776e3e9b3d26e86fd8b7f4f6f"
+    },
+    {
+      "path": "parcel-building-facts/cg.json",
+      "bytes": 78743,
+      "sha256": "f9201f65681f5a909470b7a97b0c86f709b54fac669bcd9a9ec2f6127f41989c"
+    },
+    {
+      "path": "parcel-building-facts/ch.json",
+      "bytes": 67418,
+      "sha256": "c9ad4650e0cb7be270990bd49bbd621b8880704e078f9c14c1aed170b9284a71"
+    },
+    {
+      "path": "parcel-building-facts/cj.json",
+      "bytes": 75357,
+      "sha256": "4a143ecde7fe72d0787dea70ae5f22b6c0f4b3e2c9401a33a125010f4c755330"
+    },
+    {
+      "path": "parcel-building-facts/ck.json",
+      "bytes": 76258,
+      "sha256": "ab8ac8d89fe726dba0c3196645c0b481949f2a430ef4d1188228dbb364a4ede9"
+    },
+    {
+      "path": "parcel-building-facts/cm.json",
+      "bytes": 70170,
+      "sha256": "a8a050b1bcf2dd807d10312f0cbd7768b0f7ba73ff51410471535c65e2473acc"
+    },
+    {
+      "path": "parcel-building-facts/cn.json",
+      "bytes": 76721,
+      "sha256": "d8a00f95d88c3fc8b58556dd885dac5f6da682eaed5585e4952f2c2887eb6b43"
+    },
+    {
+      "path": "parcel-building-facts/cp.json",
+      "bytes": 69653,
+      "sha256": "ece5a3c2a1288a0a7c0bbca78662017b83038119794128598bb612350522b861"
+    },
+    {
+      "path": "parcel-building-facts/cq.json",
+      "bytes": 79029,
+      "sha256": "46cc8239d4cf676747e670b3801d4fe2abab7f282ce133f12b96c8c0fe0916bb"
+    },
+    {
+      "path": "parcel-building-facts/cr.json",
+      "bytes": 73348,
+      "sha256": "2ee8a21f1b08c9b9651321455e26e60491f77acc19f48c634531173c3e5c97ee"
+    },
+    {
+      "path": "parcel-building-facts/cs.json",
+      "bytes": 81363,
+      "sha256": "aebb6418e8889f23a138a169ae0334a06a5de4a66ebadea032142ad940a50682"
+    },
+    {
+      "path": "parcel-building-facts/ct.json",
+      "bytes": 77136,
+      "sha256": "95661315497e2e41e788b69db064967a450340f5d7d1a8fbd8fc6129d57d5981"
+    },
+    {
+      "path": "parcel-building-facts/cv.json",
+      "bytes": 91367,
+      "sha256": "bd93c51211ce5d3a8b44e49d6ebc905d5dc0db1d7ebc969eb80a3de112dd3694"
+    },
+    {
+      "path": "parcel-building-facts/cw.json",
+      "bytes": 70641,
+      "sha256": "d40e82b860e8c0efe92b757f375e73f7a10bf41fa093a318220302f3dd323ddb"
+    },
+    {
+      "path": "parcel-building-facts/cx.json",
+      "bytes": 96967,
+      "sha256": "8868bbbae16136769210f0c49c4d5f30f7a88bda54d7063f83bfad92b03b5b2d"
+    },
+    {
+      "path": "parcel-building-facts/cy.json",
+      "bytes": 67911,
+      "sha256": "973403e3d0cae3d0d32a10da09688ab50f576ad6629cb991cc40f80880dfb917"
+    },
+    {
+      "path": "parcel-building-facts/cz.json",
+      "bytes": 77072,
+      "sha256": "b8faed708810a884bbe8bfd00573842e26861ee117e6ed39d3e8fb88a0901d0e"
+    },
+    {
+      "path": "parcel-building-facts/d.json",
+      "bytes": 2442099,
+      "sha256": "b1be43f1aca31496c452095be3ef792c639c0334c455e90e21af94ec7e508d2e"
+    },
+    {
+      "path": "parcel-building-facts/d0.json",
+      "bytes": 80485,
+      "sha256": "111fd820b0c84f57e77ee0ff17758c812bcd4e68aebe2e1ed3cb3bd6d058e2c4"
+    },
+    {
+      "path": "parcel-building-facts/d1.json",
+      "bytes": 68160,
+      "sha256": "9170c7a31a5c9af54ca24d8d14aab2f38e8cf502b5a7db102552f4af8e303348"
+    },
+    {
+      "path": "parcel-building-facts/d2.json",
+      "bytes": 74803,
+      "sha256": "f99cb0ff2c816f3014fc99c643756faed5458d904349655461590bc3e444dcb4"
+    },
+    {
+      "path": "parcel-building-facts/d3.json",
+      "bytes": 70595,
+      "sha256": "fb022808ca2d927aded7160fe42c0c78b8edb951db7825cb36063198304126bd"
+    },
+    {
+      "path": "parcel-building-facts/d4.json",
+      "bytes": 73056,
+      "sha256": "4159225e557f9f62f822c4209a1f036a4cd4ef761a687b52bc2daef54bad1402"
+    },
+    {
+      "path": "parcel-building-facts/d5.json",
+      "bytes": 80978,
+      "sha256": "0823e8fb2daaf6561fdf94212d2ec498a8aa88d35bd12eb3158e182a890e910d"
+    },
+    {
+      "path": "parcel-building-facts/d6.json",
+      "bytes": 75359,
+      "sha256": "70050cf8c91f233a34777a47ac5932c51bb6bf616c4f46fcfb79af758143af5f"
+    },
+    {
+      "path": "parcel-building-facts/d7.json",
+      "bytes": 78538,
+      "sha256": "c3ee91071acb7052c1d5d9b74343d49c4dc2ac27173949f5cfaa891c04ae32d9"
+    },
+    {
+      "path": "parcel-building-facts/d8.json",
+      "bytes": 81451,
+      "sha256": "4de31612c8d242fd405145870bdc9cfa6255d3d9971e6371886300741064ccb7"
+    },
+    {
+      "path": "parcel-building-facts/d9.json",
+      "bytes": 75714,
+      "sha256": "f08375a75f0a3d6d49600c33cd4c3d49b8296d6fca648a66f0b2c6116de41801"
+    },
+    {
+      "path": "parcel-building-facts/da.json",
+      "bytes": 77244,
+      "sha256": "31b585a79008cdc1bb6cdc86b052f1a6e408b4b994fbf2267ab3a3b4e2713c85"
+    },
+    {
+      "path": "parcel-building-facts/db.json",
+      "bytes": 87057,
+      "sha256": "1123bf725bafe4e132bbe1e9c0954b020039dc759367ab813669b7f0b557600e"
+    },
+    {
+      "path": "parcel-building-facts/dc.json",
+      "bytes": 72538,
+      "sha256": "1febcb137bec9e2cd00baac1103e669e3fe365009e27f751d3bade42670339c1"
+    },
+    {
+      "path": "parcel-building-facts/dd.json",
+      "bytes": 75252,
+      "sha256": "e2949151fd0cb3d58b8e59046d9e81900078d9e3b42f931ce36543b4dc03faaf"
+    },
+    {
+      "path": "parcel-building-facts/de.json",
+      "bytes": 79636,
+      "sha256": "2c91c5cdc10c501618eee2d52bb3aa1e857c071347e01d2970392a6562d39376"
+    },
+    {
+      "path": "parcel-building-facts/df.json",
+      "bytes": 64452,
+      "sha256": "7e269e58a8cce330f377f415e1cded42cd02b7f025302c5ce584c6ccf937e3d3"
+    },
+    {
+      "path": "parcel-building-facts/dg.json",
+      "bytes": 88063,
+      "sha256": "e6aa38ec9e0ff76f71d4e15e1c4fdd4771e4d055c591d0009749704de74451df"
+    },
+    {
+      "path": "parcel-building-facts/dh.json",
+      "bytes": 77726,
+      "sha256": "14ea3da2f300ac410a21e6901931f419399bb11513dc5dd72a1c75cedc96fa7a"
+    },
+    {
+      "path": "parcel-building-facts/dj.json",
+      "bytes": 77270,
+      "sha256": "ab6f6cde7a9717620b7e0870642c70c6b5dde40183a057d2ed8f4d9ca621a010"
+    },
+    {
+      "path": "parcel-building-facts/dk.json",
+      "bytes": 80495,
+      "sha256": "554b23a8f7bf8e9b4715c557e97ffbc5e70d4dea7b0a3d0adba8e8c84e605350"
+    },
+    {
+      "path": "parcel-building-facts/dm.json",
+      "bytes": 80943,
+      "sha256": "392ef7877999d16398ef68164a2f05e481e07fcf12cb77d2c10458fdab113202"
+    },
+    {
+      "path": "parcel-building-facts/dn.json",
+      "bytes": 73910,
+      "sha256": "43d12b8bedd0a9fe77d8e27d96db482ab36b586ad4b0102f7a4ea4c596368350"
+    },
+    {
+      "path": "parcel-building-facts/dp.json",
+      "bytes": 72021,
+      "sha256": "0f5ca65ff3fc1f067790bb85b097a0d0ace7924e00ed46075d3602b5472d0e05"
+    },
+    {
+      "path": "parcel-building-facts/dq.json",
+      "bytes": 63515,
+      "sha256": "9cb2b750827e9790fde9094c05c00314521153cd0aff68aa351a01f7d2a6d61e"
+    },
+    {
+      "path": "parcel-building-facts/dr.json",
+      "bytes": 64424,
+      "sha256": "4e694b3254e4bb50932b7ddedd12c655b64ebe410eea3aae063a62827a42a097"
+    },
+    {
+      "path": "parcel-building-facts/ds.json",
+      "bytes": 77161,
+      "sha256": "34ee81efdf472d5324fefb06aa24a170f31456b91132e97c99d247e06cefe170"
+    },
+    {
+      "path": "parcel-building-facts/dt.json",
+      "bytes": 82307,
+      "sha256": "a256dc694f7e3f4a67fd0b8388fb7789f1e00d93fd52712ff761e9626105407a"
+    },
+    {
+      "path": "parcel-building-facts/dv.json",
+      "bytes": 73914,
+      "sha256": "62b14542c382777eca15e722d4eaf9ec0ca8caa4419cd1f6fa0b8327d1e4ecfa"
+    },
+    {
+      "path": "parcel-building-facts/dw.json",
+      "bytes": 86555,
+      "sha256": "3ac4656d57ad2ce66ad80aa6459fd9443dc9a2eb4931749d0ac9978d44e26aa6"
+    },
+    {
+      "path": "parcel-building-facts/dx.json",
+      "bytes": 72465,
+      "sha256": "189c84aa4b18db481f43a883ab1dc832ce5293dd4fd92f29e8ed89aad53b9112"
+    },
+    {
+      "path": "parcel-building-facts/dy.json",
+      "bytes": 74817,
+      "sha256": "b59da4469cd0e9b08b73369f370d631015b8b81c0e488a73908c60da0e7e0a4a"
+    },
+    {
+      "path": "parcel-building-facts/dz.json",
+      "bytes": 78522,
+      "sha256": "22c4fe1904f396888fc60113888248375814b91aac3544ef85179a2196642df5"
+    },
+    {
+      "path": "parcel-building-facts/e.json",
+      "bytes": 2489370,
+      "sha256": "3390d92622f3fb8b8da645a8b2d0294e59dc68d459b62994173e8c9a1d4b6d09"
+    },
+    {
+      "path": "parcel-building-facts/e0.json",
+      "bytes": 77182,
+      "sha256": "605aef8bf794ac0d9e1d25723b8008bc89fc4f6a0664377f09139e7a850de4d9"
+    },
+    {
+      "path": "parcel-building-facts/e1.json",
+      "bytes": 80358,
+      "sha256": "c41f2c8e65b314cfa124e6dc63efc5e0f26b3abb215009eb87cfd30ca9c2346a"
+    },
+    {
+      "path": "parcel-building-facts/e2.json",
+      "bytes": 76677,
+      "sha256": "ea1b0c5ee3e730d70bd231e9f832ac2dabfbdeeb9d3a175d3f6a3c17432712c3"
+    },
+    {
+      "path": "parcel-building-facts/e3.json",
+      "bytes": 85225,
+      "sha256": "f955ed81a4c799fe55a8bbaeb7eece8d7710815585e382806ccdcc0dd5594329"
+    },
+    {
+      "path": "parcel-building-facts/e4.json",
+      "bytes": 77229,
+      "sha256": "3d42b3689b61556ab7501f8f30ca5d6cd48fb6d384f7778ed95b747324ca9001"
+    },
+    {
+      "path": "parcel-building-facts/e5.json",
+      "bytes": 66801,
+      "sha256": "27ff992be84b27e4aef08c48859588f3bd5ff900a4352b02f2ba7617882ef0bb"
+    },
+    {
+      "path": "parcel-building-facts/e6.json",
+      "bytes": 74886,
+      "sha256": "58331db7990ee1368a367d7fe05cf6423604c0e8492c90cc3490167abd7de2b0"
+    },
+    {
+      "path": "parcel-building-facts/e7.json",
+      "bytes": 77054,
+      "sha256": "494a6758fabc8bc4571ba2d5da462a226332318d37a199b3d022d40cd9a83b67"
+    },
+    {
+      "path": "parcel-building-facts/e8.json",
+      "bytes": 73920,
+      "sha256": "e66a7c9a42131eb619e226498f2a24a5599d2efc5dc7d08e5820e07f383d6efa"
+    },
+    {
+      "path": "parcel-building-facts/e9.json",
+      "bytes": 78214,
+      "sha256": "8ef2ccd178331fd8bec5e084e47b1ad9244ce6284d8600e598fdc57f0888268e"
+    },
+    {
+      "path": "parcel-building-facts/ea.json",
+      "bytes": 79541,
+      "sha256": "2d2f15d777e0aaaf700f725c6e3d32ed27ac8d8910b4d222fc659d9e4f29f535"
+    },
+    {
+      "path": "parcel-building-facts/eb.json",
+      "bytes": 79478,
+      "sha256": "5323066feed7faa4c4bfc44aee5acf94f6b7386d7369b98d8d8ad3e58e9aadf7"
+    },
+    {
+      "path": "parcel-building-facts/ec.json",
+      "bytes": 71954,
+      "sha256": "8810f781d75f1842cf62bf11deddd98e41a5f03f7f031441ecfd6fc05b58df8e"
+    },
+    {
+      "path": "parcel-building-facts/ed.json",
+      "bytes": 83387,
+      "sha256": "a638d0267a7a9e4bb7a649a51b4f53afa245ed4b7694f412e0fa361f675e40c2"
+    },
+    {
+      "path": "parcel-building-facts/ee.json",
+      "bytes": 76758,
+      "sha256": "deaea10e1111f95443cb2a23a8f5872530216e448e8f6d8cb17f5d740836c91d"
+    },
+    {
+      "path": "parcel-building-facts/ef.json",
+      "bytes": 71525,
+      "sha256": "e0811d5c0e5a4aac0f722b825b998b59667d70c6d2ad3ac36ecb295c494af923"
+    },
+    {
+      "path": "parcel-building-facts/eg.json",
+      "bytes": 80439,
+      "sha256": "f8df082eeedd21a816a26849cc522b0804486a2a5468fdf5813c559b8ec71ea6"
+    },
+    {
+      "path": "parcel-building-facts/eh.json",
+      "bytes": 78069,
+      "sha256": "2eca4814461a0259965168464da5caca955877d3924a4b3fa37badc67f9251ac"
+    },
+    {
+      "path": "parcel-building-facts/ej.json",
+      "bytes": 76756,
+      "sha256": "d9d70d883fa7d0ad2f04dfbdfd40d7a85fd88a26557f35e67f6074230b74e02d"
+    },
+    {
+      "path": "parcel-building-facts/ek.json",
+      "bytes": 82405,
+      "sha256": "f6938b32ab832ca5cfdb7ae40d4a1ee204e933ec55e8c8952ab96fcd9a77ca84"
+    },
+    {
+      "path": "parcel-building-facts/em.json",
+      "bytes": 99231,
+      "sha256": "2d5348e4476ef9e38876734886c33aa14ea34324eaab7256e4abc1e34467deaa"
+    },
+    {
+      "path": "parcel-building-facts/en.json",
+      "bytes": 84326,
+      "sha256": "eeb8dc3219e0c4571077a5aa222a3cb07fc7af36351663e7d719c503a9e0d4b8"
+    },
+    {
+      "path": "parcel-building-facts/ep.json",
+      "bytes": 69659,
+      "sha256": "0c83469e100fb4d62554dfe7984342d26703d9bf8362ffbc43a037b3471976e4"
+    },
+    {
+      "path": "parcel-building-facts/eq.json",
+      "bytes": 77743,
+      "sha256": "35de85cd533faa726535ba8e7b49d322670beebe6ca4e059a79f153c0fe9f280"
+    },
+    {
+      "path": "parcel-building-facts/er.json",
+      "bytes": 70163,
+      "sha256": "f6513c280222c766d6ab5fb0bd8f8d218b96c4dc8c59475c3651c40043cf481c"
+    },
+    {
+      "path": "parcel-building-facts/es.json",
+      "bytes": 83335,
+      "sha256": "5310d7d9309f49da0d53b059dffef3b78a4d775a865e60273e1d6690b7eec813"
+    },
+    {
+      "path": "parcel-building-facts/et.json",
+      "bytes": 71519,
+      "sha256": "7a1079f9d0d3353ffe58a463879d8a47f1f9d2df9794801eb0a2fbfc3bd2773f"
+    },
+    {
+      "path": "parcel-building-facts/ev.json",
+      "bytes": 80061,
+      "sha256": "5d81faf9b1099d5f404d1ee5b2d9d089d49dc6b38e63446992637ca4248bb5eb"
+    },
+    {
+      "path": "parcel-building-facts/ew.json",
+      "bytes": 85304,
+      "sha256": "62f99106ad9bd3136a490118896f06bf7203c743305255b4681f4ccf92d28b5c"
+    },
+    {
+      "path": "parcel-building-facts/ex.json",
+      "bytes": 74791,
+      "sha256": "910696dee759b2d8db4f5380d04a49ded9befe7dc7a51ee56bace8c7f6cd7ef3"
+    },
+    {
+      "path": "parcel-building-facts/ey.json",
+      "bytes": 76281,
+      "sha256": "00f2209afe3f174ec68c41f2955b9d85953aef8f722874996af53f1386d731ba"
+    },
+    {
+      "path": "parcel-building-facts/ez.json",
+      "bytes": 71567,
+      "sha256": "326b2dcefe17fa3820fdf174a3500407088b04f64360db700ef24cab1711a220"
+    },
+    {
+      "path": "parcel-building-facts/f.json",
+      "bytes": 2425894,
+      "sha256": "ca0a30772f4de14e64db2dc00be1bbfccb2824fbe11add33487395c191709aad"
+    },
+    {
+      "path": "parcel-building-facts/f0.json",
+      "bytes": 75361,
+      "sha256": "258a40999d3eea38072ef22f34aeb4c8eceaa1c9de477c71d2d6b460cefdfbdd"
+    },
+    {
+      "path": "parcel-building-facts/f1.json",
+      "bytes": 69149,
+      "sha256": "f8d74d3456dc58bcba9a9191bc7ae2bf9656d133ea0d72102b3626304ec1a2af"
+    },
+    {
+      "path": "parcel-building-facts/f2.json",
+      "bytes": 70644,
+      "sha256": "8612316c254c98484a45e7616a40ba62d43d4473f816e99437683f167f7088de"
+    },
+    {
+      "path": "parcel-building-facts/f3.json",
+      "bytes": 75379,
+      "sha256": "ed5723ada9071b9baa976558ff60a5cab5dfd3fb9a73e8b1b536bf522c527429"
+    },
+    {
+      "path": "parcel-building-facts/f4.json",
+      "bytes": 74774,
+      "sha256": "2fb7520480ccaa7cfb7cb70d4cd07a37a6517330388bd296e12162baf2e4a647"
+    },
+    {
+      "path": "parcel-building-facts/f5.json",
+      "bytes": 70481,
+      "sha256": "0f5b71d8baf05af577d923ba3e40489ca3397eea648191330e20aa1c8451734d"
+    },
+    {
+      "path": "parcel-building-facts/f6.json",
+      "bytes": 82414,
+      "sha256": "328879b6bd0f72c489f4cc7ddc955384087a20b306f8bfbbbed92fe15d6b4b08"
+    },
+    {
+      "path": "parcel-building-facts/f7.json",
+      "bytes": 85668,
+      "sha256": "e2f7bdb0a0f1323604f3b034ebffc6f3ea9ea28f92f7dabef08d9025d26fc919"
+    },
+    {
+      "path": "parcel-building-facts/f8.json",
+      "bytes": 76763,
+      "sha256": "25eb3220a5cf9d842eb8b9c4bd524fd868c5dbd855517e18efd277eea40faebc"
+    },
+    {
+      "path": "parcel-building-facts/f9.json",
+      "bytes": 75749,
+      "sha256": "3d1af4d11e613eb5c1c37d354ca04a5c56bf90d4117733b328f35a87e8c598fd"
+    },
+    {
+      "path": "parcel-building-facts/fa.json",
+      "bytes": 72594,
+      "sha256": "654e988ed95f5edc1119bb77c8f0a07e375454e1570868cc7e96fc4866530d10"
+    },
+    {
+      "path": "parcel-building-facts/fb.json",
+      "bytes": 74854,
+      "sha256": "0474f2c90dbd2eef7acb8687b0b0d02161fa6ba5b3bdc5d44a0c3efefec0cf5f"
+    },
+    {
+      "path": "parcel-building-facts/fc.json",
+      "bytes": 78133,
+      "sha256": "097ec3f86143c613984540d787eba4bd9987494d8c7914f6d4d6af9b0a4d7816"
+    },
+    {
+      "path": "parcel-building-facts/fd.json",
+      "bytes": 69648,
+      "sha256": "102b6d993200fe37d63769efa14391e4ec5482dcae685548f8073f97766753e9"
+    },
+    {
+      "path": "parcel-building-facts/fe.json",
+      "bytes": 86138,
+      "sha256": "90fbd61a572b573aadcb1bf0a0d99eefd79a3b2918f445f8d88e10c901d653f4"
+    },
+    {
+      "path": "parcel-building-facts/ff.json",
+      "bytes": 80968,
+      "sha256": "557804e2eb843462603c3bd4ac5973aa174d2048477396682ddb4b593b240c00"
+    },
+    {
+      "path": "parcel-building-facts/fg.json",
+      "bytes": 70018,
+      "sha256": "108b891ba01cd2597b3af945950390f4572bf1611b51fe6e424cfa67e9776934"
+    },
+    {
+      "path": "parcel-building-facts/fh.json",
+      "bytes": 87036,
+      "sha256": "3c8a14eefa037506a5091d8634910659544235bba300f1b8784ffb9a300961ee"
+    },
+    {
+      "path": "parcel-building-facts/fj.json",
+      "bytes": 81253,
+      "sha256": "5fa876abd12f43965e6271a8041d74a435403535c281c611c4f57a941b231f97"
+    },
+    {
+      "path": "parcel-building-facts/fk.json",
+      "bytes": 81360,
+      "sha256": "698d943c891fc88cf336ca605d925b42eb5e1997e618667aeee33463c2f9bba2"
+    },
+    {
+      "path": "parcel-building-facts/fm.json",
+      "bytes": 84747,
+      "sha256": "56aba007a763c618e74934610c157b368460472576fc7df2c490574767b03ee5"
+    },
+    {
+      "path": "parcel-building-facts/fn.json",
+      "bytes": 75813,
+      "sha256": "860234ca6c344f3f6ea019c6f0d05636e152ebc017d6a6ef8455b2a7f172aa26"
+    },
+    {
+      "path": "parcel-building-facts/fp.json",
+      "bytes": 79574,
+      "sha256": "32d026e6fea3e2a8dc28b7f7b528c45426a9609d7d99ccfaa21673170bd89ee0"
+    },
+    {
+      "path": "parcel-building-facts/fq.json",
+      "bytes": 77096,
+      "sha256": "9495d106c8dc24f0512e71da509b69b21892dd513a894164fc49504ccfb69651"
+    },
+    {
+      "path": "parcel-building-facts/fr.json",
+      "bytes": 86066,
+      "sha256": "6b7107c3b60f4d5792a29be53322ce3602908a76385cc93fb6626d7140a1aaba"
+    },
+    {
+      "path": "parcel-building-facts/fs.json",
+      "bytes": 72476,
+      "sha256": "17771dae207627db94147460dd9feb7d885f9e6f4bdf4d64b8c7684ff0c4e240"
+    },
+    {
+      "path": "parcel-building-facts/ft.json",
+      "bytes": 74383,
+      "sha256": "463b93b1d722593682f326aa28e02cdee402708723d20212c890625ddb26ef39"
+    },
+    {
+      "path": "parcel-building-facts/fv.json",
+      "bytes": 75815,
+      "sha256": "b4cf784782859837ae66bbae616f5c2f0248002d67d9b1e44e6555c53cd7c417"
+    },
+    {
+      "path": "parcel-building-facts/fw.json",
+      "bytes": 81415,
+      "sha256": "905cd936e1cb8f923aa31549210735894ff0b8ed508c9613e5d39c7298b3f97f"
+    },
+    {
+      "path": "parcel-building-facts/fx.json",
+      "bytes": 73352,
+      "sha256": "f6c2b641035ab5428a5a27e24a09f9dce3c62301c59290388d6d88272ca92595"
+    },
+    {
+      "path": "parcel-building-facts/fy.json",
+      "bytes": 76726,
+      "sha256": "a17b04b8f03b16e58a927fde3f8fd778f756b36c3cdaa151b8810ab6f1aca186"
+    },
+    {
+      "path": "parcel-building-facts/fz.json",
+      "bytes": 75728,
+      "sha256": "34126c112f8f0902e50b747bc6f943eb1fc8d6fa90629f7d5ed03a95f5c08b13"
+    },
+    {
+      "path": "parcel-building-facts/g.json",
+      "bytes": 2463669,
+      "sha256": "015b66a0863df947117de90cf07d29e69359e087959c124d611c2b9eacc29a72"
+    },
+    {
+      "path": "parcel-building-facts/g0.json",
+      "bytes": 79505,
+      "sha256": "0e8fb2baa3c4db861adf78469df47da3d660d30e50b1de4fcd9647c5e4c8ad76"
+    },
+    {
+      "path": "parcel-building-facts/g1.json",
+      "bytes": 74009,
+      "sha256": "f412a8caef7885c16a5cffed47ff1648e5c4b1029bf8e436c3ac3dd8c0309da5"
+    },
+    {
+      "path": "parcel-building-facts/g2.json",
+      "bytes": 81852,
+      "sha256": "79deb09fb07e9229ba6ca49885863406f084171586a7d9cb75aef95180a91903"
+    },
+    {
+      "path": "parcel-building-facts/g3.json",
+      "bytes": 79931,
+      "sha256": "346f3f4e2e11702d5b870c41a8a5ae91ffac2623fef04957a2800e8813047aae"
+    },
+    {
+      "path": "parcel-building-facts/g4.json",
+      "bytes": 76195,
+      "sha256": "4ac06e81629c3c4c033b4ea28c41831dcbe3d9e724e1d32956d318154f8669f5"
+    },
+    {
+      "path": "parcel-building-facts/g5.json",
+      "bytes": 76138,
+      "sha256": "54aae8f3c9267d077bee8fa4e345614c7a51d9ef7f7faa101d512add34f0f43b"
+    },
+    {
+      "path": "parcel-building-facts/g6.json",
+      "bytes": 75720,
+      "sha256": "ba719c5e31497413c2d7c63328756acecd9e6defa0a7c9c35ec00a4ac0d09255"
+    },
+    {
+      "path": "parcel-building-facts/g7.json",
+      "bytes": 67855,
+      "sha256": "b4d838afbaccf1059e75a5745f084c32ee65bfb0d9e6cd8bf8ba44a6909e89eb"
+    },
+    {
+      "path": "parcel-building-facts/g8.json",
+      "bytes": 89381,
+      "sha256": "3905f66c8f5d54d587039167d58a280bf4846e782696f3863f59bf25af2903f6"
+    },
+    {
+      "path": "parcel-building-facts/g9.json",
+      "bytes": 70112,
+      "sha256": "207281f0498d3ffffcd730474ccbe8fdee70c874ad028d7b5adc11ad4e9b52fc"
+    },
+    {
+      "path": "parcel-building-facts/ga.json",
+      "bytes": 76242,
+      "sha256": "6aef760e4532a327626e8f59ab2e33a90d6c3863978bbb35f5094efc1079caf7"
+    },
+    {
+      "path": "parcel-building-facts/gb.json",
+      "bytes": 64859,
+      "sha256": "da7f3c10eaf3aaf12a8e17bbb0d9d9f44043dc1dd1f45c2cc3b882d942b0f112"
+    },
+    {
+      "path": "parcel-building-facts/gc.json",
+      "bytes": 77540,
+      "sha256": "0be87688aad21a2e0a9a2f25bea9b12edd90623b2f780d9a4837d7b872ed7ac5"
+    },
+    {
+      "path": "parcel-building-facts/gd.json",
+      "bytes": 74419,
+      "sha256": "8e1c34c2fcd79cfe8a29d578cbc7cda86563f6812a6f7e256ad00550cd4c072e"
+    },
+    {
+      "path": "parcel-building-facts/ge.json",
+      "bytes": 69590,
+      "sha256": "c9b6abbc6f6db4313944b0259ebad68deb33631770c8c8dc70a22c0177b318e8"
+    },
+    {
+      "path": "parcel-building-facts/gf.json",
+      "bytes": 63075,
+      "sha256": "5fba3ec6ab556fe1fa60726adeebc5d45898557c0be21a5ef29e98f643012d6c"
+    },
+    {
+      "path": "parcel-building-facts/gg.json",
+      "bytes": 86616,
+      "sha256": "a179429d0dbdb227abefb7f5395aba50357915c076f5199670b91b3b5831b92e"
+    },
+    {
+      "path": "parcel-building-facts/gh.json",
+      "bytes": 64961,
+      "sha256": "31fb55e0c3dea98de2844f4b3e523cfc041601dee0b8e4fe363e8fa9411c21ee"
+    },
+    {
+      "path": "parcel-building-facts/gj.json",
+      "bytes": 82287,
+      "sha256": "56bdf9ed9baad7b7a555deb44d5767f59e13ce9d064f7d1e835744fb2e509223"
+    },
+    {
+      "path": "parcel-building-facts/gk.json",
+      "bytes": 77615,
+      "sha256": "b7362b4c05edd69f3b02572c27beebce841f1eafdfb6ad29362c7d0dd688848c"
+    },
+    {
+      "path": "parcel-building-facts/gm.json",
+      "bytes": 70190,
+      "sha256": "fac59c373ecffb8d2841d32537a23ab1186fa208ebec93a701caf214173f3095"
+    },
+    {
+      "path": "parcel-building-facts/gn.json",
+      "bytes": 77193,
+      "sha256": "db6d827ca4f5e1d53f479629a27d5de448f903449e8b6a27dd6d5a11e0928588"
+    },
+    {
+      "path": "parcel-building-facts/gp.json",
+      "bytes": 67840,
+      "sha256": "0c9ad72ac0ffff0072eb6ce575f59a314c68cb564bcd6c8b8271b1a645b47a3f"
+    },
+    {
+      "path": "parcel-building-facts/gq.json",
+      "bytes": 72443,
+      "sha256": "82ceff0e2d3e8e719f75c80e52aaeb3ecfbe8de335207d0cf22df33e3d5ba2e3"
+    },
+    {
+      "path": "parcel-building-facts/gr.json",
+      "bytes": 74010,
+      "sha256": "5417c23587c51024275998b89865c31e89fef31afc6d374a966213ce3fc4a247"
+    },
+    {
+      "path": "parcel-building-facts/gs.json",
+      "bytes": 81924,
+      "sha256": "388517b7e2795f33379fe2f261b6d73e529d14ed387f3c4f2f1937f34f47ac26"
+    },
+    {
+      "path": "parcel-building-facts/gt.json",
+      "bytes": 79053,
+      "sha256": "a0c530e537566f12d7cf2a05eaa5b2995038378c1aa11b9eef6e7c95fa2df034"
+    },
+    {
+      "path": "parcel-building-facts/gv.json",
+      "bytes": 80010,
+      "sha256": "f686472cba8fa3d88155bc49fd641d2427d712d5089f83708672ca7ff35e9b18"
+    },
+    {
+      "path": "parcel-building-facts/gw.json",
+      "bytes": 83693,
+      "sha256": "b6800fb55430992c6d9ce20d511f9746d79f729b05530de116c37034f38b5912"
+    },
+    {
+      "path": "parcel-building-facts/gx.json",
+      "bytes": 67253,
+      "sha256": "15b90273788e560d96ae98c2d9130de6a752fbea69cd9b880c970c1ed34d8199"
+    },
+    {
+      "path": "parcel-building-facts/gy.json",
+      "bytes": 73805,
+      "sha256": "3d4db084ac9bd2338afe614255bea7ea7c92140cd2a4e53569ea318dc825314f"
+    },
+    {
+      "path": "parcel-building-facts/gz.json",
+      "bytes": 74916,
+      "sha256": "a1d8f04b37443605f68993f57be098758ea2c3d3b1e293d14e0f1494cfe05f3f"
+    },
+    {
+      "path": "parcel-building-facts/h.json",
+      "bytes": 2432085,
+      "sha256": "a4317936caf908880ad40f84f31e1897de287b1d7beda3b6dd540f54c31fff25"
+    },
+    {
+      "path": "parcel-building-facts/h0.json",
+      "bytes": 77627,
+      "sha256": "55f1021554aa5c5b19ff7132af1bc9ea684d3596cde174e9698f3781a476087b"
+    },
+    {
+      "path": "parcel-building-facts/h1.json",
+      "bytes": 76265,
+      "sha256": "0e2e0b4b1afc9ebf6e82096620556ff739ad13b2a14610c2ae8c8fdba9b849c8"
+    },
+    {
+      "path": "parcel-building-facts/h2.json",
+      "bytes": 90955,
+      "sha256": "a1bf1b6cc47d5d281def08a24b9439ef8ba0f65f6672f844cd6330bd88036db2"
+    },
+    {
+      "path": "parcel-building-facts/h3.json",
+      "bytes": 86681,
+      "sha256": "1fdd05d8abaeb49f3046725d3bbe9c9b433bfe5879e689d5bdfd03bd1b10b725"
+    },
+    {
+      "path": "parcel-building-facts/h4.json",
+      "bytes": 82250,
+      "sha256": "871c0099f32de8a55d085f5cf9f828fa3d50db1c4b1356add896958e441c245e"
+    },
+    {
+      "path": "parcel-building-facts/h5.json",
+      "bytes": 71515,
+      "sha256": "d62f88a16b703b76a1dcbd1921c7d7c6e7cd1febb3622723f0a37f014e21c9a1"
+    },
+    {
+      "path": "parcel-building-facts/h6.json",
+      "bytes": 68301,
+      "sha256": "bfbb8f3f776dce10a3650530cc92708c10a6ff8c5e466e443d9c39bafb963797"
+    },
+    {
+      "path": "parcel-building-facts/h7.json",
+      "bytes": 74358,
+      "sha256": "a7d87e6ac4c236f880b467e337f3b89e576f341f4d5b0d90e00e76a1de7a6554"
+    },
+    {
+      "path": "parcel-building-facts/h8.json",
+      "bytes": 76783,
+      "sha256": "d43d0ced7082b244cbfcd90336425956bf601e61620c029bf2eb1ff7dd965347"
+    },
+    {
+      "path": "parcel-building-facts/h9.json",
+      "bytes": 77176,
+      "sha256": "6aea052ca04510f5b7525b06984f5f782ec086db215c85f25e72e988da6ae08d"
+    },
+    {
+      "path": "parcel-building-facts/ha.json",
+      "bytes": 73414,
+      "sha256": "cde2d6087c88f0b421be850e8d7e7e9582c7be7d001ae478e5d8cd9813011295"
+    },
+    {
+      "path": "parcel-building-facts/hb.json",
+      "bytes": 73441,
+      "sha256": "803d88719fb6f1ee6f33e67f877adb4d07b0d2aac0e25006a6366563c52448bf"
+    },
+    {
+      "path": "parcel-building-facts/hc.json",
+      "bytes": 72017,
+      "sha256": "cf4abb1b3defc8c2a8faebcf404a95a7f1c9a67f74d369c426ee3325f7ee6ef7"
+    },
+    {
+      "path": "parcel-building-facts/hd.json",
+      "bytes": 70635,
+      "sha256": "e2b839b30b69e4e66b019b042a4a54a9730c5aeda6d8d6e644678e91fbbe029e"
+    },
+    {
+      "path": "parcel-building-facts/he.json",
+      "bytes": 77315,
+      "sha256": "63efc06e3a3bd2d366853de723941b31f9078182ca21aa8d5f7e17893d9921d9"
+    },
+    {
+      "path": "parcel-building-facts/hf.json",
+      "bytes": 78184,
+      "sha256": "3e4797ba9867590b488f89aa8b3cfdf0bce4929ed944aff52d6ac5cc822efd54"
+    },
+    {
+      "path": "parcel-building-facts/hg.json",
+      "bytes": 66834,
+      "sha256": "fd390e2cd40a8f215c1637d86a9671dad91f6c16dd7bfb0990ca297a8f3cf385"
+    },
+    {
+      "path": "parcel-building-facts/hh.json",
+      "bytes": 84737,
+      "sha256": "f30184134a8aea01ea081300523a6a7ae4c10edc332d91c1a068a9ff86319043"
+    },
+    {
+      "path": "parcel-building-facts/hj.json",
+      "bytes": 77603,
+      "sha256": "444ee519f886aa63ffd056dfd05a77dc1be7d9ef20be1ff00554681dc986b3ae"
+    },
+    {
+      "path": "parcel-building-facts/hk.json",
+      "bytes": 77148,
+      "sha256": "fdc55db6a20822b2cf41f49d65c953fa08234d83e6789434cd3ced7b85ced512"
+    },
+    {
+      "path": "parcel-building-facts/hm.json",
+      "bytes": 81377,
+      "sha256": "4d6bd9115bc2fd00543ac0287d590136101abc5edeaaa0f682d7d8b2a8d7bf11"
+    },
+    {
+      "path": "parcel-building-facts/hn.json",
+      "bytes": 69598,
+      "sha256": "ce63e74dcc4fd28b5c1045333801bfdc8ca5ec8fad2ef44121f46f3992b6d636"
+    },
+    {
+      "path": "parcel-building-facts/hp.json",
+      "bytes": 89035,
+      "sha256": "cfe4be1fd5054e8eb43164a86a8e8d869062d8242e64477ea8ddd87d91455a86"
+    },
+    {
+      "path": "parcel-building-facts/hq.json",
+      "bytes": 69226,
+      "sha256": "d0ec7f21bbe290890b87235bd8eadfd46f3b601367fa09cb87b93b76ee377aee"
+    },
+    {
+      "path": "parcel-building-facts/hr.json",
+      "bytes": 80045,
+      "sha256": "17c4f6e5d076b76bc177134eced44554349373ab3b5780dd44cb4b40342a24cb"
+    },
+    {
+      "path": "parcel-building-facts/hs.json",
+      "bytes": 82415,
+      "sha256": "457beb48292d7f9de6c8dc1c51e5aa106ca9099988438951359c138048746cdc"
+    },
+    {
+      "path": "parcel-building-facts/ht.json",
+      "bytes": 69617,
+      "sha256": "906e89e5f457c7d231d54fc0485b52065478d6ed7efda3023cec3888341ae2dc"
+    },
+    {
+      "path": "parcel-building-facts/hv.json",
+      "bytes": 93767,
+      "sha256": "0a368994c5c3a5730521f2727b24f235a20e9dbd390a92f8f455ac69fba277f4"
+    },
+    {
+      "path": "parcel-building-facts/hw.json",
+      "bytes": 77134,
+      "sha256": "1fce5fb46d08246fd63326a443613c70d86abb20e8e7a99001d87bbe2f784391"
+    },
+    {
+      "path": "parcel-building-facts/hx.json",
+      "bytes": 68700,
+      "sha256": "4ee41fc768ac7a5a490f569bd9e73e0f05a1c03537c64c1c0fe88af442fe3efe"
+    },
+    {
+      "path": "parcel-building-facts/hy.json",
+      "bytes": 68696,
+      "sha256": "a4cbefdc0a960de1364041a8b22844e20e7ce97fb8044be1636abc1c6576c26a"
+    },
+    {
+      "path": "parcel-building-facts/hz.json",
+      "bytes": 66338,
+      "sha256": "36bd963b65e89c5756a1af961b877ab8ebb087da8d014d12c1f8f44b61851952"
+    },
+    {
+      "path": "parcel-building-facts/j.json",
+      "bytes": 2473229,
+      "sha256": "4a29b1bfdfb04b3a7326f044df3041f3f70d34cd0a2d335362d89fa22a873d50"
+    },
+    {
+      "path": "parcel-building-facts/j0.json",
+      "bytes": 76708,
+      "sha256": "135949e102e59e7bd069201f59706ea6ed2b86b5dcb7c20cf0a7af5eca981bfc"
+    },
+    {
+      "path": "parcel-building-facts/j1.json",
+      "bytes": 82349,
+      "sha256": "94bdf4f894e9b61d81f6c912537d2010f27aff7e75abd25f6f6263f538afb458"
+    },
+    {
+      "path": "parcel-building-facts/j2.json",
+      "bytes": 72964,
+      "sha256": "5b4776f3435f6d0873e9c1c4b094950e9f10ec478b5ad6bd8a66dd2f05a5520f"
+    },
+    {
+      "path": "parcel-building-facts/j3.json",
+      "bytes": 72970,
+      "sha256": "2adce554c2b916e957a4fdd5ab40bc135fa4e6a4fbd5b4e0929df5bc559a5f0b"
+    },
+    {
+      "path": "parcel-building-facts/j4.json",
+      "bytes": 77242,
+      "sha256": "52ba1585d120013ec62a36f5678b55a5240ec546b68c30c6d305c60491267aec"
+    },
+    {
+      "path": "parcel-building-facts/j5.json",
+      "bytes": 85316,
+      "sha256": "fcbf9070c6d7a86eee92f542dab76141061d14295e39966b91a9d0a9bca4c41e"
+    },
+    {
+      "path": "parcel-building-facts/j6.json",
+      "bytes": 71517,
+      "sha256": "7eebfa36edf773ca6924e6ca23764bbedafe9abf549a6283289cabbc7c12bb4e"
+    },
+    {
+      "path": "parcel-building-facts/j7.json",
+      "bytes": 75673,
+      "sha256": "10e0604c6883f8f32d8ea1da18c1c6bcd6e0a5a1d494a12e91d894914e227b52"
+    },
+    {
+      "path": "parcel-building-facts/j8.json",
+      "bytes": 77551,
+      "sha256": "be22339ca336887e31a1901a7805e778c544c22d8bfe8bacbd763d0ca2b3ac8b"
+    },
+    {
+      "path": "parcel-building-facts/j9.json",
+      "bytes": 79542,
+      "sha256": "1a0f5ad1670a1e56cc06961c8c95b00ea1833e5b740d19a58fc3c2b98112bc2c"
+    },
+    {
+      "path": "parcel-building-facts/ja.json",
+      "bytes": 71107,
+      "sha256": "4dd898de3b1de4b58f2cbb662ee5c235a9705a640b753791f8bba8a30fd2e170"
+    },
+    {
+      "path": "parcel-building-facts/jb.json",
+      "bytes": 74273,
+      "sha256": "ca5490069940a7674d3b8b1be70dbfd926ecb4242030b8f19b9f80d9def9d486"
+    },
+    {
+      "path": "parcel-building-facts/jc.json",
+      "bytes": 76221,
+      "sha256": "10b61899df2b8381aa65220c188dc52aa12187b823679027e4d05cd47c6a57cd"
+    },
+    {
+      "path": "parcel-building-facts/jd.json",
+      "bytes": 82303,
+      "sha256": "d9b969e726de2ae518fb0e0a68c34fd482df444295d1c9e2006bb6a279ad58af"
+    },
+    {
+      "path": "parcel-building-facts/je.json",
+      "bytes": 85235,
+      "sha256": "941b73d695d0f726ee14887a7b2b7add2dcd40f0d9c10e374fa76720939e4432"
+    },
+    {
+      "path": "parcel-building-facts/jf.json",
+      "bytes": 77635,
+      "sha256": "fd06970c4fba71fe506f66cd616bac8dddb6d852e1a7ef4e38330bcdd6e47203"
+    },
+    {
+      "path": "parcel-building-facts/jg.json",
+      "bytes": 79159,
+      "sha256": "9e954a9963bfb18fec84ee17e9d8cde3f3ec571278535bcaadf2b762707c5933"
+    },
+    {
+      "path": "parcel-building-facts/jh.json",
+      "bytes": 92160,
+      "sha256": "b2f08005096ce307ea666c236e55e71dc5025fe6f07b90d037adeb07c31267d8"
+    },
+    {
+      "path": "parcel-building-facts/jj.json",
+      "bytes": 88080,
+      "sha256": "30e721e69e2eb4dd75a79d8586725ea563dab8b8091dff627fa76e1ce6cbef6a"
+    },
+    {
+      "path": "parcel-building-facts/jk.json",
+      "bytes": 70157,
+      "sha256": "c22b6f67e9b84a18218ca0c0465cae8e20f575f12a2deedd165a13546501a3f3"
+    },
+    {
+      "path": "parcel-building-facts/jm.json",
+      "bytes": 79498,
+      "sha256": "5d60a23639ad7512120feb7129a76327e6f1ea4acd288926336535174830bc11"
+    },
+    {
+      "path": "parcel-building-facts/jn.json",
+      "bytes": 67303,
+      "sha256": "730a4512f86d543ab66ffd4fd194dfb60103bea90b0f628115517fa2af856415"
+    },
+    {
+      "path": "parcel-building-facts/jp.json",
+      "bytes": 73435,
+      "sha256": "a2457fbf763155627b63636c53903a71d09bc04329af062d6f0ee446c242edf7"
+    },
+    {
+      "path": "parcel-building-facts/jq.json",
+      "bytes": 82852,
+      "sha256": "7d773daf3c7b34e68ffa27db6f45143bce2ae0dc7f608245e1013bcd2161ebad"
+    },
+    {
+      "path": "parcel-building-facts/jr.json",
+      "bytes": 65959,
+      "sha256": "4948d44d335eecc1ba4e9b2b20e2cc7bb2299bf8a581bbdafa73dd832ac68900"
+    },
+    {
+      "path": "parcel-building-facts/js.json",
+      "bytes": 72910,
+      "sha256": "72437cd159fdb64e33ebf90c6801aec8a2c0165269842cb41809d18cb13bbedd"
+    },
+    {
+      "path": "parcel-building-facts/jt.json",
+      "bytes": 77601,
+      "sha256": "fd34d63aa7798e30f4f8a7b04415e0e890b4b129131240c9aa9812cc8792dbca"
+    },
+    {
+      "path": "parcel-building-facts/jv.json",
+      "bytes": 83789,
+      "sha256": "0f71152a7de70ffc27e3d4a8094caa7a8133b4f26e6f406727baea19840842f2"
+    },
+    {
+      "path": "parcel-building-facts/jw.json",
+      "bytes": 79207,
+      "sha256": "649a22e2f0cd3f37cf453d01dc860c65a0c46dd2d0f4c08ea8b112171730ef40"
+    },
+    {
+      "path": "parcel-building-facts/jx.json",
+      "bytes": 76640,
+      "sha256": "5f1080eec7c10902f4cbcf84ca98dc41251f825face1d71466e431b983850e06"
+    },
+    {
+      "path": "parcel-building-facts/jy.json",
+      "bytes": 84571,
+      "sha256": "3a326dd0885fc13a12297f78073fef89c447f3cd54cc0f64bb5ea761cdd182d1"
+    },
+    {
+      "path": "parcel-building-facts/jz.json",
+      "bytes": 84657,
+      "sha256": "a0fbede5b473d6c462d9155ad25112142b7ddea9d8801a9c9e514543142c0083"
+    },
+    {
+      "path": "parcel-building-facts/k.json",
+      "bytes": 2491269,
+      "sha256": "70549bc747b38c09f8c44e04bbd6d97290988aa0af755da72176fe98252cb524"
+    },
+    {
+      "path": "parcel-building-facts/k0.json",
+      "bytes": 72429,
+      "sha256": "caf7257a8f814cb0d6c611c0532f6552b9650fbd57be5d7d8a1af187a727acc4"
+    },
+    {
+      "path": "parcel-building-facts/k1.json",
+      "bytes": 70633,
+      "sha256": "fd0e387ea98bc21228c3845eee0b294acfbe88c4b30d00f58f1ca6269f13fa9b"
+    },
+    {
+      "path": "parcel-building-facts/k2.json",
+      "bytes": 77239,
+      "sha256": "fa943ea971bd87a2f578391d8f318923b173aea40caf5d31c596c09c69ab5e8c"
+    },
+    {
+      "path": "parcel-building-facts/k3.json",
+      "bytes": 61670,
+      "sha256": "5f980d8785e15309106ad3ec1f248a4710659cf0b6b05ce4cee206cd18f54d74"
+    },
+    {
+      "path": "parcel-building-facts/k4.json",
+      "bytes": 82389,
+      "sha256": "4e61f0c60c637b9272a22762d8c159d462c58279b0c0a06bf99f344ccb101c0a"
+    },
+    {
+      "path": "parcel-building-facts/k5.json",
+      "bytes": 77550,
+      "sha256": "b2923f2cd74caec4ac2a37cc4fe0303bfa663f7f63f8a3bf7e67b26e55ed72e3"
+    },
+    {
+      "path": "parcel-building-facts/k6.json",
+      "bytes": 72477,
+      "sha256": "a7e7c54a5798e024df73a779ce0dba57f272a46c83037e47d5814bb742894532"
+    },
+    {
+      "path": "parcel-building-facts/k7.json",
+      "bytes": 77627,
+      "sha256": "8d387cc0090f96b9c86107dc0c899ce0c944d56d00f0206320221a4548dc324a"
+    },
+    {
+      "path": "parcel-building-facts/k8.json",
+      "bytes": 77147,
+      "sha256": "12292244bc87f38d270fddfca9d31374145ebe9ffb66affc1c54e8248c6bbcf3"
+    },
+    {
+      "path": "parcel-building-facts/k9.json",
+      "bytes": 72070,
+      "sha256": "5afa49c2d41f925da00b3463dfac5a89b38ef793e182b75ddc15b7dc0c403e8f"
+    },
+    {
+      "path": "parcel-building-facts/ka.json",
+      "bytes": 79984,
+      "sha256": "a17f8af80dbd787ac98e7e8fce7aeba249df28e54d67ca7e53d0a2a0638d14af"
+    },
+    {
+      "path": "parcel-building-facts/kb.json",
+      "bytes": 75198,
+      "sha256": "bc865df7e6a58adda793de4196341cb2687aca5768f6c37e815f457f7284a975"
+    },
+    {
+      "path": "parcel-building-facts/kc.json",
+      "bytes": 79950,
+      "sha256": "c7decf86bb4d7d94dedff951ac9f001f2dc9711b46339f2e1d539ef04e83aec0"
+    },
+    {
+      "path": "parcel-building-facts/kd.json",
+      "bytes": 75309,
+      "sha256": "16154ee3d9ef6a01be23b17c68d6ee576c769e51d5db3b9a92ef903df57e1255"
+    },
+    {
+      "path": "parcel-building-facts/ke.json",
+      "bytes": 81286,
+      "sha256": "cf4d113663e59abc9c575a7088c11648ef6edc177f00fefc6d545d02311c2194"
+    },
+    {
+      "path": "parcel-building-facts/kf.json",
+      "bytes": 69676,
+      "sha256": "2daed0f58ebb01ff5541007940be186d9f35212c7d5f5ee62ce5ad07bb79e0cb"
+    },
+    {
+      "path": "parcel-building-facts/kg.json",
+      "bytes": 84264,
+      "sha256": "13c2a642faa6411a26a3e1f4067bc3e5a6c05177f5336ad60c18f93e6231f4e3"
+    },
+    {
+      "path": "parcel-building-facts/kh.json",
+      "bytes": 82867,
+      "sha256": "4c5e33ccdc3699a0b53fabdc065a5693b5e4aa865f396ea223d8d9ca7b3affd8"
+    },
+    {
+      "path": "parcel-building-facts/kj.json",
+      "bytes": 67799,
+      "sha256": "4a1e67ff56c4f9371fa5750cd319152f0788c6441de24717ddde2d08471cabe7"
+    },
+    {
+      "path": "parcel-building-facts/kk.json",
+      "bytes": 76749,
+      "sha256": "bcc5ec3463588ec715333fe4e699ba64dd9091e0f2bedc30350b82b9f32ab094"
+    },
+    {
+      "path": "parcel-building-facts/km.json",
+      "bytes": 65864,
+      "sha256": "196d08468316325df5e18c322ea89d8032a4eab49ac548c1928b80bf6de4fee6"
+    },
+    {
+      "path": "parcel-building-facts/kn.json",
+      "bytes": 73839,
+      "sha256": "ab0b356dab2810c52b1e440d3bb5119a44294bfe6237a4cf955aac3372fc2dde"
+    },
+    {
+      "path": "parcel-building-facts/kp.json",
+      "bytes": 77143,
+      "sha256": "978a20c53bc6e41f8b1f048975a6ad2bdba1aabf782a6494985542e1a7434e8d"
+    },
+    {
+      "path": "parcel-building-facts/kq.json",
+      "bytes": 70172,
+      "sha256": "36eb52decc0e8ee2bd9d806083cb46613540c01c83d3c258f55b0b42c99b7673"
+    },
+    {
+      "path": "parcel-building-facts/kr.json",
+      "bytes": 83773,
+      "sha256": "033f4c7951be12905811ff252c3816be309a905cfc5aed45f6a320241bab456b"
+    },
+    {
+      "path": "parcel-building-facts/ks.json",
+      "bytes": 64927,
+      "sha256": "8cb12629192890aaf5d8fed1c72e4a02fba13db06cbe893c23c3d3f58580243a"
+    },
+    {
+      "path": "parcel-building-facts/kt.json",
+      "bytes": 70120,
+      "sha256": "f3f51e51a56fe423305cca6bb3ace1e9ee5f9f634d75873aa20baff36fdd2514"
+    },
+    {
+      "path": "parcel-building-facts/kv.json",
+      "bytes": 83820,
+      "sha256": "ceb7c4cbf6dcc75fce3b3637e6daaf9d1da890c47b27e46740eaa021b11d3989"
+    },
+    {
+      "path": "parcel-building-facts/kw.json",
+      "bytes": 76157,
+      "sha256": "1109368a9099e0a645a2b6c4e1dce026ff43e258d581e9e606f0dc8e1be9ba9c"
+    },
+    {
+      "path": "parcel-building-facts/kx.json",
+      "bytes": 78556,
+      "sha256": "febcf19b571934a86a4025ad8e5f18857e108f84a7b9922acec3aaa147811c22"
+    },
+    {
+      "path": "parcel-building-facts/ky.json",
+      "bytes": 79094,
+      "sha256": "102c9421d031059b12bbb9a7b648b226031224e25467d959ee311552d151bbfc"
+    },
+    {
+      "path": "parcel-building-facts/kz.json",
+      "bytes": 71679,
+      "sha256": "67e8ecf81b673ff01eecb311b4704612e4ca8bbdfa5f4316a159245a2648f2bd"
+    },
+    {
+      "path": "parcel-building-facts/m.json",
+      "bytes": 2493710,
+      "sha256": "38068fde47a346ef6dec74a88ffb5b807e3ac4ec71678c4926ba370422e2a450"
+    },
+    {
+      "path": "parcel-building-facts/m0.json",
+      "bytes": 85186,
+      "sha256": "188e312807445e260c6cb96e7efd794865a8f162b57816a08b2052b6226eba78"
+    },
+    {
+      "path": "parcel-building-facts/m1.json",
+      "bytes": 81492,
+      "sha256": "00681a66e8c2c742ac82cf6e93d90bab494c7909a1bbfed32748dc0a4fe9b7be"
+    },
+    {
+      "path": "parcel-building-facts/m2.json",
+      "bytes": 80497,
+      "sha256": "ba58d6244445105bafb3718fe14e4f68fc41daed06d3f268458584ee26bd6f1e"
+    },
+    {
+      "path": "parcel-building-facts/m3.json",
+      "bytes": 73003,
+      "sha256": "5473bf9b58674fdbfa62c3ef803313f396703b2d3549de18675681e7f725b3ec"
+    },
+    {
+      "path": "parcel-building-facts/m4.json",
+      "bytes": 64467,
+      "sha256": "4257360e48e99db1ffcf0075037d718116cd4d9ac004fa060420896e777cf9a8"
+    },
+    {
+      "path": "parcel-building-facts/m5.json",
+      "bytes": 65445,
+      "sha256": "166c6bdff22bd49c53e1dd6594b56cb167ab640e0cdd95e2bcb74f4a407f1b00"
+    },
+    {
+      "path": "parcel-building-facts/m6.json",
+      "bytes": 82427,
+      "sha256": "ad4e1ae5cf2767c0663900412a503f565b1b45e42eb7ccc55f3014f18c5e596c"
+    },
+    {
+      "path": "parcel-building-facts/m7.json",
+      "bytes": 74271,
+      "sha256": "255211d618d305de726eba30cf4a12b094b78ee545dcf0b2c6c9deb102734f04"
+    },
+    {
+      "path": "parcel-building-facts/m8.json",
+      "bytes": 73464,
+      "sha256": "40659b8d714f1c65f58455fd188522af42fdf83738b66d16391b3e66d23ee1cb"
+    },
+    {
+      "path": "parcel-building-facts/m9.json",
+      "bytes": 70604,
+      "sha256": "b0b264354750343a00a4ae195ac3d8b85a1a13fb03183d9489dded7f034b9e1c"
+    },
+    {
+      "path": "parcel-building-facts/ma.json",
+      "bytes": 71563,
+      "sha256": "0846f4e472981226aa5c39aa8ad6367444796189482b672aabe95bd714e3f357"
+    },
+    {
+      "path": "parcel-building-facts/mb.json",
+      "bytes": 70527,
+      "sha256": "9cf45c1f7323924c4b077a0ddc7ea8e5ee50dc621c998ff9b41dc2aed0190f9f"
+    },
+    {
+      "path": "parcel-building-facts/mc.json",
+      "bytes": 71956,
+      "sha256": "317ec4f4eb3052cf69f6d870c5a747e6aa8536a0569f8748bccee7d1b50011c7"
+    },
+    {
+      "path": "parcel-building-facts/md.json",
+      "bytes": 76675,
+      "sha256": "af857c195d7c346acdcd4df1d499d4ac4a00d50bf32e90e34950f94dc8ef7644"
+    },
+    {
+      "path": "parcel-building-facts/me.json",
+      "bytes": 81889,
+      "sha256": "276a32c4257b3e224597dbd38164147033b9fb945bc14107d4d4287acbf894db"
+    },
+    {
+      "path": "parcel-building-facts/mf.json",
+      "bytes": 78662,
+      "sha256": "607a97a0290548f29a596a234a2e8fabab5813bb84ba5488d86ba336b3c6ff5e"
+    },
+    {
+      "path": "parcel-building-facts/mg.json",
+      "bytes": 74912,
+      "sha256": "de2dd4bfd57c27878f70b48b17c4a69b884d9329e24a0a07ac62a5f62f40d7d4"
+    },
+    {
+      "path": "parcel-building-facts/mh.json",
+      "bytes": 71112,
+      "sha256": "daf48dba21080258bd7c249e7cd397a11ab73b41725ebc464c07be2ea6fc659a"
+    },
+    {
+      "path": "parcel-building-facts/mj.json",
+      "bytes": 78626,
+      "sha256": "7d0c8e9dfbe9a18f147cb30a10d1d772b84dbaf3745eb5f03d731dba70adc352"
+    },
+    {
+      "path": "parcel-building-facts/mk.json",
+      "bytes": 75760,
+      "sha256": "dbc478ebc01db463b790002b7c2624e84f0753ef5c17ed70bc82a5dfb3d64f2a"
+    },
+    {
+      "path": "parcel-building-facts/mm.json",
+      "bytes": 84793,
+      "sha256": "97436dd0c17a469264f5b9b27f4d16ec5bfad0a1da9735f4b03fae9646cb0779"
+    },
+    {
+      "path": "parcel-building-facts/mn.json",
+      "bytes": 78981,
+      "sha256": "62b301839c7e9a2a74ff30c3e55f9014ed669aed2da86e9f68cf8cb6ca6753d4"
+    },
+    {
+      "path": "parcel-building-facts/mp.json",
+      "bytes": 84298,
+      "sha256": "d618598898bcfa246c5df7365a05a676305b504dd10e870420eb1e8221360f8f"
+    },
+    {
+      "path": "parcel-building-facts/mq.json",
+      "bytes": 81828,
+      "sha256": "e6b7076d44e59d927d4e4f551e8228399c1f4c4d50bc920690995e694a198c8f"
+    },
+    {
+      "path": "parcel-building-facts/mr.json",
+      "bytes": 79521,
+      "sha256": "306041ae2790aed48c34e3dbccaca33b5b0d2895938de8988ebe99e7e81f8a0e"
+    },
+    {
+      "path": "parcel-building-facts/ms.json",
+      "bytes": 82891,
+      "sha256": "14d5af0390048a50c11bc0ba06e14b6d1e2091929d872452444efca45266f50b"
+    },
+    {
+      "path": "parcel-building-facts/mt.json",
+      "bytes": 78222,
+      "sha256": "3b0a9d790f6d35deac3e67e8640ac7ae01b62db05074dc6e97b48c1ea3d2728e"
+    },
+    {
+      "path": "parcel-building-facts/mv.json",
+      "bytes": 80490,
+      "sha256": "1d02ba45fb865ce9ae4ca565b4b70d8333f2929b3bd011749a046b90f1013d1d"
+    },
+    {
+      "path": "parcel-building-facts/mw.json",
+      "bytes": 77462,
+      "sha256": "eb52b375c2a100abc8874e701e3d74bc92057a8832478089e24dc3f989762ac0"
+    },
+    {
+      "path": "parcel-building-facts/mx.json",
+      "bytes": 75259,
+      "sha256": "200171e59d0beda6c1b2736e6a56909366969c5cb3b91ecc42b0b1d80e5a81d4"
+    },
+    {
+      "path": "parcel-building-facts/my.json",
+      "bytes": 74745,
+      "sha256": "da30bb760450cc3be200502425f19e180ff57d98afd1b92e3687963d679cd870"
+    },
+    {
+      "path": "parcel-building-facts/mz.json",
+      "bytes": 74808,
+      "sha256": "e6ecb54d452a881745ef8a7f7179804e6430d023d076fb36bb4991e291076dcb"
+    },
+    {
+      "path": "parcel-building-facts/n.json",
+      "bytes": 2473012,
+      "sha256": "01ab3607a4e525638963ecfe63c78c80d2cb47dba920674ff0c6fde9ef387514"
+    },
+    {
+      "path": "parcel-building-facts/n0.json",
+      "bytes": 80963,
+      "sha256": "c1877b71f5b5b6185314d9c4b70af3e83d9f34e7d9e9e03510e7b6c6f9d2faf0"
+    },
+    {
+      "path": "parcel-building-facts/n1.json",
+      "bytes": 78623,
+      "sha256": "2344c8d075b479bd3fd7fa91706969fa79a505a813936f653b81872191e9274a"
+    },
+    {
+      "path": "parcel-building-facts/n2.json",
+      "bytes": 69592,
+      "sha256": "bdb76e07eae68b662c4e1c921e6ab4b66f7e90a54d34d75585893c8fb47b1c85"
+    },
+    {
+      "path": "parcel-building-facts/n3.json",
+      "bytes": 85707,
+      "sha256": "c7da570c64998e13a6756c49c7bae7d48d5f03db180dcd91dd37d0f84a620540"
+    },
+    {
+      "path": "parcel-building-facts/n4.json",
+      "bytes": 85133,
+      "sha256": "2252f063e46c1476e3645d4e8868be4c343af60bd5a97dfa44a8c26b257a6095"
+    },
+    {
+      "path": "parcel-building-facts/n5.json",
+      "bytes": 82880,
+      "sha256": "e8007a4d92e889d1178e0e7355b19f2db2f60cb993231d5f462f87819ffb1560"
+    },
+    {
+      "path": "parcel-building-facts/n6.json",
+      "bytes": 82741,
+      "sha256": "13205d32a10f6cb76f0373e7b2594299cfec6daaed5907256563ca12d95adee0"
+    },
+    {
+      "path": "parcel-building-facts/n7.json",
+      "bytes": 65494,
+      "sha256": "3fe1006626871deb0d19798c0c58430d56187771f58af43caee81ffeb3202660"
+    },
+    {
+      "path": "parcel-building-facts/n8.json",
+      "bytes": 79652,
+      "sha256": "ecb7331b407718474e5dae267bb565557ae2a0c6c2b95f64f64d1c6740887f0e"
+    },
+    {
+      "path": "parcel-building-facts/n9.json",
+      "bytes": 71433,
+      "sha256": "3e1337bffd4d31a4806a1f76b1dd652f58c3346892dc4fa8844611c579c34a94"
+    },
+    {
+      "path": "parcel-building-facts/na.json",
+      "bytes": 79991,
+      "sha256": "2f17d3e89ee3a3952ac66707bdaf6aad7c6a0655f559922519a6c41591fb97dc"
+    },
+    {
+      "path": "parcel-building-facts/nb.json",
+      "bytes": 78097,
+      "sha256": "28920a5a4bfc86662cdd8c9d27696552d60d2f0e9feb5d785e61d00252aef59c"
+    },
+    {
+      "path": "parcel-building-facts/nc.json",
+      "bytes": 80913,
+      "sha256": "2675ce22ff08fd30312b928a56660115b06a34e8fa75fbb34e4564c990f7aa13"
+    },
+    {
+      "path": "parcel-building-facts/nd.json",
+      "bytes": 77160,
+      "sha256": "41a6e88c17e3a117458cfc7679cda7a90a81491bf4dc295823776b70ae18808a"
+    },
+    {
+      "path": "parcel-building-facts/ne.json",
+      "bytes": 74797,
+      "sha256": "46d3a6d11fa41cbde795a40e263cd9f56527f81b37bf77816f264aa86dced6bd"
+    },
+    {
+      "path": "parcel-building-facts/nf.json",
+      "bytes": 86183,
+      "sha256": "1f4ad03ad7fe746f9c2548598cbae88d8644db504d3854402025631025d60699"
+    },
+    {
+      "path": "parcel-building-facts/ng.json",
+      "bytes": 78166,
+      "sha256": "dbead5349037b5654f0f70875b226bc8fbe9efe59bca4cce62e78ff3f1e4411e"
+    },
+    {
+      "path": "parcel-building-facts/nh.json",
+      "bytes": 79059,
+      "sha256": "5d88d4e2e68e2709d462b1d2af21fd0ebd52baaf74febc8b06d19db1128a3c10"
+    },
+    {
+      "path": "parcel-building-facts/nj.json",
+      "bytes": 75269,
+      "sha256": "b16a67554825488768beb56a55e54bf47ddb889d555c41e96d9ba74e2d6541c3"
+    },
+    {
+      "path": "parcel-building-facts/nk.json",
+      "bytes": 77641,
+      "sha256": "e4f8daed08d3402cba20e9ba8ba74f7d8e9678353b73c672ca125c98a8e84cc8"
+    },
+    {
+      "path": "parcel-building-facts/nm.json",
+      "bytes": 80080,
+      "sha256": "da02ff3021c6aab0ffe7ecd7488216bf7a61008df7b15a9279e648c7515178c8"
+    },
+    {
+      "path": "parcel-building-facts/nn.json",
+      "bytes": 74833,
+      "sha256": "6e774138a1b7b441690db92fc76683fac843164df80e03273498128b7f1313cb"
+    },
+    {
+      "path": "parcel-building-facts/np.json",
+      "bytes": 84261,
+      "sha256": "35612c8ec7ed37fecf41ca87dcb34326e7809d17f9f7488bf18cce7923004ec9"
+    },
+    {
+      "path": "parcel-building-facts/nq.json",
+      "bytes": 75781,
+      "sha256": "c0d5a84ab6105ad1b588eaba6346ae87d38b42019437f577ca418595e67a3dd2"
+    },
+    {
+      "path": "parcel-building-facts/nr.json",
+      "bytes": 76660,
+      "sha256": "68d5aa82cf31ef0bba8baae809d7d7972d6bc75624a8ca56fbd54827e9b931c5"
+    },
+    {
+      "path": "parcel-building-facts/ns.json",
+      "bytes": 72958,
+      "sha256": "b9c61c2144f190bd65745906e2976bf7ac2bbd88d278381997c1cc4949425453"
+    },
+    {
+      "path": "parcel-building-facts/nt.json",
+      "bytes": 73910,
+      "sha256": "e6b84a524b71bfbd6735adff1b6701bc3cda92bf983e0d3cef3124ec74939773"
+    },
+    {
+      "path": "parcel-building-facts/nv.json",
+      "bytes": 77526,
+      "sha256": "f11669622effdce42ceff636ebc4489d813b32932f5becb685eeeb5750b73f2e"
+    },
+    {
+      "path": "parcel-building-facts/nw.json",
+      "bytes": 87056,
+      "sha256": "f4943800ed51a47e3634ea89abd6421a80b0feb9bec680c4b4e9fe9d5376096c"
+    },
+    {
+      "path": "parcel-building-facts/nx.json",
+      "bytes": 82243,
+      "sha256": "5ff5b4020addd3c73d403b7d6a2496dc036167cf88e8c295bb6f3d6b18621bed"
+    },
+    {
+      "path": "parcel-building-facts/ny.json",
+      "bytes": 77550,
+      "sha256": "314a650d7d37f6d774e1e84d6dd16ce799c923cb0c100e85a0dfd42898c5b464"
+    },
+    {
+      "path": "parcel-building-facts/nz.json",
+      "bytes": 65898,
+      "sha256": "628d546e4b466df9f950db5f648bc7097c6b4c21fcabd6bf4effe3a78453acdf"
+    },
+    {
+      "path": "parcel-building-facts/p.json",
+      "bytes": 2446237,
+      "sha256": "6924b2fe10f78d1ad7e9a1711169099c741fe6c705297011e4618a6f54991f4f"
+    },
+    {
+      "path": "parcel-building-facts/p0.json",
+      "bytes": 77124,
+      "sha256": "7e366506f8e26376fd08c442c854583ee35cf05449be574b41c4e89d266ad08c"
+    },
+    {
+      "path": "parcel-building-facts/p1.json",
+      "bytes": 70163,
+      "sha256": "5c7323382571dccb6d0f8b642a16f3111152f9bafb61428bf9ab13612fe87d97"
+    },
+    {
+      "path": "parcel-building-facts/p2.json",
+      "bytes": 71173,
+      "sha256": "e67e7324138f12c6d5c9d4e1205d469e1ffee788e7ecb19724fd7411936fe2cb"
+    },
+    {
+      "path": "parcel-building-facts/p3.json",
+      "bytes": 74267,
+      "sha256": "e0dd82ae289dec27e42ee0443a7b936d195e874ac56fd2b8cbb6dbe7a183209c"
+    },
+    {
+      "path": "parcel-building-facts/p4.json",
+      "bytes": 76682,
+      "sha256": "0642da1f6c3dae0ff0143f03d307dce886d76f9252dcb8071aa9642ca5fe733a"
+    },
+    {
+      "path": "parcel-building-facts/p5.json",
+      "bytes": 74461,
+      "sha256": "5c374ea3a606029312a5ad32eb4a849b3678757a37aaf0f247a0003f3c317c2e"
+    },
+    {
+      "path": "parcel-building-facts/p6.json",
+      "bytes": 79953,
+      "sha256": "e944a5802d085f19650eba352f578e81acfff8fe9cd05be9ff53e6e920c8e1e9"
+    },
+    {
+      "path": "parcel-building-facts/p7.json",
+      "bytes": 74354,
+      "sha256": "b94e615efaf2c1242f87f95d9b338f4443713e5c65f44d5183be988b59239926"
+    },
+    {
+      "path": "parcel-building-facts/p8.json",
+      "bytes": 82850,
+      "sha256": "4fee882136092c466f3c4cce8e36da7620687e3ddc1bcec8d6edc91c54fe1346"
+    },
+    {
+      "path": "parcel-building-facts/p9.json",
+      "bytes": 75774,
+      "sha256": "5f941c6c41030895e454efb5315dc763725ad5772929918e5e3022125462621e"
+    },
+    {
+      "path": "parcel-building-facts/pa.json",
+      "bytes": 79977,
+      "sha256": "d7b792ed01ebc2e33a8de73a580bb56da8458a48c2278ce9df6a184cd08160cf"
+    },
+    {
+      "path": "parcel-building-facts/pb.json",
+      "bytes": 86723,
+      "sha256": "8cb18ac571ef17af57638d2292add2f48b86f7ca6d549f86e348ef36323069a7"
+    },
+    {
+      "path": "parcel-building-facts/pc.json",
+      "bytes": 68242,
+      "sha256": "307496c95796bb48281faa2a9df0657132d264dd768bc365e3d37a0b2695664f"
+    },
+    {
+      "path": "parcel-building-facts/pd.json",
+      "bytes": 71545,
+      "sha256": "b3c519dae440ffe866b53840071563176945711f5c6a5612f48e3bbd4ade188c"
+    },
+    {
+      "path": "parcel-building-facts/pe.json",
+      "bytes": 79510,
+      "sha256": "bc7813ac6a84f9a7a2e22895f1184f852a688bd39764c26e4dd54892ae174fc1"
+    },
+    {
+      "path": "parcel-building-facts/pf.json",
+      "bytes": 72916,
+      "sha256": "ba0e6807c8793aa77ea506e5ba543ede2b7825fc0a1ef83e54bf98b196ab9aaf"
+    },
+    {
+      "path": "parcel-building-facts/pg.json",
+      "bytes": 69141,
+      "sha256": "e5a5a91983e0914b50a4e6c29ec0cc2386efcda9b311e4aaf7189b9a02293d42"
+    },
+    {
+      "path": "parcel-building-facts/ph.json",
+      "bytes": 74330,
+      "sha256": "1c13b2e7889f2d4a428e7f5876ff85b020fcb29b761dfea4487a3f64c36f1ca4"
+    },
+    {
+      "path": "parcel-building-facts/pj.json",
+      "bytes": 80512,
+      "sha256": "5b99882fc90ccf90f644eb6533f0b6f905e811a0fe891e561f22253977352ebf"
+    },
+    {
+      "path": "parcel-building-facts/pk.json",
+      "bytes": 85061,
+      "sha256": "6ac7854dd94a9876a71533e3c1c05a73e17928e0da945c0bb0bd866ed12d4399"
+    },
+    {
+      "path": "parcel-building-facts/pm.json",
+      "bytes": 74849,
+      "sha256": "418b83bf706ff4bff03bc7a25ae69fc1f56ae3c5a1ae51421be8854c4a79bf5a"
+    },
+    {
+      "path": "parcel-building-facts/pn.json",
+      "bytes": 76733,
+      "sha256": "941d550d3e2b9064fd887de10f1f18b260b4284ccda5100a65c1a3cdc3f1b77f"
+    },
+    {
+      "path": "parcel-building-facts/pp.json",
+      "bytes": 65899,
+      "sha256": "d29c0b2cdf7541226d8314ff7319824b4596acfcf4488f1cc862fdc15ed07b9c"
+    },
+    {
+      "path": "parcel-building-facts/pq.json",
+      "bytes": 69161,
+      "sha256": "6f3f643e7f19b93b90b8fcf0289eaed827d4a57068a717fd9a03fee2a5287d38"
+    },
+    {
+      "path": "parcel-building-facts/pr.json",
+      "bytes": 82915,
+      "sha256": "dc7f5423892286e7be8d4ba8917169a667ae0d235dcac90b693050e4d9c40f3b"
+    },
+    {
+      "path": "parcel-building-facts/ps.json",
+      "bytes": 64002,
+      "sha256": "c8ffbb10680637b39a14d1ebb5b2850769a4d4b301a53fabaf2e1f79327c4dd1"
+    },
+    {
+      "path": "parcel-building-facts/pt.json",
+      "bytes": 80037,
+      "sha256": "696f8d9be645c20bf3d952e271b0dbc7ef1f389ab7283c7bab8ad392e688c4c8"
+    },
+    {
+      "path": "parcel-building-facts/pv.json",
+      "bytes": 84229,
+      "sha256": "1ff8ab2044aef3f55daa168bb847a7feea27959c14b9fd1c52a5fed7b9550017"
+    },
+    {
+      "path": "parcel-building-facts/pw.json",
+      "bytes": 82868,
+      "sha256": "4b8f572abad87cc4e6a766d2f1daf0b20eecbc9d61f3f010234d368ccc63a5dc"
+    },
+    {
+      "path": "parcel-building-facts/px.json",
+      "bytes": 78588,
+      "sha256": "f720a2c1673722550d97b4a3f382d5af417be552628d680b786cc4ae257833f5"
+    },
+    {
+      "path": "parcel-building-facts/py.json",
+      "bytes": 75754,
+      "sha256": "2d5f27fad889e4127bfcfc2f675dba6616723341f8df073086424f839f9d4b95"
+    },
+    {
+      "path": "parcel-building-facts/pz.json",
+      "bytes": 77223,
+      "sha256": "4592945ae101c51e1f3306e99f4811e3b8203075c1945458319ec438dece5868"
+    },
+    {
+      "path": "parcel-building-facts/q.json",
+      "bytes": 2432919,
+      "sha256": "4d46da75bd7620a8be337abb0163fb9f6e22894b5448c4006a6fbe76aceff73b"
+    },
+    {
+      "path": "parcel-building-facts/q0.json",
+      "bytes": 72933,
+      "sha256": "44e1a80d25a10d9b1c930af227a37af16290aedc210b010abd2c413ce66c67a5"
+    },
+    {
+      "path": "parcel-building-facts/q1.json",
+      "bytes": 69671,
+      "sha256": "55ce520c1452e95aa6bc05d1bd25f477206746d20e0aef95166d0abdfa033fe8"
+    },
+    {
+      "path": "parcel-building-facts/q2.json",
+      "bytes": 63554,
+      "sha256": "5eac003965b7d130acfe9353dfae8eed2850851c8e12bd4b370b0180fc82f3b5"
+    },
+    {
+      "path": "parcel-building-facts/q3.json",
+      "bytes": 80040,
+      "sha256": "3498349309bd3a65c62a678e9c55f558b4f49d22cb865deba642753bcb4b4e43"
+    },
+    {
+      "path": "parcel-building-facts/q4.json",
+      "bytes": 77225,
+      "sha256": "559d955ddebbc0660fc2d79580b5496feba3c0f8e97f015b65c769d2e0d422ec"
+    },
+    {
+      "path": "parcel-building-facts/q5.json",
+      "bytes": 82814,
+      "sha256": "cfcb61c7d6b362bebd12adacd9e60b7d126cbf953db973e59cce677d19cffc96"
+    },
+    {
+      "path": "parcel-building-facts/q6.json",
+      "bytes": 72039,
+      "sha256": "ab54bfbaef5b0df9c43f85dbf57adbb1fc5db5d9ce5bb2e174c799c8bbf14284"
+    },
+    {
+      "path": "parcel-building-facts/q7.json",
+      "bytes": 86523,
+      "sha256": "8fa1e720d36327ca4b668d2d96356995b835a6cd11239213709d3d86cb747b3f"
+    },
+    {
+      "path": "parcel-building-facts/q8.json",
+      "bytes": 80885,
+      "sha256": "50ae1373d821ce4d5141b3208a47a671446df5140bf85c95f907fc47d6ebd6da"
+    },
+    {
+      "path": "parcel-building-facts/q9.json",
+      "bytes": 75345,
+      "sha256": "480594691d378bcd022c071729244f85003a1fbd0d4760a3bd2ac8ea2409f757"
+    },
+    {
+      "path": "parcel-building-facts/qa.json",
+      "bytes": 85624,
+      "sha256": "270fb4bd490023b79ee18f60c6b2f355d320d88507650d056a4035f6e8fd5db5"
+    },
+    {
+      "path": "parcel-building-facts/qb.json",
+      "bytes": 84210,
+      "sha256": "e5405daef3735f83b5811e8ed444067c80342e7c3368a31141428d37910cbdf6"
+    },
+    {
+      "path": "parcel-building-facts/qc.json",
+      "bytes": 72469,
+      "sha256": "99777b9fbe39eff31dc3bbdbc7c03d1ffa308de4d94a26be1741a002882e85ac"
+    },
+    {
+      "path": "parcel-building-facts/qd.json",
+      "bytes": 74852,
+      "sha256": "17a3c96835a5d2d0667b51ca44d716aca4617d0961d4682adda236679462c8f9"
+    },
+    {
+      "path": "parcel-building-facts/qe.json",
+      "bytes": 71530,
+      "sha256": "6e4a830427595610a4a6e30760badc7a51ac216dd957956262f094abc68fb0ca"
+    },
+    {
+      "path": "parcel-building-facts/qf.json",
+      "bytes": 81004,
+      "sha256": "b9bf75c88ebfe70a38a3ed2e49a29c69ea321b931b40f9929ae93a521cea3a59"
+    },
+    {
+      "path": "parcel-building-facts/qg.json",
+      "bytes": 69118,
+      "sha256": "4607b259d6885bd1eebf9efb74c3033aa10dd432a881f9bd989413be21792bc9"
+    },
+    {
+      "path": "parcel-building-facts/qh.json",
+      "bytes": 64978,
+      "sha256": "670584e16ba09e0a902d9310c6c44e1813b846cd46f5b71447ea792dbf301d7b"
+    },
+    {
+      "path": "parcel-building-facts/qj.json",
+      "bytes": 75776,
+      "sha256": "a4f0980aa6bc3dd783471fe2302dabdbaeece61b10a6d23d6d4eac9c097d8728"
+    },
+    {
+      "path": "parcel-building-facts/qk.json",
+      "bytes": 88461,
+      "sha256": "1450aec987f42857f2a5f1d9f63e39bd985f0a351852fed1049aaadc5df45561"
+    },
+    {
+      "path": "parcel-building-facts/qm.json",
+      "bytes": 70575,
+      "sha256": "92e2e68b7e0d515ae4d1cf33bce1460a1f6d0f5eee00c47afa5989be3bbd0ea1"
+    },
+    {
+      "path": "parcel-building-facts/qn.json",
+      "bytes": 73896,
+      "sha256": "a821a05914a12cee2ad8d1d1ed42d6aabc2dd40a263a1f944500c29bbdc72fa5"
+    },
+    {
+      "path": "parcel-building-facts/qp.json",
+      "bytes": 71596,
+      "sha256": "76682b87eab4c7b5d8e595f76975b0731aa128be6d0d066fd2ede2af5ce15d98"
+    },
+    {
+      "path": "parcel-building-facts/qq.json",
+      "bytes": 75292,
+      "sha256": "f389acc152a26615ba4fa09e2905a7ae73fb16bb9b76559eff69e906b4331d83"
+    },
+    {
+      "path": "parcel-building-facts/qr.json",
+      "bytes": 81919,
+      "sha256": "a398da3f46e0c489faa782a7e2f30529fcac05994c3c2a7653ad9f1cfafa4749"
+    },
+    {
+      "path": "parcel-building-facts/qs.json",
+      "bytes": 77174,
+      "sha256": "48ef6cafefe5e7891a38d60c8b54f20fe96fb202ac263f126501c6181df8f7c9"
+    },
+    {
+      "path": "parcel-building-facts/qt.json",
+      "bytes": 70128,
+      "sha256": "58ce6b887bba19cad6416c1fb9c5cb75fefc5fe4502406d75fe7b515a7c7cc4d"
+    },
+    {
+      "path": "parcel-building-facts/qv.json",
+      "bytes": 78639,
+      "sha256": "44c0c6033f2e66a90cc8c19e336cda9115c22d9be935d0465158becd2b79f411"
+    },
+    {
+      "path": "parcel-building-facts/qw.json",
+      "bytes": 71059,
+      "sha256": "b3d68462ac5e215341bc2661e55745fb9cb1ddb460aebe28dd5f855fd4d5699f"
+    },
+    {
+      "path": "parcel-building-facts/qx.json",
+      "bytes": 71069,
+      "sha256": "f988727fa3017f2c83cb14a655df838e4b0c8852f3dcb48e3e0e08dc325a9ee9"
+    },
+    {
+      "path": "parcel-building-facts/qy.json",
+      "bytes": 76744,
+      "sha256": "8564b3ca793f7c236c91e1bc53f11ff066ada6ffc696d2ff1668157d95c7c4d4"
+    },
+    {
+      "path": "parcel-building-facts/qz.json",
+      "bytes": 90780,
+      "sha256": "388e076527493a146c3911d946a4bc22b8d40a6e3f1cc2cab4d6f0a339c2c8c8"
+    },
+    {
+      "path": "parcel-building-facts/r.json",
+      "bytes": 2428639,
+      "sha256": "683fa93f14fcf8f506c25dc5eebcfc86dbec797586974d4abc5d8b89fbacb4cb"
+    },
+    {
+      "path": "parcel-building-facts/r0.json",
+      "bytes": 75249,
+      "sha256": "a20cbe2fe664c431087e0f7992a142acba084f9c6e0d5f8d290c89203d9f9de2"
+    },
+    {
+      "path": "parcel-building-facts/r1.json",
+      "bytes": 70227,
+      "sha256": "383766c7d331d9823eafc9f4f75ea7d85171149f0f6cc05d3913792c8f155698"
+    },
+    {
+      "path": "parcel-building-facts/r2.json",
+      "bytes": 75756,
+      "sha256": "27f123d9258ba71a240b8ff6aeae588be230ef726708db76b1362089480fcdfe"
+    },
+    {
+      "path": "parcel-building-facts/r3.json",
+      "bytes": 82882,
+      "sha256": "8914eba230a8a9fbfa576575193ce9a6ca7c1e71f51132b2cefebfd619a9c7a8"
+    },
+    {
+      "path": "parcel-building-facts/r4.json",
+      "bytes": 83230,
+      "sha256": "0e65eb34c6163ef96d8e609b78134b6faa11e0d2def1604374114c226880b8d4"
+    },
+    {
+      "path": "parcel-building-facts/r5.json",
+      "bytes": 87679,
+      "sha256": "43af1522e5781b37499d4416745f1e08884d51cca2b61e69f81d971f58691e39"
+    },
+    {
+      "path": "parcel-building-facts/r6.json",
+      "bytes": 63530,
+      "sha256": "3c8e7cc1671e5ee62626823bc5ecde9a652eaf3ff481383e710931d4d2e0c6bb"
+    },
+    {
+      "path": "parcel-building-facts/r7.json",
+      "bytes": 80083,
+      "sha256": "39bb2cbfea9ef13d649594fa3fe63a47df95b1c9812eff81cdc8fd8c9e920295"
+    },
+    {
+      "path": "parcel-building-facts/r8.json",
+      "bytes": 71494,
+      "sha256": "eae4ff23e671ebeec9859ac370e6b5c82521783e42ed714fff3088a52fd7acfc"
+    },
+    {
+      "path": "parcel-building-facts/r9.json",
+      "bytes": 66789,
+      "sha256": "7389e56ad2aeeddbdf3c6256956d04bc9e72f15ce2cb4fc98775ac86cb4e3c35"
+    },
+    {
+      "path": "parcel-building-facts/ra.json",
+      "bytes": 78548,
+      "sha256": "e5c96f2c3fe4c2a80a361b84bd2cfc17e28096968b278d93f76f51e7ee561131"
+    },
+    {
+      "path": "parcel-building-facts/rb.json",
+      "bytes": 75329,
+      "sha256": "e9b4f10e7f36e46e9dcd2d52b5053a13730675ad7e86bc6294001fce98d33f01"
+    },
+    {
+      "path": "parcel-building-facts/rc.json",
+      "bytes": 77624,
+      "sha256": "baf90c436155bbd9f8a481d5abec83f4813ea5ed93dc706a71ef749b293c873c"
+    },
+    {
+      "path": "parcel-building-facts/rd.json",
+      "bytes": 70258,
+      "sha256": "50d9c51bd488d76be4e026ff722e4585fe97c18c284acc4c4158035689b3cf95"
+    },
+    {
+      "path": "parcel-building-facts/re.json",
+      "bytes": 68724,
+      "sha256": "2198454053fc73d2ceccca1ece72d3bef09a7756d19351d7f6b51a8206937c88"
+    },
+    {
+      "path": "parcel-building-facts/rf.json",
+      "bytes": 73360,
+      "sha256": "a00ae9149c9ba49b07dadb133ccfc387a8f7d8ba9b528ba707d04f01ee3312d7"
+    },
+    {
+      "path": "parcel-building-facts/rg.json",
+      "bytes": 74904,
+      "sha256": "21bc10899a81e04d4f01a14238459445be414402b7d2bbb0114c7cc57a148afa"
+    },
+    {
+      "path": "parcel-building-facts/rh.json",
+      "bytes": 79515,
+      "sha256": "8a7b5da4bc59d999cb1881a4df76e90f25b787c7ecd10b12fd0feb6fa6c1ba91"
+    },
+    {
+      "path": "parcel-building-facts/rj.json",
+      "bytes": 80382,
+      "sha256": "f96376527e245b94e0d16f7ddfd74846d37e50d0ca9466b057233a536151a203"
+    },
+    {
+      "path": "parcel-building-facts/rk.json",
+      "bytes": 76209,
+      "sha256": "f06100ebafabfca98a00397cd70077ddcf30d55862384134db4acc9c589bff8c"
+    },
+    {
+      "path": "parcel-building-facts/rm.json",
+      "bytes": 75637,
+      "sha256": "f526260950185a96d93c5ac124c9ca0af5126361000c5b27ea126754f8ce7816"
+    },
+    {
+      "path": "parcel-building-facts/rn.json",
+      "bytes": 80493,
+      "sha256": "7d9b6559ced1e342fc37b86cda42005b1de398d496839627a2960027c680a2c0"
+    },
+    {
+      "path": "parcel-building-facts/rp.json",
+      "bytes": 76251,
+      "sha256": "de967269090fe345f9882cceaa716c4e9aeca2ce6b8207fee6883e967664f237"
+    },
+    {
+      "path": "parcel-building-facts/rq.json",
+      "bytes": 84401,
+      "sha256": "4b13abd8c32305a0cddda2084673a9ed7557efa0112ad8167f6fee2611cae1b8"
+    },
+    {
+      "path": "parcel-building-facts/rr.json",
+      "bytes": 80977,
+      "sha256": "1550b17a64e979fd916ab7925db14c9d7b3504ab619776504e6dcbf5ae6e7a2f"
+    },
+    {
+      "path": "parcel-building-facts/rs.json",
+      "bytes": 73951,
+      "sha256": "6d8db83e4a17d95420da376736eecfdfd88fed2fe6093c2c7776119365ee4633"
+    },
+    {
+      "path": "parcel-building-facts/rt.json",
+      "bytes": 79583,
+      "sha256": "6bb4285ac7b248f78a1766f2577cf43bf0173f205c6a32088bdd13ecdb0d9337"
+    },
+    {
+      "path": "parcel-building-facts/rv.json",
+      "bytes": 91391,
+      "sha256": "85dacf955a8590ff372bd6a1719230e7189a63506f2609ef1613e335471ad97a"
+    },
+    {
+      "path": "parcel-building-facts/rw.json",
+      "bytes": 70154,
+      "sha256": "4f97c89f1625b6a01eaf71f048becff11048f8bfd8ccffd88f64028a4aa521b5"
+    },
+    {
+      "path": "parcel-building-facts/rx.json",
+      "bytes": 82880,
+      "sha256": "e902c72956951c1e74b713813fa5b6c5b6644748f6f82fb774fb30e069965cc0"
+    },
+    {
+      "path": "parcel-building-facts/ry.json",
+      "bytes": 82599,
+      "sha256": "3f45693ff96e469d5e5e12b2644ac3f13ad5605f56d1eb8b9472b9aa7eb73c46"
+    },
+    {
+      "path": "parcel-building-facts/rz.json",
+      "bytes": 68304,
+      "sha256": "7c584dedc647a40b0d363ff8847eaa84446c10ce940312a849b79fbafad2fec7"
+    },
+    {
+      "path": "parcel-building-facts/s.json",
+      "bytes": 2451598,
+      "sha256": "43405c009b73df77d688e5565625bcd3ad4d8bdd16acfe455d0f51190a61bed7"
+    },
+    {
+      "path": "parcel-building-facts/s0.json",
+      "bytes": 75302,
+      "sha256": "22f401734d3cc0be616a85175f15833d97bfaa7e741ecd423c4960cbcaad746b"
+    },
+    {
+      "path": "parcel-building-facts/s1.json",
+      "bytes": 79136,
+      "sha256": "6e249e1760b42999bbbd0980e14cf798a6e7a3390a0782ae3a75d6f52385dd3d"
+    },
+    {
+      "path": "parcel-building-facts/s2.json",
+      "bytes": 89427,
+      "sha256": "f4881f985b44cb242af2f3194f25faed46972c56762a714a8ba90afc0a87fbbf"
+    },
+    {
+      "path": "parcel-building-facts/s3.json",
+      "bytes": 86472,
+      "sha256": "99c3ce1fb4e5e861dfde4befae1d0d2a0ccb7e7b2c31dc7d9fe803464111eced"
+    },
+    {
+      "path": "parcel-building-facts/s4.json",
+      "bytes": 81847,
+      "sha256": "f97e340ea4831b7fc5496db2c45f8608c875c31639f7eb766e74d9b951358366"
+    },
+    {
+      "path": "parcel-building-facts/s5.json",
+      "bytes": 76227,
+      "sha256": "0ca9ba5d1c1f8a4b7e00a5261f70919f5ec1346b21a6469b1d506f34ee154294"
+    },
+    {
+      "path": "parcel-building-facts/s6.json",
+      "bytes": 80612,
+      "sha256": "e2e2d0cdde1cb715d0ac09791aecdcfce040a1bc1ac8ce850c8975e786b9558c"
+    },
+    {
+      "path": "parcel-building-facts/s7.json",
+      "bytes": 86116,
+      "sha256": "d2cb77e2c3864fd9c602e45d9993bca52ee6006c5cbf36d5a828aa0bf88deed3"
+    },
+    {
+      "path": "parcel-building-facts/s8.json",
+      "bytes": 79835,
+      "sha256": "b2c53fb0f78fea4addfeb379b71ab9f5e9c5c35f8e5f1ac309f628ff04d66c16"
+    },
+    {
+      "path": "parcel-building-facts/s9.json",
+      "bytes": 92253,
+      "sha256": "b5996ad2c3ed36a84eecca6738e7bec10690808bb8d6ff4c72dbc903b4deee0e"
+    },
+    {
+      "path": "parcel-building-facts/sa.json",
+      "bytes": 86547,
+      "sha256": "25ef28562dcf8bc52d62bf1264ef9ca4bcb32d730fc0e0ec9100e2c0b673e692"
+    },
+    {
+      "path": "parcel-building-facts/sb.json",
+      "bytes": 67786,
+      "sha256": "e76780be8de59f8e75e5cce715b976adb36d2320be91ce5da70a717b4de642b7"
+    },
+    {
+      "path": "parcel-building-facts/sc.json",
+      "bytes": 88985,
+      "sha256": "25e0863924904227f3c04c9ca560a3645f80cf41ee7cb6583387f9925854cc57"
+    },
+    {
+      "path": "parcel-building-facts/sd.json",
+      "bytes": 77694,
+      "sha256": "41a4be54c253554aead0fd83d0aa841db5489dd8c43ccb6ca9ea61b122b83356"
+    },
+    {
+      "path": "parcel-building-facts/se.json",
+      "bytes": 83751,
+      "sha256": "a45468f6ce4f9fdc1be39d59a5e964aff6cdb13545fb27356c6eeb44cd9902d5"
+    },
+    {
+      "path": "parcel-building-facts/sf.json",
+      "bytes": 68785,
+      "sha256": "0331c3680933126227d9eea5db3902c44ad0a0811336c10088598dd0e24d8b07"
+    },
+    {
+      "path": "parcel-building-facts/sg.json",
+      "bytes": 73859,
+      "sha256": "0f36ad0d3e4b5724a50974511698059ec87593f8237384293eb8e4dcea9dfc20"
+    },
+    {
+      "path": "parcel-building-facts/sh.json",
+      "bytes": 81912,
+      "sha256": "18a4e9775f3b08652ca8401978eac9b1bc5c16187ef9c74c1b1114d1ef9b674d"
+    },
+    {
+      "path": "parcel-building-facts/sj.json",
+      "bytes": 71531,
+      "sha256": "b9a92302faf3d98b69f3024d96d69ba75d3f7b295330fdb19a25bd7df0725c0a"
+    },
+    {
+      "path": "parcel-building-facts/sk.json",
+      "bytes": 79081,
+      "sha256": "7ece74634b51f09f04d15399988bf0a18d127c4bd37d913c4cb891210bc347cf"
+    },
+    {
+      "path": "parcel-building-facts/sm.json",
+      "bytes": 66766,
+      "sha256": "42b1b90df2228bbc816af2062dbdec29570ead2d3bbc5b2d14e6e6bd688b7a8d"
+    },
+    {
+      "path": "parcel-building-facts/sn.json",
+      "bytes": 77110,
+      "sha256": "efd07b007460eb013c6bd72664deaa60ddd9a633b5f907f433462044e9f3a84d"
+    },
+    {
+      "path": "parcel-building-facts/sp.json",
+      "bytes": 72833,
+      "sha256": "e5a9878da098ee3011e33a7da1d08dfba2e0c3d2a4f9057e87e5e2c8fa042516"
+    },
+    {
+      "path": "parcel-building-facts/sq.json",
+      "bytes": 68296,
+      "sha256": "4e5dc917b04ba4a76508b8fed3a4bd45cca2b63a27d89922f0429a2a7027bb37"
+    },
+    {
+      "path": "parcel-building-facts/sr.json",
+      "bytes": 72071,
+      "sha256": "531acc3edc6bb16b9972e9bac65e92c73c49d946d16a999bac3959edd92e6560"
+    },
+    {
+      "path": "parcel-building-facts/ss.json",
+      "bytes": 83711,
+      "sha256": "27f86a04cd192e5fc0a43b2b84f5e7c97ce70221eea6709bede75cb95c6fd6b9"
+    },
+    {
+      "path": "parcel-building-facts/st.json",
+      "bytes": 69711,
+      "sha256": "ec6c7c4d04c8c62212e84763d6b1ef46fa31d4ff3288c824c1bb87943b3c72a6"
+    },
+    {
+      "path": "parcel-building-facts/sv.json",
+      "bytes": 78657,
+      "sha256": "bba663fd11cb2246737dceef52826904f9d123a0675624e0f14920ebd1052dab"
+    },
+    {
+      "path": "parcel-building-facts/sw.json",
+      "bytes": 74908,
+      "sha256": "407df0ec14abdd201c36eafafbe78f12629c23dada9a9558434b3d4496f67de7"
+    },
+    {
+      "path": "parcel-building-facts/sx.json",
+      "bytes": 76225,
+      "sha256": "316ff5261a19196d5ce2bd59ce5206dc1c6ddbe66b57beeb634627f4a5e5c734"
+    },
+    {
+      "path": "parcel-building-facts/sy.json",
+      "bytes": 89421,
+      "sha256": "1cb5439d197ee7769084349296040be90698753244c9bae79422343394fd51b9"
+    },
+    {
+      "path": "parcel-building-facts/sz.json",
+      "bytes": 81353,
+      "sha256": "fc916eea42e2cc4737c6e3087f34b698eee5e1462aac75657120b0158932d47c"
+    },
+    {
+      "path": "parcel-building-facts/t.json",
+      "bytes": 2410252,
+      "sha256": "26cc0c572081634cb95f7b295d923aaaea2d0eedf5709da1f141d367872b89ea"
+    },
+    {
+      "path": "parcel-building-facts/t0.json",
+      "bytes": 84628,
+      "sha256": "304bd1f0baa62845a3415779391bd4c905b88558ec64c327a6b02faaa51b1ebd"
+    },
+    {
+      "path": "parcel-building-facts/t1.json",
+      "bytes": 68181,
+      "sha256": "4dd653f65d7b27ac3b880c2bba81a7373c4542377df0b793c48d5a3ef101ca17"
+    },
+    {
+      "path": "parcel-building-facts/t2.json",
+      "bytes": 79011,
+      "sha256": "64e36d8ae8d1a5399fcc3c0504b53d42bc401140f6c23a332a3b3128386354e2"
+    },
+    {
+      "path": "parcel-building-facts/t3.json",
+      "bytes": 79533,
+      "sha256": "36fdd632c7423b74e98183c54bc94d6ac9705007269ccb17bb439bd96015edb4"
+    },
+    {
+      "path": "parcel-building-facts/t4.json",
+      "bytes": 79048,
+      "sha256": "babe65e12d085750f17171b62b6a240e24a8e11955f1bd7859c28795db51a8bd"
+    },
+    {
+      "path": "parcel-building-facts/t5.json",
+      "bytes": 75729,
+      "sha256": "5618ca1c38475b2a69df0716e6d8b8d3983ec93a6981fa2603770d61cfc0f3e2"
+    },
+    {
+      "path": "parcel-building-facts/t6.json",
+      "bytes": 78607,
+      "sha256": "62497fd86e0755e3ff06994b0131fc2b1555b8ea1a12f51a0666d50cee3c53aa"
+    },
+    {
+      "path": "parcel-building-facts/t7.json",
+      "bytes": 76294,
+      "sha256": "eb28f530b2540cfaaf7f576f235ec5b6a9fcf6c27832a170df67005cec7157fc"
+    },
+    {
+      "path": "parcel-building-facts/t8.json",
+      "bytes": 79082,
+      "sha256": "16684ba92fa54cbba8bfa6e6ca721274a68e7aa9e70f627b5a92f905b61acd9c"
+    },
+    {
+      "path": "parcel-building-facts/t9.json",
+      "bytes": 70637,
+      "sha256": "b5dd1953e2699858f294f915a87a4510946799d4672e91b9775a9d809aeeb2f7"
+    },
+    {
+      "path": "parcel-building-facts/ta.json",
+      "bytes": 77189,
+      "sha256": "7483f2ef6d9d3dcfaf873425d82fb63683843ab410f978629b622fe8efa41fdb"
+    },
+    {
+      "path": "parcel-building-facts/tb.json",
+      "bytes": 82863,
+      "sha256": "0e1e28259e134062a6c19e8c4eb13b22ddf8a53601a5f2bff7b45c2f6f4d0802"
+    },
+    {
+      "path": "parcel-building-facts/tc.json",
+      "bytes": 70551,
+      "sha256": "e083e7b11f0475dfe081a50de3af15c45d5a3d9a07c58a7e4906ca8d893e8678"
+    },
+    {
+      "path": "parcel-building-facts/td.json",
+      "bytes": 73782,
+      "sha256": "e93096d7c7b5b2c97645957c40bf9ed00a80f4b682523a89e12cfa53add7253a"
+    },
+    {
+      "path": "parcel-building-facts/te.json",
+      "bytes": 77268,
+      "sha256": "bb51e4b566641701d142cb6cacb72a039decf2c208267b5b8852bd6776a9ed0a"
+    },
+    {
+      "path": "parcel-building-facts/tf.json",
+      "bytes": 82315,
+      "sha256": "9d53e588cd7826e2e2ef784d847776969bbaa2326f43ca5d5989633e799d20d8"
+    },
+    {
+      "path": "parcel-building-facts/tg.json",
+      "bytes": 73447,
+      "sha256": "0248127180a842c7dd3f32a68414a685223f5bd4936348e6439fd72b9cb1e723"
+    },
+    {
+      "path": "parcel-building-facts/th.json",
+      "bytes": 72571,
+      "sha256": "8a357d829f7a34c3428128c3de9870a65fc4930fcc1d3488ed09f7e9ad9119ef"
+    },
+    {
+      "path": "parcel-building-facts/tj.json",
+      "bytes": 76317,
+      "sha256": "d7de35874c8b5536c7e84f10b682e38ec395b53b97ed122523df8ea3f9f566af"
+    },
+    {
+      "path": "parcel-building-facts/tk.json",
+      "bytes": 88919,
+      "sha256": "3192f500362671650fdb160f748c6fc152828f6d6a28d46f963357b38aedd715"
+    },
+    {
+      "path": "parcel-building-facts/tm.json",
+      "bytes": 76084,
+      "sha256": "e86bdfc941c979eac9dc0672f33e544116b38946954c1d35eda297845bde4019"
+    },
+    {
+      "path": "parcel-building-facts/tn.json",
+      "bytes": 71637,
+      "sha256": "4d580b52b1ded13f9c17ce0a2e2e3bb8d7e15b7199d0209c89c9bf082b4eea31"
+    },
+    {
+      "path": "parcel-building-facts/tp.json",
+      "bytes": 82348,
+      "sha256": "117be4fa49ac5362d2f7637804a8ebc101bab31cba3d4ce5c04b0e9e1bca79e6"
+    },
+    {
+      "path": "parcel-building-facts/tq.json",
+      "bytes": 79521,
+      "sha256": "532b9a1ae6f4396c19aa9fce43df168e1dbcf4d900944ea7a73514c12adfc447"
+    },
+    {
+      "path": "parcel-building-facts/tr.json",
+      "bytes": 73376,
+      "sha256": "994b7a86b06c2f67fe1b86208e5966a3e1da26776566939dcde4da53951a7855"
+    },
+    {
+      "path": "parcel-building-facts/ts.json",
+      "bytes": 79082,
+      "sha256": "874030126d187fb6931d3767de66848f69a3baacbee97e7f2bc696b22c8b9094"
+    },
+    {
+      "path": "parcel-building-facts/tt.json",
+      "bytes": 70623,
+      "sha256": "0746cd8d593c4bc6eab82db8c68791ff31270ab2d25833669fa050d20680e0e1"
+    },
+    {
+      "path": "parcel-building-facts/tv.json",
+      "bytes": 74360,
+      "sha256": "2730496f13c4d72140d2849e9c3da3fc0be2fb0b87149d82e38bca4e4348a96a"
+    },
+    {
+      "path": "parcel-building-facts/tw.json",
+      "bytes": 67694,
+      "sha256": "f375c3022fc8650ebf92ec37a67fb029389129e5a1457c630d5dfcf816c7da4f"
+    },
+    {
+      "path": "parcel-building-facts/tx.json",
+      "bytes": 85563,
+      "sha256": "9488b3c5a5504936311cca59ba8a9244450fc33053bff592455a5437d2fca621"
+    },
+    {
+      "path": "parcel-building-facts/ty.json",
+      "bytes": 71597,
+      "sha256": "51f71477f8c8f336974fa2e0061e3d882ffbe6178898116310403ecb49a2a974"
+    },
+    {
+      "path": "parcel-building-facts/tz.json",
+      "bytes": 69734,
+      "sha256": "a47a34fa9d7c914c3b8498890e602e7a99b2393eae6f56bf9bef5b3cfe303eb5"
+    },
+    {
+      "path": "parcel-building-facts/v.json",
+      "bytes": 2500783,
+      "sha256": "e9476f5d3abed01b45029c3ec067a052a883e9b31a1cea8c7a708201a65892ed"
+    },
+    {
+      "path": "parcel-building-facts/v0.json",
+      "bytes": 76228,
+      "sha256": "0782169fc18456d629ce62b2b4c073011c3ee1bccb37a419a5d5de3fe1e0e976"
+    },
+    {
+      "path": "parcel-building-facts/v1.json",
+      "bytes": 75702,
+      "sha256": "16f2f3161f1c299b2a1ae3a8e5c5a6643f060c1e2a42abf8db61562c1e4dcd03"
+    },
+    {
+      "path": "parcel-building-facts/v2.json",
+      "bytes": 66801,
+      "sha256": "12355e362d12b351523a18973cd44367d0e145553706166a1af2249e9d594888"
+    },
+    {
+      "path": "parcel-building-facts/v3.json",
+      "bytes": 78093,
+      "sha256": "ea9fb2e0d72d991232b87948e29b1c0e0756b156ce4a9b43d82fefca3c7294f9"
+    },
+    {
+      "path": "parcel-building-facts/v4.json",
+      "bytes": 77056,
+      "sha256": "f564dff4a690867fe676ad2a70e8a68738a471e5c934e314557a91a202d8d754"
+    },
+    {
+      "path": "parcel-building-facts/v5.json",
+      "bytes": 79972,
+      "sha256": "79478e30a9ce7080677803be51e099e028ed4265834210d846dedd3f1420ffd9"
+    },
+    {
+      "path": "parcel-building-facts/v6.json",
+      "bytes": 73453,
+      "sha256": "da3fadcd90732750f5c270feeeaefdf0a41df611e5223bda7e16460c748d742b"
+    },
+    {
+      "path": "parcel-building-facts/v7.json",
+      "bytes": 79121,
+      "sha256": "27cda4383a70a0bac5101786caa81ec5571a79e480989d7d914b7a1c1b670026"
+    },
+    {
+      "path": "parcel-building-facts/v8.json",
+      "bytes": 71577,
+      "sha256": "b460e276fb821a4ddfedd9c3baa90385fe40c8278025f95f810387ddef1b537d"
+    },
+    {
+      "path": "parcel-building-facts/v9.json",
+      "bytes": 72452,
+      "sha256": "cc9c0dd2e6b936a4111956f2b545a69e597d0fa5398dd8c9a2a811243ddca6e2"
+    },
+    {
+      "path": "parcel-building-facts/va.json",
+      "bytes": 79544,
+      "sha256": "612c7fab7ebb2b14892e4bfa962b336e0ea6520c0fa8a6eb07d51150b55e2399"
+    },
+    {
+      "path": "parcel-building-facts/vb.json",
+      "bytes": 82343,
+      "sha256": "edfdd466827f0f5af9f7d93c79587b8f3347079311aca1303c7cffe7f9e08664"
+    },
+    {
+      "path": "parcel-building-facts/vc.json",
+      "bytes": 69136,
+      "sha256": "e096b1005a42c1d1467971197a9e4a2fa7785796cd46f7a8639c02312ef1b5d7"
+    },
+    {
+      "path": "parcel-building-facts/vd.json",
+      "bytes": 72439,
+      "sha256": "16194ade5dd8de325b2310b308f2d6f3a4d010c1778125bcb807e471eee3a785"
+    },
+    {
+      "path": "parcel-building-facts/ve.json",
+      "bytes": 69134,
+      "sha256": "ddc5c689ae884d456bfd394d1a85d794a02d0deb66645a9b8f183e231a79f66e"
+    },
+    {
+      "path": "parcel-building-facts/vf.json",
+      "bytes": 78978,
+      "sha256": "59e656d30c2d85175f39bf9ee1c4cade6869908d6b8a592cee40a7c732b9359f"
+    },
+    {
+      "path": "parcel-building-facts/vg.json",
+      "bytes": 80876,
+      "sha256": "b4395a7a9a6c91ab61b3da50135d8af95a9bc1531bee6472b51a52445f2d824d"
+    },
+    {
+      "path": "parcel-building-facts/vh.json",
+      "bytes": 79509,
+      "sha256": "decc4f33848829806d0402e2107d0d713f9e8787c4eba575d4bbd87add14050c"
+    },
+    {
+      "path": "parcel-building-facts/vj.json",
+      "bytes": 80442,
+      "sha256": "99689cfa67a48a391ddfa9a034e761e10e64be3abccfa31e360915af63640c85"
+    },
+    {
+      "path": "parcel-building-facts/vk.json",
+      "bytes": 78135,
+      "sha256": "ad47e6594c3d5a58b17fd159fbc4c2476ba34a54f06c36a24d2964b264083747"
+    },
+    {
+      "path": "parcel-building-facts/vm.json",
+      "bytes": 65773,
+      "sha256": "079eec341596edb754b600bd3d16285a677b747bc144cc7e1b187d0a97dd7f97"
+    },
+    {
+      "path": "parcel-building-facts/vn.json",
+      "bytes": 73001,
+      "sha256": "340212ac8aad9223bd2b54bd20c9ada6432ff24dc234848bdb3ca4cc288b59ce"
+    },
+    {
+      "path": "parcel-building-facts/vp.json",
+      "bytes": 66919,
+      "sha256": "8c6dee7a30abfdcb860c0f399fe509bc0ac78176755c459b8f1aa0712ef78806"
+    },
+    {
+      "path": "parcel-building-facts/vq.json",
+      "bytes": 78646,
+      "sha256": "d7a9b5c01f1fdef7d429a507e0f9285a6605e52411b5da2530b7ce021767e4c2"
+    },
+    {
+      "path": "parcel-building-facts/vr.json",
+      "bytes": 79519,
+      "sha256": "51508b9a8f4dd6ad4b4cb4843fa757a156b872a188ccc83f352ab28ecc002df0"
+    },
+    {
+      "path": "parcel-building-facts/vs.json",
+      "bytes": 62630,
+      "sha256": "64081e864cc2ba0dbc23c438007e052f96ed6860b2fd3bac9e0b6bd5eec6b8ab"
+    },
+    {
+      "path": "parcel-building-facts/vt.json",
+      "bytes": 76299,
+      "sha256": "233be511a814c08ab9ff7ca7fd55e4fe8876b5c54e666d11b2c875a1de66f94c"
+    },
+    {
+      "path": "parcel-building-facts/vv.json",
+      "bytes": 75828,
+      "sha256": "8f2e3877e3a1659fa71f936aa0dd575d8517b79bb78d696ffe01cdc13de8f76a"
+    },
+    {
+      "path": "parcel-building-facts/vw.json",
+      "bytes": 73492,
+      "sha256": "74efc94113f9372ef09c4e04bab541e4f5d42ce4f96f4a39222363a76a17685a"
+    },
+    {
+      "path": "parcel-building-facts/vx.json",
+      "bytes": 78122,
+      "sha256": "e65575a4155e4fd5f244191a7e39c19a807bf1657bd0bfb77d0a0b1f332e96a6"
+    },
+    {
+      "path": "parcel-building-facts/vy.json",
+      "bytes": 67658,
+      "sha256": "aa1af3becf24dd8e27e4580d77587771c9c8d7c0ab7d9dd65fa863e9f336d0b6"
+    },
+    {
+      "path": "parcel-building-facts/vz.json",
+      "bytes": 78039,
+      "sha256": "9e2c8d886a5e441e6e5bcb42b8ac4a62f001eb0add78c0c709c01cffc5b45c50"
+    },
+    {
+      "path": "parcel-building-facts/w.json",
+      "bytes": 2454501,
+      "sha256": "f3dfc0ac3d9ca521bb46dd94e353eb1c2f4aa8a198ebea06036d7d39eb4d5efe"
+    },
+    {
+      "path": "parcel-building-facts/w0.json",
+      "bytes": 83360,
+      "sha256": "e95d4b824335933bfc0333121a398885eb69e7fea6a202ad4cd82ad280650470"
+    },
+    {
+      "path": "parcel-building-facts/w1.json",
+      "bytes": 83331,
+      "sha256": "e392cf7999843ddfc8b33cff8a70599a1f6fa0ce235b6be0b243ab9b6eac1ee0"
+    },
+    {
+      "path": "parcel-building-facts/w2.json",
+      "bytes": 78643,
+      "sha256": "3999498fef671410da22166da7d47c80412830ea3a8c058ea12129af94f4f402"
+    },
+    {
+      "path": "parcel-building-facts/w3.json",
+      "bytes": 75287,
+      "sha256": "742d5ebbdae22f1dc7999db0ac19e8d7668421b44cdb6d75bb26d1cdf42afeb1"
+    },
+    {
+      "path": "parcel-building-facts/w4.json",
+      "bytes": 67761,
+      "sha256": "e1fcc0afdd6c6200070d9d14d0b006c8f5aceb83164b0f59e61eb753ba4213ad"
+    },
+    {
+      "path": "parcel-building-facts/w5.json",
+      "bytes": 76697,
+      "sha256": "6a0f13d4fc5e909c132d34431f1c98065ecd94144f3fe2a1110e79ebcdd96816"
+    },
+    {
+      "path": "parcel-building-facts/w6.json",
+      "bytes": 75873,
+      "sha256": "cdd3c1eb295631b9bf4fd7666e372b3041879527c4768b8a1cbce34d087076e7"
+    },
+    {
+      "path": "parcel-building-facts/w7.json",
+      "bytes": 79549,
+      "sha256": "661eaa4832cbf37019c335461ba3530267d0dcdd0f6ed24f72694e6a91c92845"
+    },
+    {
+      "path": "parcel-building-facts/w8.json",
+      "bytes": 79532,
+      "sha256": "9babefae67eb5270280e645f41618f9755735842afe6378032bc98d84b450a2e"
+    },
+    {
+      "path": "parcel-building-facts/w9.json",
+      "bytes": 69095,
+      "sha256": "65589c925586b0ab44975db6381c0edfa56fec6b99fbd5f9fbf7420fca3fbc35"
+    },
+    {
+      "path": "parcel-building-facts/wa.json",
+      "bytes": 74797,
+      "sha256": "01b320346f005677f5198bc2de0971887b1ff0a9b34271144f15dba11c3d52da"
+    },
+    {
+      "path": "parcel-building-facts/wb.json",
+      "bytes": 81884,
+      "sha256": "89f346de43c4ea5af84b6b3ff2dd827d3fff870c2cea89cb056898ac97bb51d4"
+    },
+    {
+      "path": "parcel-building-facts/wc.json",
+      "bytes": 84281,
+      "sha256": "629e15bfe1a1707b2a29f439a41ec86e68968a6834b6e73633523e0972497114"
+    },
+    {
+      "path": "parcel-building-facts/wd.json",
+      "bytes": 74330,
+      "sha256": "67bc3720d91985ad3d069fdb31b37855b8af7ad060afdfa7b1b9d24f47692fa5"
+    },
+    {
+      "path": "parcel-building-facts/we.json",
+      "bytes": 77236,
+      "sha256": "559f1888a9d33325d6a48c0fdc8748d333418cdf86f77de0f0d4e21a671fc9c4"
+    },
+    {
+      "path": "parcel-building-facts/wf.json",
+      "bytes": 75340,
+      "sha256": "0d04dd381b55aad7d74abbcdf357e188b73f2cce8a8013cffde384b3faa55c9d"
+    },
+    {
+      "path": "parcel-building-facts/wg.json",
+      "bytes": 79549,
+      "sha256": "cc9a861d45b37254658c9b84312008d9910b2bedf862002313b6bb9232e161b8"
+    },
+    {
+      "path": "parcel-building-facts/wh.json",
+      "bytes": 80069,
+      "sha256": "69fbfa53c415bf0a0f8b872d3094eaba4781c76ee59ee968beaaae60e6f75908"
+    },
+    {
+      "path": "parcel-building-facts/wj.json",
+      "bytes": 75381,
+      "sha256": "e545302e2a44aeab6470c28b6f84c7a753a926235c923cc461e5c4b1e3f10778"
+    },
+    {
+      "path": "parcel-building-facts/wk.json",
+      "bytes": 70576,
+      "sha256": "af5f40a7650ce2416a0571adda1ff37e2af78c28b33e49f9906ffd29b74ba30f"
+    },
+    {
+      "path": "parcel-building-facts/wm.json",
+      "bytes": 70189,
+      "sha256": "5f11f1f0b248f024130f6f78d6ccb36b2a44fcaa685e707aef269b2e561d2370"
+    },
+    {
+      "path": "parcel-building-facts/wn.json",
+      "bytes": 81401,
+      "sha256": "9cd79fccc4822d87d4fe570823b9d7fed216871426f31e001c242376d615ce8b"
+    },
+    {
+      "path": "parcel-building-facts/wp.json",
+      "bytes": 70576,
+      "sha256": "ccbaf99d013af0d785b29add84d509d7ee2bfeb8cb880acd97c0ca57e4b8039b"
+    },
+    {
+      "path": "parcel-building-facts/wq.json",
+      "bytes": 68230,
+      "sha256": "45f7859fcf6c43916bc21e3d3a3070575fe7d7caa3c69cebf27b86d104b8d166"
+    },
+    {
+      "path": "parcel-building-facts/wr.json",
+      "bytes": 77250,
+      "sha256": "99bc9cfb74c6614a95087b48242a0d8693eefd0d046130c0b6422e62dda732cd"
+    },
+    {
+      "path": "parcel-building-facts/ws.json",
+      "bytes": 84300,
+      "sha256": "c3595c8f6cb68ab6680aaf738e297a0068d7973b3ceadc451272b4e1644bb05b"
+    },
+    {
+      "path": "parcel-building-facts/wt.json",
+      "bytes": 61127,
+      "sha256": "3b0317a1be1ac81d02733a544d8e04405316661bb7a9513eb38665fbcf59ee94"
+    },
+    {
+      "path": "parcel-building-facts/wv.json",
+      "bytes": 85172,
+      "sha256": "1cc9678de8b7dcaf3b40507d50359f8574c9597b585d5ef9900bcb120fcf50fc"
+    },
+    {
+      "path": "parcel-building-facts/ww.json",
+      "bytes": 70049,
+      "sha256": "48e2fcbad00e306b47e4e6b12f215e92314245d72c7981bbd0d9fe81bec73952"
+    },
+    {
+      "path": "parcel-building-facts/wx.json",
+      "bytes": 71561,
+      "sha256": "6fd50984b0922de4098726853875396b0dd46816057f851814a83b892fc1d44b"
+    },
+    {
+      "path": "parcel-building-facts/wy.json",
+      "bytes": 76192,
+      "sha256": "579a1f85ca3f72bc61aed5bafafe2c4c19b5e825cb750be021ab1d0013443dd7"
+    },
+    {
+      "path": "parcel-building-facts/wz.json",
+      "bytes": 82904,
+      "sha256": "7c08b7811d055520fed0c823939e657c954f671b74f6ada6d2ceff7ad70c9b99"
+    },
+    {
+      "path": "parcel-building-facts/x.json",
+      "bytes": 2440172,
+      "sha256": "9ad24c3825b61c9c805d1bdde4b8e04b68bd9c5d43e0db3e64675099034d5a2c"
+    },
+    {
+      "path": "parcel-building-facts/x0.json",
+      "bytes": 84311,
+      "sha256": "ccc819c25834702fb257f25658effe93759063b5a1837679c0dbb018d6d6170a"
+    },
+    {
+      "path": "parcel-building-facts/x1.json",
+      "bytes": 74375,
+      "sha256": "3547bb8e488a965fe3c77cb52957aaa1e7ff61236399ff5c9c9f86824d03c4f5"
+    },
+    {
+      "path": "parcel-building-facts/x2.json",
+      "bytes": 81444,
+      "sha256": "5cda826a4ac214cd877002b028d9af10b98048f0e375d9c1e5d9e84de8f2bdc8"
+    },
+    {
+      "path": "parcel-building-facts/x3.json",
+      "bytes": 86204,
+      "sha256": "2a92ac7e0ef7d74a841cf1dfc8f74303cf99cda812f6664aab037f62abc56bcc"
+    },
+    {
+      "path": "parcel-building-facts/x4.json",
+      "bytes": 88469,
+      "sha256": "2e264226dacfeb038ac58f895f0c9ddb5d672265c98c0bf1d6f55a170021078d"
+    },
+    {
+      "path": "parcel-building-facts/x5.json",
+      "bytes": 72449,
+      "sha256": "0d27afc3e3785d26bb3f254763f0ddf220b1757308cd5dfaddc4cee8dfd44691"
+    },
+    {
+      "path": "parcel-building-facts/x6.json",
+      "bytes": 76698,
+      "sha256": "4ca2205d4bed9c9b327b2d75d7b3ed7877ecf868a52f295c9f31db90780fee42"
+    },
+    {
+      "path": "parcel-building-facts/x7.json",
+      "bytes": 64499,
+      "sha256": "c15bb0930870d4a30836b2d6151477e776745f892d23e6b65733612413b57793"
+    },
+    {
+      "path": "parcel-building-facts/x8.json",
+      "bytes": 74868,
+      "sha256": "ee026902c55c96076fd7a122817e3da4db97c82e41f41f2146987393e3dc678c"
+    },
+    {
+      "path": "parcel-building-facts/x9.json",
+      "bytes": 80501,
+      "sha256": "b20601b13e0cac9532206f66f82b27dc12265eaaa6f5836d6f53c221952180b0"
+    },
+    {
+      "path": "parcel-building-facts/xa.json",
+      "bytes": 71049,
+      "sha256": "88e15e7e61a7fb51943e48169052ba65f9996471100ff496957476cc0d422f6c"
+    },
+    {
+      "path": "parcel-building-facts/xb.json",
+      "bytes": 85258,
+      "sha256": "a01bdd27c91f4f2a374b750bb1df6acca054f52cf543ab8d85c7007fd0cb335b"
+    },
+    {
+      "path": "parcel-building-facts/xc.json",
+      "bytes": 84644,
+      "sha256": "6164d9178d27e46922ab67e4192c62e12148534f16d7487bb1bb8fcfb7d619cb"
+    },
+    {
+      "path": "parcel-building-facts/xd.json",
+      "bytes": 81500,
+      "sha256": "48c5c7ee24984c7dda1a1a49e1adae743dcf4f2a3533bdc75ab11a7c4d5c1022"
+    },
+    {
+      "path": "parcel-building-facts/xe.json",
+      "bytes": 80485,
+      "sha256": "9833a81ff56c5c26f855bb2c355dce27a040fa61efb815e91a74752837f7d971"
+    },
+    {
+      "path": "parcel-building-facts/xf.json",
+      "bytes": 68840,
+      "sha256": "305bf7564aec7f2522fefb2053a0f5b1b471ac10b9228fef4835e0afec017c28"
+    },
+    {
+      "path": "parcel-building-facts/xg.json",
+      "bytes": 77171,
+      "sha256": "36977a65202b1aff9ca539e2b034c5fffc73dff6e90470da1ebb2a5c74b5c69b"
+    },
+    {
+      "path": "parcel-building-facts/xh.json",
+      "bytes": 71122,
+      "sha256": "cb62607a539c43c49b1d1d2e582ee0c7acd4921a2e2b3ea72f63c7baa20877dc"
+    },
+    {
+      "path": "parcel-building-facts/xj.json",
+      "bytes": 82398,
+      "sha256": "6791be3c8138698bac6ca292bb40a9f4ce0b567bdde47432ee57a590735876ed"
+    },
+    {
+      "path": "parcel-building-facts/xk.json",
+      "bytes": 76248,
+      "sha256": "b8924bc3642c0de46f6c66178b6688959cb24cc087f70cc1e19db5a069711b78"
+    },
+    {
+      "path": "parcel-building-facts/xm.json",
+      "bytes": 78016,
+      "sha256": "500dd94e5f9a370e4de5041fc90c6c138ee25d812cca79eab608a2a8b1fa8ec8"
+    },
+    {
+      "path": "parcel-building-facts/xn.json",
+      "bytes": 70177,
+      "sha256": "35a39821175f5cb7c75fb08efe490a40105c12c20ffd48934c0074ce349f0bab"
+    },
+    {
+      "path": "parcel-building-facts/xp.json",
+      "bytes": 74812,
+      "sha256": "e5068092377834dcf3e42afbf0d5417a8b17fbf400ad7f137326fa4e33f4e205"
+    },
+    {
+      "path": "parcel-building-facts/xq.json",
+      "bytes": 88493,
+      "sha256": "4bd6d8741376629d2d81daf4f18f4ddb87dc59caa0a5cc6fc0207744daabb5e8"
+    },
+    {
+      "path": "parcel-building-facts/xr.json",
+      "bytes": 79630,
+      "sha256": "07a929e0b10c70c4ee807e9b0cb59cc94ad24573d3ab3ca4d18de29be3a7aca8"
+    },
+    {
+      "path": "parcel-building-facts/xs.json",
+      "bytes": 73475,
+      "sha256": "5db0808c8525ae65ed33c15071d4b6ed74c0c934bb4b4a2da227859156f87ba2"
+    },
+    {
+      "path": "parcel-building-facts/xt.json",
+      "bytes": 80421,
+      "sha256": "b6a397dacef999f7e6b0f3f37cb73fa860c4c013078f6e3aeeb0366739d92214"
+    },
+    {
+      "path": "parcel-building-facts/xv.json",
+      "bytes": 71027,
+      "sha256": "d0667eff211ed92167e466a44fab3e880775e30952afbef516d263696e03273a"
+    },
+    {
+      "path": "parcel-building-facts/xw.json",
+      "bytes": 77148,
+      "sha256": "de2a274e4583804b9154daeb032af95f43b603651ed886d94ec9bf1b8891d8f6"
+    },
+    {
+      "path": "parcel-building-facts/xx.json",
+      "bytes": 65876,
+      "sha256": "7eb616d52c44c7d579b55fcdb1a926de6872f40471350962024f1f17c2a65c82"
+    },
+    {
+      "path": "parcel-building-facts/xy.json",
+      "bytes": 78988,
+      "sha256": "c49d39c25d1395df609984aabd9e9ae12b8441c629527dbc44261ce898392c5e"
+    },
+    {
+      "path": "parcel-building-facts/xz.json",
+      "bytes": 74809,
+      "sha256": "d5de7175f960d678ec6426ddf8608489284ff8e993dedbfe476dc4200d830be4"
+    },
+    {
+      "path": "parcel-building-facts/y.json",
+      "bytes": 2459978,
+      "sha256": "7120fdd662dcf8d14a06bd6fc6f65adb0fed40b4313f9a114cc6f41c21f4b37e"
+    },
+    {
+      "path": "parcel-building-facts/y0.json",
+      "bytes": 69329,
+      "sha256": "50c29bdbcac7d38f4893cb9e070dd7fb9d4efd876ed0543e11b62bf0d64f126c"
+    },
+    {
+      "path": "parcel-building-facts/y1.json",
+      "bytes": 78572,
+      "sha256": "d2abfe971d99d96b0e58cbd6aa36c99201d268ca285970fba63aef04a25c395f"
+    },
+    {
+      "path": "parcel-building-facts/y2.json",
+      "bytes": 73079,
+      "sha256": "b47251be51075678741ac9ca3c2ff748e58a8d5e8eb93e441128890f93ed24e3"
+    },
+    {
+      "path": "parcel-building-facts/y3.json",
+      "bytes": 71989,
+      "sha256": "4bc71cd1fa07a0750f0f7f7332d611416194dfe92dbf6df58944c8aa912bea37"
+    },
+    {
+      "path": "parcel-building-facts/y4.json",
+      "bytes": 78675,
+      "sha256": "ba4a0549481d74e7bc1dad87dae887ef630b857da09c031fd69e3934386eba72"
+    },
+    {
+      "path": "parcel-building-facts/y5.json",
+      "bytes": 77232,
+      "sha256": "bef7a8b6793e8e3becf6dbde7e8b2c11a89fd4d15389c42e7c15dd722ea661e4"
+    },
+    {
+      "path": "parcel-building-facts/y6.json",
+      "bytes": 76201,
+      "sha256": "9b9086bd15c01a12b3d4c8ba5bfa2f7f33a9f311e1e1472881036c8a9ca62121"
+    },
+    {
+      "path": "parcel-building-facts/y7.json",
+      "bytes": 70623,
+      "sha256": "87411c14fde339b11e824387ff84ad04dbe6828c98a76797a36438a168484534"
+    },
+    {
+      "path": "parcel-building-facts/y8.json",
+      "bytes": 84694,
+      "sha256": "0d2250ae4a1d82deaf60495d78f5969b4bfda115bae99e8f3e47d808c386d0be"
+    },
+    {
+      "path": "parcel-building-facts/y9.json",
+      "bytes": 82436,
+      "sha256": "23b81b6a3b0c882aa493cd581d5097c43798daa60b959b6600612bcf85f6ac4d"
+    },
+    {
+      "path": "parcel-building-facts/ya.json",
+      "bytes": 70105,
+      "sha256": "425636cf798d4264d61c69358b97e998b028b195d44bcf4bc3924be1c29e4809"
+    },
+    {
+      "path": "parcel-building-facts/yb.json",
+      "bytes": 74891,
+      "sha256": "cb5fff45d87fd44d949afb4eaf42b43fd4d99dfcaa4d9442f002279775d7fb53"
+    },
+    {
+      "path": "parcel-building-facts/yc.json",
+      "bytes": 70575,
+      "sha256": "9921b8dbbcaa5fe0b43f554e40e41d410616a8adb17d9345a0032a96f50cea51"
+    },
+    {
+      "path": "parcel-building-facts/yd.json",
+      "bytes": 73415,
+      "sha256": "4bcb498586e58fe0421e194280c606cbeb5af628cd64410696e79bad077cbcdb"
+    },
+    {
+      "path": "parcel-building-facts/ye.json",
+      "bytes": 81905,
+      "sha256": "76fea28a7b22d9a805b48325505d461406dd40f250e06c8e085720c63216ae5c"
+    },
+    {
+      "path": "parcel-building-facts/yf.json",
+      "bytes": 86197,
+      "sha256": "362c3f8ca28651da31ab204ace375a94295323f9889e61ed437b3b1dde1a766d"
+    },
+    {
+      "path": "parcel-building-facts/yg.json",
+      "bytes": 64463,
+      "sha256": "44da40b069d9fe1c5f3948142297d8dc75c5b09a50cb85a92ae49e3655e6526d"
+    },
+    {
+      "path": "parcel-building-facts/yh.json",
+      "bytes": 65450,
+      "sha256": "c424ad76c8d30f90c2db8a05c943351a914da7155a841e2413f8902701432b68"
+    },
+    {
+      "path": "parcel-building-facts/yj.json",
+      "bytes": 75317,
+      "sha256": "f63b3c5d11352f7919e7dbc6753ce147edb7c7a1f1c138a71c64c30ab7229d66"
+    },
+    {
+      "path": "parcel-building-facts/yk.json",
+      "bytes": 80012,
+      "sha256": "4b90f2eeac1bd4cb206682d2cef67f0ee4b3cb35724e2b6c10e4e5777bdf8b98"
+    },
+    {
+      "path": "parcel-building-facts/ym.json",
+      "bytes": 78122,
+      "sha256": "08377c4a9a0fab6dad0e15c2a25ee9d22ff9187c6611d893bdfcb839fdb533cd"
+    },
+    {
+      "path": "parcel-building-facts/yn.json",
+      "bytes": 72054,
+      "sha256": "b5f119732f0a73968976116a141157b2da80406870f07fe64790b5aad3d3b2c6"
+    },
+    {
+      "path": "parcel-building-facts/yp.json",
+      "bytes": 66797,
+      "sha256": "033692dd7bda5aac988b90ca0249af568a6fc2e0ad5d639ba2156ee658a942b8"
+    },
+    {
+      "path": "parcel-building-facts/yq.json",
+      "bytes": 83285,
+      "sha256": "658b6262cf7a568cc6e605e89d73238a0f6232a0a3eb86d797ba53a039d20d75"
+    },
+    {
+      "path": "parcel-building-facts/yr.json",
+      "bytes": 66877,
+      "sha256": "386cbfc3e4c8fe501b5db2f76906ec02097a65a3f42fa63523e3561081215f47"
+    },
+    {
+      "path": "parcel-building-facts/ys.json",
+      "bytes": 74354,
+      "sha256": "292a3b5e55032fdf373cc65ea0b0db7c1677951aea96f7902e7dc13305e3b1c4"
+    },
+    {
+      "path": "parcel-building-facts/yt.json",
+      "bytes": 83389,
+      "sha256": "7c3a8e276bd0c7133ae78ee57bffbf0c8a7583c452215894d547f9244f3177b1"
+    },
+    {
+      "path": "parcel-building-facts/yv.json",
+      "bytes": 64543,
+      "sha256": "9881e532e302f4e960d949d3343e3f0e3e7cc6d6ea1f16784cb207e3df2b1881"
+    },
+    {
+      "path": "parcel-building-facts/yw.json",
+      "bytes": 66386,
+      "sha256": "59463a999dcbe1fb2575df664d60971239b02cb4ea34a1a00f488b7d07593f91"
+    },
+    {
+      "path": "parcel-building-facts/yx.json",
+      "bytes": 77140,
+      "sha256": "f0400b711e1e0dbe693a0756f715d393ee6d72271d996f8d4164cb93fdc8876c"
+    },
+    {
+      "path": "parcel-building-facts/yy.json",
+      "bytes": 76791,
+      "sha256": "cccf85def61bfb107b23a4af970fe4116d5c38e9616aefeb926b7389287e66ef"
+    },
+    {
+      "path": "parcel-building-facts/yz.json",
+      "bytes": 68177,
+      "sha256": "334cf3e0c8ec710c56e00201f66c73dc57c991f500950da47a5803f034f112a4"
+    },
+    {
+      "path": "parcel-building-facts/z.json",
+      "bytes": 2451490,
+      "sha256": "6d4609c4edcbe9219d55262cfd36dde0ae443112675d6950c61443b27c7b4e39"
+    },
+    {
+      "path": "parcel-building-facts/z0.json",
+      "bytes": 73436,
+      "sha256": "d51759245eaffad9956ae4c4f5210a788dfecea18a820f7bcbdfb88d11a5fa9d"
+    },
+    {
+      "path": "parcel-building-facts/z1.json",
+      "bytes": 77609,
+      "sha256": "e7badb5827b32740bc37d534f01eaa17aef64e97fe3d59cb96636feeb0a9b134"
+    },
+    {
+      "path": "parcel-building-facts/z2.json",
+      "bytes": 74760,
+      "sha256": "997f5b5b83e0a44fedc3aebb701bce1ca2376ccfc1c0b845639e3f49c72cdd14"
+    },
+    {
+      "path": "parcel-building-facts/z3.json",
+      "bytes": 73454,
+      "sha256": "0ae6138bfba0ad2664c9a7f5cbf7fdd9b5f8bc1397e98a2b30d74a83f512d78a"
+    },
+    {
+      "path": "parcel-building-facts/z4.json",
+      "bytes": 71088,
+      "sha256": "d1bf12d7bfca6c15ffd560ece55b30d24dfa98ab31146c0b4b9acf18aa649e33"
+    },
+    {
+      "path": "parcel-building-facts/z5.json",
+      "bytes": 73890,
+      "sha256": "3a110f8822c64c39c7cab62c3908c3353b4d76c9f09843586c875494243a3880"
+    },
+    {
+      "path": "parcel-building-facts/z6.json",
+      "bytes": 75151,
+      "sha256": "bea447378f30544c560bb44d252d6a7d2796f4062e1d40329adc77cee90f81cf"
+    },
+    {
+      "path": "parcel-building-facts/z7.json",
+      "bytes": 84272,
+      "sha256": "f4a0bcd9dbeb2a403764085c23afcb65d0659d427b9f2321d49e332b9ab3105f"
+    },
+    {
+      "path": "parcel-building-facts/z8.json",
+      "bytes": 77631,
+      "sha256": "e97076e834861850f4426464b624f44102de0e3c3ff6ea5520cce4d0a21943e8"
+    },
+    {
+      "path": "parcel-building-facts/z9.json",
+      "bytes": 77185,
+      "sha256": "0326dd29ff64315c88d39b63a5ea92f30a98074a018686705a933045a1742cd1"
+    },
+    {
+      "path": "parcel-building-facts/za.json",
+      "bytes": 81349,
+      "sha256": "b1245f5f16affa34d1db1e17457addf33140de02069a41d3a10f97e4e8d3d52e"
+    },
+    {
+      "path": "parcel-building-facts/zb.json",
+      "bytes": 71059,
+      "sha256": "25e3e74cbefc0b16e43376b4aeb63fb68680e4eeeb78d8ae375794477cef20c2"
+    },
+    {
+      "path": "parcel-building-facts/zc.json",
+      "bytes": 73872,
+      "sha256": "d8a438e01184984a0d1c3ad9bc23aa61d9fdcf611b69b67a17109b4c179f54f0"
+    },
+    {
+      "path": "parcel-building-facts/zd.json",
+      "bytes": 72960,
+      "sha256": "01cf18ba0c8bec8039082c487b8e462ab487e7166b0e0aaf93020bcdcc66b6c6"
+    },
+    {
+      "path": "parcel-building-facts/ze.json",
+      "bytes": 81935,
+      "sha256": "b05eeebe250323932e8fda22efd732ea8faf7ea848763395d30ed48c8a30345c"
+    },
+    {
+      "path": "parcel-building-facts/zf.json",
+      "bytes": 66823,
+      "sha256": "d5fcbcc5aae66b1f7718ffc6056c246fc2be501d8318073e1706b3f0a180c8df"
+    },
+    {
+      "path": "parcel-building-facts/zg.json",
+      "bytes": 76179,
+      "sha256": "308fd1c3504698e3bd999901f31a02a1d729d18b4a5ce38845b1cd3303edea5d"
+    },
+    {
+      "path": "parcel-building-facts/zh.json",
+      "bytes": 72960,
+      "sha256": "f281992e3c1f6ff08d040443f7c2da00a8a2bb6bad504905083e7b460e2414c4"
+    },
+    {
+      "path": "parcel-building-facts/zj.json",
+      "bytes": 74799,
+      "sha256": "4146ffa00d6690ca5f02c0747ac0e2b7d88773c4124276dd771b30ab10c3faaa"
+    },
+    {
+      "path": "parcel-building-facts/zk.json",
+      "bytes": 80433,
+      "sha256": "27b85f4851316dc4008ebb20dc64dd506b3db445d5ac90369ccec67844032900"
+    },
+    {
+      "path": "parcel-building-facts/zm.json",
+      "bytes": 83739,
+      "sha256": "51b737f153df915f84839d4608ef7def835674d33646ead49ce894abc1f7d134"
+    },
+    {
+      "path": "parcel-building-facts/zn.json",
+      "bytes": 74028,
+      "sha256": "01bc1f50a620cb77f76ca163b42dd4a32908a3b6f5adb3ead74c79e4410e61fe"
+    },
+    {
+      "path": "parcel-building-facts/zp.json",
+      "bytes": 80423,
+      "sha256": "1f3e5b1dcc304d46a62223e4427f73e4d20ac339470547f95ecc77b511f5a5a0"
+    },
+    {
+      "path": "parcel-building-facts/zq.json",
+      "bytes": 66851,
+      "sha256": "4ae3e382a39bd0972546f941eaffd948f30131c2053c8aab1712ce47d73dd066"
+    },
+    {
+      "path": "parcel-building-facts/zr.json",
+      "bytes": 64953,
+      "sha256": "86cdf9a58e58da890694aeb2d05b32b3a1fd983ec12610ad1ca1fa50f620827a"
+    },
+    {
+      "path": "parcel-building-facts/zs.json",
+      "bytes": 72406,
+      "sha256": "725c3aeee444aa078cdc26fb5a241cf78b47ed18def047dbbcb360d117271dd7"
+    },
+    {
+      "path": "parcel-building-facts/zt.json",
+      "bytes": 78181,
+      "sha256": "5fbf93a36424907ee6256337ca93956918e7d65e8003ac2d7dc1d5b6f7b9c1e9"
+    },
+    {
+      "path": "parcel-building-facts/zv.json",
+      "bytes": 75694,
+      "sha256": "bff76381c2be84ebd381a02b2352875cf16ff7cb8a886b15324787230a356b86"
+    },
+    {
+      "path": "parcel-building-facts/zw.json",
+      "bytes": 73037,
+      "sha256": "aca42f5ed45b44a9c2024ebc4606be8eb304b2d8041abd3adaba24ef2ea0ada2"
+    },
+    {
+      "path": "parcel-building-facts/zx.json",
+      "bytes": 74818,
+      "sha256": "81d8294cc7cd57b45f09d1c9a738b8569e3078fde89b01e0423bfdd0a8062594"
+    },
+    {
+      "path": "parcel-building-facts/zy.json",
+      "bytes": 86427,
+      "sha256": "c6932649aab88e0d086aabbfc1b5780f7a1dad18b94ff2beb94aa34f1981a4da"
+    },
+    {
+      "path": "parcel-building-facts/zz.json",
+      "bytes": 71526,
+      "sha256": "f75caa8fdbfa10f626cb4f8216edf586eedfff13b4cc21814fc8f66b3691a753"
+    },
+    {
+      "path": "parcel-building-facts-index.json",
+      "bytes": 11141,
+      "sha256": "df4e4a976a8905148800570439320c63357be63cd1364fb294cbb3740df31c22"
+    },
+    {
+      "path": "provenance/build.json",
+      "bytes": 15095,
+      "sha256": "aeb4f501e7b337441a656e12cde31d29ea3eff51621a39112979c08b7530050a"
+    },
+    {
+      "path": "provenance/buildings.json",
+      "bytes": 1336,
+      "sha256": "6bb848730f09bb0d08544947fae11a8699b8e82bdca7607b06d81b51318b1608"
+    },
+    {
+      "path": "provenance/sources.json",
+      "bytes": 10610,
+      "sha256": "35fedb3f28a07094f8548bfd69d76a95941196bc7895e450aef2a3467e940528"
+    },
+    {
+      "path": "tiles/built-form.pmtiles",
+      "bytes": 42196064,
+      "sha256": "d655a1014fbdb6430dd513bcacd707e538dc43f78472e9d08d70bdd39e8e8b05"
+    },
+    {
+      "path": "tiles/freight.pmtiles",
+      "bytes": 995163,
+      "sha256": "926cce85825aaafca60d90cfc6c348a5135a5972fd8ae2d741ca8a36bf3ad5d5"
+    },
+    {
+      "path": "tiles/parks.pmtiles",
+      "bytes": 328722,
+      "sha256": "a928f6a2926ba0b952913c3fdf9b78f344c18e206181c2cd3e5d035e6dac2c26"
+    },
+    {
+      "path": "tiles/planning.pmtiles",
+      "bytes": 8475504,
+      "sha256": "1681117c9088865c512df4453bf3a8507b3959ec916bc83f955d0c6babe0b3dd"
+    },
+    {
+      "path": "tiles/protected.pmtiles",
+      "bytes": 934300,
+      "sha256": "6d189782f0153fabaff7494f0ed629016c159d3653c7fc409d356a33d40df5f5"
+    },
+    {
+      "path": "tiles/utilities.pmtiles",
+      "bytes": 5108764,
+      "sha256": "9c9952e461f89cd92c12bba219d3b7e8e338a7096bb34f7ed2e77e12ce149fbb"
+    }
+  ]
+}
