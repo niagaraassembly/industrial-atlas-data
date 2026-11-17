@@ -26,11 +26,12 @@ releases/<release_unit>/<release_id>/
 
 Facts relayed from public sources with the source named on every value. Parcel dossiers do
 not include owner names, mailing addresses or legal descriptions. The separate Hamilton
-monthly permit-digest release contains source-reported owner and builder names only on the
-approved industrial, logistics, commercial and multi-unit focus profile; the viewer labels
-these names as source-reported and not independently verified. It excludes contact
-addresses and permit descriptions. Original extracts and review files remain outside this
-public repository. Display wording is not stored in the data.
+monthly permit-digest viewer shows every normalized permit field for every record, including
+permit descriptions and source-reported owner and builder names. Contact address fields
+(`owner_address`, `builder_address`) remain withheld. The viewer preserves each field's
+source text and status beside the normalized value, and labels source-reported values as
+not independently verified. Original extracts and review files remain outside this public
+repository. Display wording is not stored in the data.
 
 ## Status
 
@@ -40,11 +41,14 @@ full-release reproducibility checks passed before publication. This early previe
 for inspecting what works; it is not a final launch declaration. The release directory
 is immutable; corrections require a new release id.
 
-Hamilton's screened monthly permit-digest viewer package is versioned separately at
-`development-releases/ca-on-hamilton/2026-11-17-field-screen-v0.1/`. It retains all
-8,986 screened viewer records, parcel links and the city snapshot; its internal source
-extracts and company-name review queue are not included. The release manifest pins each
-public file by SHA-256. Corrections require a new release directory.
+Hamilton's monthly permit-digest viewer package is versioned separately at
+`development-releases/ca-on-hamilton/2026-11-17-field-screen-v0.2/`. It retains all
+8,986 records, 8,812 accepted parcel links, and the city snapshot. Permit records include
+the source field value, exact source text, and source field status; only owner and builder
+contact addresses are omitted. Digest report month is the issuance/activity basis, not a
+current open/closed status. Internal source extracts and the company-name review queue are
+not included. The release manifest pins each public file by SHA-256. Release v0.1 remains
+unchanged; corrections require a new release directory.
 
 ## Hamilton map layers
 

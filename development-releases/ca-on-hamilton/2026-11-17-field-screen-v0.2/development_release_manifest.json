@@ -1,0 +1,44 @@
+{
+  "schema_version": "hamilton-development-release-manifest/0.2.0",
+  "jurisdiction": "ca/on/hamilton",
+  "record_count": 8986,
+  "focus_record_count": 1905,
+  "linked_record_count": 8812,
+  "unique_parcel_count": 5909,
+  "outputs": {
+    "viewer_development_records_v0.2.json": "5de2dfd49f5fdcde8004d61184f3e22c51a2653d86de67cb3e954f07bae2000d",
+    "parcel_development_indicators_v0.2.json": "92d6c9bb6f7ec1048083547040c697d44bce749022c642ed2db001a584595382",
+    "city_development_snapshot_v0.1.json": "b2323515b0d6a99f7cb292c644077566a1974bb8954aa9aff41ad9ce692dcfc8"
+  },
+  "field_policy": {
+    "public_source_fields": "all normalized permit fields including permit descriptions and source-reported owner/builder names, with source values, exact source text and field status",
+    "withheld_source_fields": [
+      "owner_address",
+      "builder_address"
+    ],
+    "source_activity": "permit issuance in monthly digest report month; no current open/closed status inferred"
+  },
+  "report_months": [
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12",
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06",
+    "2026-07",
+    "2026-08",
+    "2026-09"
+  ]
+}
