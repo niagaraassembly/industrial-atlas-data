@@ -1,0 +1,13 @@
+{
+  "schema_version": "hamilton-development-release-manifest/0.1.0",
+  "jurisdiction": "ca/on/hamilton",
+  "record_count": 8986,
+  "focus_record_count": 1905,
+  "linked_record_count": 8812,
+  "unique_parcel_count": 5909,
+  "outputs": {
+    "viewer_development_records_v0.1.json": "48648f742120f5aa8ab3c606712a1028bd39264db419599a16f0f3bc53246507",
+    "parcel_development_indicators_v0.1.json": "f0406c7928c3e465350a4bb84ecf4c72be0e5c35ed6057132a1f775a22e69a19",
+    "city_development_snapshot_v0.1.json": "b2323515b0d6a99f7cb292c644077566a1974bb8954aa9aff41ad9ce692dcfc8"
+  }
+}

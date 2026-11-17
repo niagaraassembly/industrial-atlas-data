@@ -24,9 +24,13 @@ releases/<release_unit>/<release_id>/
 
 ## What is in the data
 
-Facts relayed from public sources with the source named on every value. Owner names, mailing
-addresses and legal descriptions are never read or written. Display wording is not stored in
-the data.
+Facts relayed from public sources with the source named on every value. Parcel dossiers do
+not include owner names, mailing addresses or legal descriptions. The separate Hamilton
+monthly permit-digest release contains source-reported owner and builder names only on the
+approved industrial, logistics, commercial and multi-unit focus profile; the viewer labels
+these names as source-reported and not independently verified. It excludes contact
+addresses and permit descriptions. Original extracts and review files remain outside this
+public repository. Display wording is not stored in the data.
 
 ## Status
 
@@ -35,6 +39,12 @@ Hamilton dossier and the D-070 key-only parcel tiles. Leak, allowlist, size and
 full-release reproducibility checks passed before publication. This early preview is
 for inspecting what works; it is not a final launch declaration. The release directory
 is immutable; corrections require a new release id.
+
+Hamilton's screened monthly permit-digest viewer package is versioned separately at
+`development-releases/ca-on-hamilton/2026-11-17-field-screen-v0.1/`. It retains all
+8,986 screened viewer records, parcel links and the city snapshot; its internal source
+extracts and company-name review queue are not included. The release manifest pins each
+public file by SHA-256. Corrections require a new release directory.
 
 ## Hamilton map layers
 
