@@ -50,6 +50,22 @@ current open/closed status. Internal source extracts and the company-name review
 not included. The release manifest pins each public file by SHA-256. Release v0.1 remains
 unchanged; corrections require a new release directory.
 
+Development release `ca-on-hamilton/2026-11-17-field-screen-v0.3/` adds a
+citywide hexagonal permit-activity mosaic while retaining the v0.2 record and
+parcel-indicator files unchanged. The mosaic assigns each parcel-linked permit
+once to the cell containing the mean of its linked parcel representative points.
+It carries monthly counts for all linked permits and a separate focus count for
+industrial, commercial, logistics, and multi-unit residential sectors. It does
+not contain parcel or permit identifiers. Cells are a citywide distribution
+summary, not individual project locations; report month represents issuance in
+the digest and does not establish current permit status. Rebuild locally with
+`scripts/build_hamilton_development_mosaic.py` from the pinned v0.2 viewer file
+and the local Hamilton registry `parcels.csv`; first copy the three unchanged
+v0.2 output files into the new v0.3 directory. The builder writes both the
+GeoJSON and release manifest with input and output hashes. Raw registry inputs
+remain outside this repository. Of the 1,905 focus-sector records, 1,869 have a
+usable parcel location for the map; the other 36 stay in the viewer only.
+
 ## Hamilton map layers
 
 `map-releases/ca-on-hamilton/2026-11-16-layer-set-001/` contains 11 screened

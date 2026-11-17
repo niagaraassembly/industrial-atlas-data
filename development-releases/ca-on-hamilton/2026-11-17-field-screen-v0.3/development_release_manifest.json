@@ -1,0 +1,76 @@
+{
+  "jurisdiction": "ca/on/hamilton",
+  "record_count": 8986,
+  "focus_record_count": 1905,
+  "linked_record_count": 8812,
+  "unique_parcel_count": 5909,
+  "field_policy": {
+    "public_source_fields": "all normalized permit fields including permit descriptions and source-reported owner/builder names, with source values, exact source text and field status",
+    "withheld_source_fields": [
+      "owner_address",
+      "builder_address"
+    ],
+    "source_activity": "permit issuance in monthly digest report month; no current open/closed status inferred"
+  },
+  "report_months": [
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12",
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06",
+    "2026-07",
+    "2026-08",
+    "2026-09"
+  ],
+  "schema_version": "hamilton-development-release-manifest/0.3.0",
+  "outputs": {
+    "viewer_development_records_v0.2.json": "5de2dfd49f5fdcde8004d61184f3e22c51a2653d86de67cb3e954f07bae2000d",
+    "parcel_development_indicators_v0.2.json": "92d6c9bb6f7ec1048083547040c697d44bce749022c642ed2db001a584595382",
+    "city_development_snapshot_v0.1.json": "b2323515b0d6a99f7cb292c644077566a1974bb8954aa9aff41ad9ce692dcfc8",
+    "city_development_mosaic_v0.1.geojson": "3939b353a65497669dd61b42c943cee2ecb12f8d4b6c24d338685b2fd443f0ee"
+  },
+  "activity_mosaic": {
+    "schema_version": "hamilton-development-mosaic/0.1.0",
+    "file": "city_development_mosaic_v0.1.geojson",
+    "cell_count": 599,
+    "linked_records_counted": 8812,
+    "records_without_usable_parcel_location": 174,
+    "focus_records_counted": 1869,
+    "focus_records_without_usable_parcel_location": 36,
+    "focus_sectors": [
+      "commercial",
+      "commercial_hospitality_food",
+      "commercial_office_professional",
+      "commercial_retail",
+      "industrial",
+      "residential_multi_unit",
+      "warehouse_logistics"
+    ],
+    "spatial_unit": "1.3 km pointy hexagonal aggregation cell",
+    "location_method": "mean EPSG:26917 representative point of linked parcels, then hexagonal binning",
+    "count_unit": "distinct permit records, one contribution per record",
+    "parcel_or_permit_identifiers_in_output": false,
+    "owner_and_builder_contact_addresses_in_output": false
+  },
+  "provenance": {
+    "viewer_release": "ca-on-hamilton/2026-11-17-field-screen-v0.2",
+    "viewer_input_sha256": "5de2dfd49f5fdcde8004d61184f3e22c51a2653d86de67cb3e954f07bae2000d",
+    "registry_run_id": "20261017T0725Z-run2-ia1",
+    "registry_parcels_sha256": "fa60e0b161c012ded2d69bfc75bea795d07ce3826c589140d44c39f24c91651b",
+    "builder": "scripts/build_hamilton_development_mosaic.py",
+    "builder_version": "0.1.0"
+  }
+}
