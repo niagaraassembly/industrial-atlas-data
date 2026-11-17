@@ -1,0 +1,55 @@
+{
+  "schema": 1,
+  "files": [
+    {
+      "path": "basemap/hamilton-20261116.pmtiles",
+      "bytes": 25368361,
+      "sha256": "38d2d0e13e6228433128c884a7a5bc9ab9ac51c53a3ba4cd79241e200fb40f99"
+    },
+    {
+      "path": "basemap.json",
+      "bytes": 105,
+      "sha256": "4f7ff85e71e9bfc3d879c1b1a270d0e4f011f1b9fe4235d28b3bf72286675e8c"
+    },
+    {
+      "path": "manifest.json",
+      "bytes": 15106,
+      "sha256": "e046fdeabd7449de9cd69c9b35a13114f34ed9f50f42301898c47abb3fcb2caa"
+    },
+    {
+      "path": "provenance/build.json",
+      "bytes": 15095,
+      "sha256": "aeb4f501e7b337441a656e12cde31d29ea3eff51621a39112979c08b7530050a"
+    },
+    {
+      "path": "provenance/sources.json",
+      "bytes": 10610,
+      "sha256": "35fedb3f28a07094f8548bfd69d76a95941196bc7895e450aef2a3467e940528"
+    },
+    {
+      "path": "tiles/freight.pmtiles",
+      "bytes": 995163,
+      "sha256": "926cce85825aaafca60d90cfc6c348a5135a5972fd8ae2d741ca8a36bf3ad5d5"
+    },
+    {
+      "path": "tiles/parks.pmtiles",
+      "bytes": 328722,
+      "sha256": "a928f6a2926ba0b952913c3fdf9b78f344c18e206181c2cd3e5d035e6dac2c26"
+    },
+    {
+      "path": "tiles/planning.pmtiles",
+      "bytes": 8475504,
+      "sha256": "1681117c9088865c512df4453bf3a8507b3959ec916bc83f955d0c6babe0b3dd"
+    },
+    {
+      "path": "tiles/protected.pmtiles",
+      "bytes": 934300,
+      "sha256": "6d189782f0153fabaff7494f0ed629016c159d3653c7fc409d356a33d40df5f5"
+    },
+    {
+      "path": "tiles/utilities.pmtiles",
+      "bytes": 5108764,
+      "sha256": "9c9952e461f89cd92c12bba219d3b7e8e338a7096bb34f7ed2e77e12ce149fbb"
+    }
+  ]
+}

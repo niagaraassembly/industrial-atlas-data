@@ -1,0 +1,290 @@
+{
+  "schema": 1,
+  "snapshot_date": "2026-10-17 and 2026-11-17",
+  "sources": [
+    {
+      "path": "hamilton-city/zoning-bylaw-boundary-hamilton-2026-10-17/zoning-bylaw-boundary.geojson",
+      "sha256": "f460584e66241c49b6bca023b037ffd7ce9b7a6cd9ad0e20f631246cd41d67b5",
+      "source_feature_count": 11860,
+      "mapped_feature_count": 11829,
+      "null_geometry_skipped": 31,
+      "fields": [
+        "ZONING_CODE",
+        "ZONING_DESC",
+        "COMMUNITY",
+        "URBAN_RURAL_SETTLE",
+        "BY_LAW_NUMBER",
+        "EXCEPTION1",
+        "EXCEPTION2",
+        "EXCEPTION3",
+        "HOLDING1",
+        "HOLDING2",
+        "HOLDING3"
+      ],
+      "source": "City of Hamilton",
+      "source_url": "https://open.hamilton.ca/"
+    },
+    {
+      "path": "hamilton-city/secondary-plan-land-use-hamilton-2026-10-17/secondary-plan-land-use.geojson",
+      "sha256": "7ff88cc0d4db0a83b505346180a817cbf8be99833c1f6600e773706ea17bfae4",
+      "source_feature_count": 47206,
+      "mapped_feature_count": 47206,
+      "null_geometry_skipped": 0,
+      "fields": [
+        "LANDUSE_CLASS",
+        "SEC_PLAN_NAME",
+        "COMMUNITY",
+        "AREA_HEC"
+      ],
+      "source": "City of Hamilton",
+      "source_url": "https://open.hamilton.ca/"
+    },
+    {
+      "path": "hamilton-city/urban-boundary-hamilton-2026-10-17/urban-boundary.geojson",
+      "sha256": "ec9805aa3298ef652964286f87e3b0233f1488ae8e5e5f6daa0f8f811cd6ea6b",
+      "source_feature_count": 1,
+      "mapped_feature_count": 1,
+      "null_geometry_skipped": 0,
+      "fields": [],
+      "source": "City of Hamilton",
+      "source_url": "https://open.hamilton.ca/"
+    },
+    {
+      "path": "hamilton-city/rural-boundary-hamilton-2026-10-17/rural-boundary.geojson",
+      "sha256": "d6254f02007f1c64f5a40c4966e1b9de77b687e9cec796eea4b663a48ef2fef8",
+      "source_feature_count": 1,
+      "mapped_feature_count": 1,
+      "null_geometry_skipped": 0,
+      "fields": [],
+      "source": "City of Hamilton",
+      "source_url": "https://open.hamilton.ca/"
+    },
+    {
+      "path": "hamilton-city/employment-lands-hamilton-2026-10-17/employment-lands.geojson",
+      "sha256": "4bce868e14551894a90323bdb789658fed30269ae17b1962ce668e2cba60d96b",
+      "source_feature_count": 22,
+      "mapped_feature_count": 22,
+      "null_geometry_skipped": 0,
+      "fields": [
+        "AREA_NAME",
+        "CATEGORY",
+        "AREA_HECTARES"
+      ],
+      "source": "City of Hamilton",
+      "source_url": "https://open.hamilton.ca/"
+    },
+    {
+      "path": "lio/greenbelt-designation-hamilton-2026-10-17/greenbelt-designation.geojson",
+      "sha256": "8903b69f2385667bbf69fc540cd68e76956a325b5ab3759a2ef1737768859a37",
+      "source_feature_count": 9,
+      "mapped_feature_count": 9,
+      "null_geometry_skipped": 0,
+      "fields": [
+        "DESIGNATION"
+      ],
+      "source": "Ontario Land Information Ontario",
+      "source_url": "https://geohub.lio.gov.on.ca/"
+    },
+    {
+      "path": "lio/nep-designation-hamilton-2026-10-17/nep-designation.geojson",
+      "sha256": "efa4e7059d5ae9e2e3939d0c8b2cab8c61f54e5e91fc4ca1e552d76080990041",
+      "source_feature_count": 115,
+      "mapped_feature_count": 115,
+      "null_geometry_skipped": 0,
+      "fields": [
+        "DESIGNATION"
+      ],
+      "source": "Ontario Land Information Ontario",
+      "source_url": "https://geohub.lio.gov.on.ca/"
+    },
+    {
+      "path": "hca/regulated-areas-hamilton-2026-10-17/regulated-areas.geojson",
+      "sha256": "0095f14a14b6fb4d1c90e8c3424044ca4324fb9736652ea434c20bef902d88f3",
+      "source_feature_count": 134,
+      "mapped_feature_count": 134,
+      "null_geometry_skipped": 0,
+      "fields": [],
+      "source": "Hamilton Conservation Authority",
+      "source_url": "https://hca-open-data-camaps.hub.arcgis.com/"
+    },
+    {
+      "path": "npca/approximate-regulation-lands-hamilton-2026-10-17/approximate-regulation-lands.geojson",
+      "sha256": "4cf0d16c706b2592fe144c863b729b5bd2b6104170209371b5a36efb1807ab3c",
+      "source_feature_count": 271,
+      "mapped_feature_count": 271,
+      "null_geometry_skipped": 0,
+      "fields": [],
+      "source": "Niagara Peninsula Conservation Authority",
+      "source_url": "https://gis-npca-camaps.opendata.arcgis.com/"
+    },
+    {
+      "path": "grca/regulation-limits-hamilton-2026-10-17/grca_regulation_limits_hamilton_clipped.geojson",
+      "sha256": "505ad92d8baa177de2002df598f913432025058e64ec4da82b624e5f4f932109",
+      "source_feature_count": 199,
+      "mapped_feature_count": 199,
+      "null_geometry_skipped": 0,
+      "fields": [
+        "GR_FEATURE",
+        "MU_LTIER",
+        "MU_UTIER"
+      ],
+      "source": "Grand River Conservation Authority",
+      "source_url": "https://data.grandriver.ca/downloads-geospatial.html"
+    },
+    {
+      "path": "hamilton-city/parks-hamilton-2026-10-17/parks.geojson",
+      "sha256": "3365c50ded20e1400838ffb6082a9ecba179f98ec82c872f7c44d6da6f143fe3",
+      "source_feature_count": 633,
+      "mapped_feature_count": 633,
+      "null_geometry_skipped": 0,
+      "fields": [
+        "NAME",
+        "PARK_CLASS",
+        "TYPE",
+        "AREA_HA"
+      ],
+      "source": "City of Hamilton",
+      "source_url": "https://open.hamilton.ca/"
+    },
+    {
+      "path": "hamilton-city/truck-route-network-hamilton-2026-11-17/truck-route-network.geojson",
+      "sha256": "3c6f1435a16d09d3b209489b5c08b70b85e267e4382c1ec77b5d47e4eb328677",
+      "source_feature_count": 1250,
+      "mapped_feature_count": 1250,
+      "null_geometry_skipped": 0,
+      "fields": [
+        "FUNCTIONAL_ROAD_CLASS",
+        "TIME_OF_DAY",
+        "RESTRICTED"
+      ],
+      "source": "City of Hamilton",
+      "source_url": "https://services.arcgis.com/rYz782eMbySr2srL/ArcGIS/rest/services/Truck_Route_Network/FeatureServer/5"
+    },
+    {
+      "path": "hamilton-city/traffic-counts-by-segment-hamilton-2026-11-17/traffic-counts-by-segment.geojson",
+      "sha256": "adf6d0ddf8ae22321865fd0a90df5b92357a1af363332c6c46324a2e56780129",
+      "source_feature_count": 1682,
+      "mapped_feature_count": 1682,
+      "null_geometry_skipped": 0,
+      "fields": [
+        "SEGID",
+        "LATEST_YEAR",
+        "LATEST_ADT",
+        "YEARS_COUNTED"
+      ],
+      "source": "City of Hamilton",
+      "source_url": "https://services.arcgis.com/rYz782eMbySr2srL/ArcGIS/rest/services/Average_Daily_Traffic_Count/FeatureServer/39"
+    },
+    {
+      "path": "hamilton-city/railways-hamilton-2026-11-17/railways.geojson",
+      "sha256": "e6e1d3be46bd38342b84d1e7e33bb5bdfb893a7384882941cece2c932f2bff7d",
+      "source_feature_count": 1692,
+      "mapped_feature_count": 1692,
+      "null_geometry_skipped": 0,
+      "fields": [
+        "RAILWAY_CATEGORY"
+      ],
+      "source": "City of Hamilton",
+      "source_url": "https://services.arcgis.com/rYz782eMbySr2srL/arcgis/rest/services/Railways/FeatureServer/10"
+    },
+    {
+      "path": "hamilton-city/railway-crossings-hamilton-2026-11-17/railway-crossings.geojson",
+      "sha256": "6867741451bfcc7d439bca4a2c296dd1639a32d0943937f85a24268952fc4d5c",
+      "source_feature_count": 353,
+      "mapped_feature_count": 353,
+      "null_geometry_skipped": 0,
+      "fields": [
+        "XING_ID",
+        "XING_TYPE",
+        "WARNING_TYPE"
+      ],
+      "source": "City of Hamilton",
+      "source_url": "https://spatialsolutions.hamilton.ca/webgis/rest/services/General/Traffic/MapServer/45"
+    },
+    {
+      "path": "hamilton-city/traffic-bridges-hamilton-2026-11-17/traffic-bridges.geojson",
+      "sha256": "97b3a8624903e85ea62511b7bf7431d9decf2afa34226fb5399c76f64ffaa623",
+      "source_feature_count": 446,
+      "mapped_feature_count": 446,
+      "null_geometry_skipped": 0,
+      "fields": [
+        "ID",
+        "STRUCTURE_TYPE",
+        "YEAR_BUILT",
+        "HEIGHT_RESTRICTION",
+        "POSTED_HEIGHT",
+        "MEASURED_HEIGHT",
+        "WEIGHT_RESTRICTED",
+        "MAXWEIGHT_TONNE",
+        "MAXWEIGHT_PER_AXLE"
+      ],
+      "source": "City of Hamilton",
+      "source_url": "https://spatialsolutions.hamilton.ca/webgis/rest/services/General/Traffic/MapServer/13"
+    },
+    {
+      "path": "hamilton-city/watermain-hamilton-2026-11-17/watermain.geojson",
+      "sha256": "2e8e3063e27ac46ae4d9f51471702ad098e0ce950ed00319ee9e132b981246db",
+      "source_feature_count": 38357,
+      "mapped_feature_count": 38357,
+      "null_geometry_skipped": 0,
+      "fields": [
+        "WAT_SIZE",
+        "PIPETYPE",
+        "INSTDATE",
+        "OWN"
+      ],
+      "source": "City of Hamilton",
+      "source_url": "https://services.arcgis.com/rYz782eMbySr2srL/arcgis/rest/services/Watermain/FeatureServer/0"
+    },
+    {
+      "path": "hamilton-city/sewermain-hamilton-2026-11-17/sewermain.geojson",
+      "sha256": "e7855465c6be0d4287439d8a0cb02165be39e6ba9fa8e3754d5f0037074fa922",
+      "source_feature_count": 54209,
+      "mapped_feature_count": 54209,
+      "null_geometry_skipped": 0,
+      "fields": [
+        "PIPEDIAM",
+        "PIPETYPE",
+        "SUBTYPE",
+        "INSTDATE",
+        "OWN"
+      ],
+      "source": "City of Hamilton",
+      "source_url": "https://services.arcgis.com/rYz782eMbySr2srL/arcgis/rest/services/Sewermain/FeatureServer/0"
+    },
+    {
+      "path": "hamilton-city/sewer-lift-station-hamilton-2026-11-17/sewer-lift-station.geojson",
+      "sha256": "5ea4aa9eba50afccc7d379cb815d383cae907c02466a5e17d2f7261ac8863a4c",
+      "source_feature_count": 96,
+      "mapped_feature_count": 96,
+      "null_geometry_skipped": 0,
+      "fields": [
+        "UNITID",
+        "INSTDATE"
+      ],
+      "source": "City of Hamilton",
+      "source_url": "https://services.arcgis.com/rYz782eMbySr2srL/arcgis/rest/services/Sewer_Lift_Station/FeatureServer/0"
+    },
+    {
+      "path": "hamilton-city/water-pressure-district-hamilton-2026-11-17/water-pressure-district.geojson",
+      "sha256": "d85c531520dafc4807536a08fa501fe1d12f226fd3276eafa390c7fba9dfa9c4",
+      "source_feature_count": 28,
+      "mapped_feature_count": 28,
+      "null_geometry_skipped": 0,
+      "fields": [
+        "DISTRICTID"
+      ],
+      "source": "City of Hamilton",
+      "source_url": "https://services.arcgis.com/rYz782eMbySr2srL/arcgis/rest/services/Water_Pressure_District/FeatureServer/0"
+    }
+  ],
+  "basemap": {
+    "file": "basemap/hamilton-20261116.pmtiles",
+    "bytes": 25368361,
+    "sha256": "38d2d0e13e6228433128c884a7a5bc9ab9ac51c53a3ba4cd79241e200fb40f99",
+    "max_zoom": 15,
+    "source": "Protomaps daily build 2026-11-16; OpenStreetMap and Natural Earth",
+    "attribution": "© OpenStreetMap",
+    "license": "Open Database License (ODbL) 1.0"
+  }
+}
