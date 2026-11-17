@@ -1,0 +1,1721 @@
+{
+  "schema_version": "hamilton-city-development-snapshot/0.1.0",
+  "jurisdiction": "ca/on/hamilton",
+  "snapshot_status": "provisional_derived_from_reviewed_explicit_text_candidates",
+  "taxonomy_version": "hamilton-development-taxonomy/0.1.2-draft",
+  "record_grain": "one monthly permit audit row; records are permits issued in report month",
+  "coverage": {
+    "first_report_month": "2025-01",
+    "last_report_month": "2026-09",
+    "monthly_report_count": 21,
+    "permit_record_count": 8986
+  },
+  "citywide_totals": {
+    "unique_permits": 8986,
+    "permits_with_reported_construction_value": 8980,
+    "reported_construction_value_cad_sum": "3613876421",
+    "observed_construction_value_unparsed": 0,
+    "permits_with_measured_building_gfa": 8344,
+    "reported_building_gfa_m2_sum": "1044849.9382",
+    "observed_building_gfa_unparsed": 0
+  },
+  "category_totals": {
+    "commercial": {
+      "unique_permits": 1059,
+      "permits_with_reported_construction_value": 1059,
+      "reported_construction_value_cad_sum": "522567330",
+      "observed_construction_value_unparsed": 0,
+      "permits_with_measured_building_gfa": 950,
+      "reported_building_gfa_m2_sum": "97067.21",
+      "observed_building_gfa_unparsed": 0
+    },
+    "industrial": {
+      "unique_permits": 105,
+      "permits_with_reported_construction_value": 105,
+      "reported_construction_value_cad_sum": "382780324",
+      "observed_construction_value_unparsed": 0,
+      "permits_with_measured_building_gfa": 94,
+      "reported_building_gfa_m2_sum": "183482.03",
+      "observed_building_gfa_unparsed": 0
+    },
+    "light_industrial": {
+      "unique_permits": 0,
+      "permits_with_reported_construction_value": 0,
+      "reported_construction_value_cad_sum": "0",
+      "observed_construction_value_unparsed": 0,
+      "permits_with_measured_building_gfa": 0,
+      "reported_building_gfa_m2_sum": "0",
+      "observed_building_gfa_unparsed": 0
+    },
+    "logistics": {
+      "unique_permits": 147,
+      "permits_with_reported_construction_value": 147,
+      "reported_construction_value_cad_sum": "216966764",
+      "observed_construction_value_unparsed": 0,
+      "permits_with_measured_building_gfa": 130,
+      "reported_building_gfa_m2_sum": "134941.75",
+      "observed_building_gfa_unparsed": 0
+    },
+    "multi_unit_residential": {
+      "unique_permits": 699,
+      "permits_with_reported_construction_value": 699,
+      "reported_construction_value_cad_sum": "1225931978",
+      "observed_construction_value_unparsed": 0,
+      "permits_with_measured_building_gfa": 624,
+      "reported_building_gfa_m2_sum": "234449.56",
+      "observed_building_gfa_unparsed": 0
+    },
+    "residential_all": {
+      "unique_permits": 7095,
+      "permits_with_reported_construction_value": 7089,
+      "reported_construction_value_cad_sum": "2500926697",
+      "observed_construction_value_unparsed": 0,
+      "permits_with_measured_building_gfa": 6693,
+      "reported_building_gfa_m2_sum": "688842.6942",
+      "observed_building_gfa_unparsed": 0
+    },
+    "without_reviewed_sector_tag": {
+      "unique_permits": 926,
+      "permits_with_reported_construction_value": 926,
+      "reported_construction_value_cad_sum": "278924471",
+      "observed_construction_value_unparsed": 0,
+      "permits_with_measured_building_gfa": 794,
+      "reported_building_gfa_m2_sum": "81155.494",
+      "observed_building_gfa_unparsed": 0
+    }
+  },
+  "monthly": [
+    {
+      "report_month": "2025-01",
+      "citywide": {
+        "unique_permits": 384,
+        "permits_with_reported_construction_value": 379,
+        "reported_construction_value_cad_sum": "155272143",
+        "observed_construction_value_unparsed": 0,
+        "permits_with_measured_building_gfa": 321,
+        "reported_building_gfa_m2_sum": "23313.889",
+        "observed_building_gfa_unparsed": 0
+      },
+      "categories": {
+        "commercial": {
+          "unique_permits": 39,
+          "permits_with_reported_construction_value": 39,
+          "reported_construction_value_cad_sum": "15052360",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 30,
+          "reported_building_gfa_m2_sum": "5067.32",
+          "observed_building_gfa_unparsed": 0
+        },
+        "industrial": {
+          "unique_permits": 1,
+          "permits_with_reported_construction_value": 1,
+          "reported_construction_value_cad_sum": "40000",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 1,
+          "reported_building_gfa_m2_sum": "0",
+          "observed_building_gfa_unparsed": 0
+        },
+        "light_industrial": {
+          "unique_permits": 0,
+          "permits_with_reported_construction_value": 0,
+          "reported_construction_value_cad_sum": "0",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 0,
+          "reported_building_gfa_m2_sum": "0",
+          "observed_building_gfa_unparsed": 0
+        },
+        "logistics": {
+          "unique_permits": 5,
+          "permits_with_reported_construction_value": 5,
+          "reported_construction_value_cad_sum": "418000",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 4,
+          "reported_building_gfa_m2_sum": "30.5",
+          "observed_building_gfa_unparsed": 0
+        },
+        "multi_unit_residential": {
+          "unique_permits": 22,
+          "permits_with_reported_construction_value": 22,
+          "reported_construction_value_cad_sum": "87272095",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 12,
+          "reported_building_gfa_m2_sum": "213.00",
+          "observed_building_gfa_unparsed": 0
+        },
+        "residential_all": {
+          "unique_permits": 285,
+          "permits_with_reported_construction_value": 280,
+          "reported_construction_value_cad_sum": "126113270",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 248,
+          "reported_building_gfa_m2_sum": "14622.749",
+          "observed_building_gfa_unparsed": 0
+        },
+        "without_reviewed_sector_tag": {
+          "unique_permits": 47,
+          "permits_with_reported_construction_value": 47,
+          "reported_construction_value_cad_sum": "8431950",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 32,
+          "reported_building_gfa_m2_sum": "1613.21",
+          "observed_building_gfa_unparsed": 0
+        }
+      }
+    },
+    {
+      "report_month": "2025-02",
+      "citywide": {
+        "unique_permits": 286,
+        "permits_with_reported_construction_value": 286,
+        "reported_construction_value_cad_sum": "277039670",
+        "observed_construction_value_unparsed": 0,
+        "permits_with_measured_building_gfa": 280,
+        "reported_building_gfa_m2_sum": "120383.34",
+        "observed_building_gfa_unparsed": 0
+      },
+      "categories": {
+        "commercial": {
+          "unique_permits": 21,
+          "permits_with_reported_construction_value": 21,
+          "reported_construction_value_cad_sum": "8174217",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 19,
+          "reported_building_gfa_m2_sum": "534.04",
+          "observed_building_gfa_unparsed": 0
+        },
+        "industrial": {
+          "unique_permits": 1,
+          "permits_with_reported_construction_value": 1,
+          "reported_construction_value_cad_sum": "175000",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 1,
+          "reported_building_gfa_m2_sum": "0",
+          "observed_building_gfa_unparsed": 0
+        },
+        "light_industrial": {
+          "unique_permits": 0,
+          "permits_with_reported_construction_value": 0,
+          "reported_construction_value_cad_sum": "0",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 0,
+          "reported_building_gfa_m2_sum": "0",
+          "observed_building_gfa_unparsed": 0
+        },
+        "logistics": {
+          "unique_permits": 6,
+          "permits_with_reported_construction_value": 6,
+          "reported_construction_value_cad_sum": "72471803",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 5,
+          "reported_building_gfa_m2_sum": "42766.83",
+          "observed_building_gfa_unparsed": 0
+        },
+        "multi_unit_residential": {
+          "unique_permits": 12,
+          "permits_with_reported_construction_value": 12,
+          "reported_construction_value_cad_sum": "147577794",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 12,
+          "reported_building_gfa_m2_sum": "53467.90",
+          "observed_building_gfa_unparsed": 0
+        },
+        "residential_all": {
+          "unique_permits": 228,
+          "permits_with_reported_construction_value": 228,
+          "reported_construction_value_cad_sum": "197686852",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 226,
+          "reported_building_gfa_m2_sum": "75630.61",
+          "observed_building_gfa_unparsed": 0
+        },
+        "without_reviewed_sector_tag": {
+          "unique_permits": 30,
+          "permits_with_reported_construction_value": 30,
+          "reported_construction_value_cad_sum": "2875000",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 29,
+          "reported_building_gfa_m2_sum": "1290.93",
+          "observed_building_gfa_unparsed": 0
+        }
+      }
+    },
+    {
+      "report_month": "2025-03",
+      "citywide": {
+        "unique_permits": 365,
+        "permits_with_reported_construction_value": 364,
+        "reported_construction_value_cad_sum": "408312398",
+        "observed_construction_value_unparsed": 0,
+        "permits_with_measured_building_gfa": 365,
+        "reported_building_gfa_m2_sum": "124578.686",
+        "observed_building_gfa_unparsed": 0
+      },
+      "categories": {
+        "commercial": {
+          "unique_permits": 25,
+          "permits_with_reported_construction_value": 25,
+          "reported_construction_value_cad_sum": "39750620",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 25,
+          "reported_building_gfa_m2_sum": "9610.94",
+          "observed_building_gfa_unparsed": 0
+        },
+        "industrial": {
+          "unique_permits": 1,
+          "permits_with_reported_construction_value": 1,
+          "reported_construction_value_cad_sum": "500000",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 1,
+          "reported_building_gfa_m2_sum": "122",
+          "observed_building_gfa_unparsed": 0
+        },
+        "light_industrial": {
+          "unique_permits": 0,
+          "permits_with_reported_construction_value": 0,
+          "reported_construction_value_cad_sum": "0",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 0,
+          "reported_building_gfa_m2_sum": "0",
+          "observed_building_gfa_unparsed": 0
+        },
+        "logistics": {
+          "unique_permits": 7,
+          "permits_with_reported_construction_value": 7,
+          "reported_construction_value_cad_sum": "528700",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 7,
+          "reported_building_gfa_m2_sum": "0",
+          "observed_building_gfa_unparsed": 0
+        },
+        "multi_unit_residential": {
+          "unique_permits": 26,
+          "permits_with_reported_construction_value": 26,
+          "reported_construction_value_cad_sum": "318815486",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 26,
+          "reported_building_gfa_m2_sum": "81631",
+          "observed_building_gfa_unparsed": 0
+        },
+        "residential_all": {
+          "unique_permits": 269,
+          "permits_with_reported_construction_value": 268,
+          "reported_construction_value_cad_sum": "391511888",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 269,
+          "reported_building_gfa_m2_sum": "111097.015",
+          "observed_building_gfa_unparsed": 0
+        },
+        "without_reviewed_sector_tag": {
+          "unique_permits": 54,
+          "permits_with_reported_construction_value": 54,
+          "reported_construction_value_cad_sum": "9626190",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 54,
+          "reported_building_gfa_m2_sum": "11725.331",
+          "observed_building_gfa_unparsed": 0
+        }
+      }
+    },
+    {
+      "report_month": "2025-04",
+      "citywide": {
+        "unique_permits": 426,
+        "permits_with_reported_construction_value": 426,
+        "reported_construction_value_cad_sum": "175660483",
+        "observed_construction_value_unparsed": 0,
+        "permits_with_measured_building_gfa": 426,
+        "reported_building_gfa_m2_sum": "45115.55",
+        "observed_building_gfa_unparsed": 0
+      },
+      "categories": {
+        "commercial": {
+          "unique_permits": 26,
+          "permits_with_reported_construction_value": 26,
+          "reported_construction_value_cad_sum": "3982483",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 26,
+          "reported_building_gfa_m2_sum": "936.48",
+          "observed_building_gfa_unparsed": 0
+        },
+        "industrial": {
+          "unique_permits": 4,
+          "permits_with_reported_construction_value": 4,
+          "reported_construction_value_cad_sum": "6760000",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 4,
+          "reported_building_gfa_m2_sum": "0",
+          "observed_building_gfa_unparsed": 0
+        },
+        "light_industrial": {
+          "unique_permits": 0,
+          "permits_with_reported_construction_value": 0,
+          "reported_construction_value_cad_sum": "0",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 0,
+          "reported_building_gfa_m2_sum": "0",
+          "observed_building_gfa_unparsed": 0
+        },
+        "logistics": {
+          "unique_permits": 7,
+          "permits_with_reported_construction_value": 7,
+          "reported_construction_value_cad_sum": "321003",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 7,
+          "reported_building_gfa_m2_sum": "82",
+          "observed_building_gfa_unparsed": 0
+        },
+        "multi_unit_residential": {
+          "unique_permits": 15,
+          "permits_with_reported_construction_value": 15,
+          "reported_construction_value_cad_sum": "5838157",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 15,
+          "reported_building_gfa_m2_sum": "477.32",
+          "observed_building_gfa_unparsed": 0
+        },
+        "residential_all": {
+          "unique_permits": 320,
+          "permits_with_reported_construction_value": 320,
+          "reported_construction_value_cad_sum": "76034587",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 320,
+          "reported_building_gfa_m2_sum": "24229.02",
+          "observed_building_gfa_unparsed": 0
+        },
+        "without_reviewed_sector_tag": {
+          "unique_permits": 64,
+          "permits_with_reported_construction_value": 64,
+          "reported_construction_value_cad_sum": "86446170",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 64,
+          "reported_building_gfa_m2_sum": "19003.53",
+          "observed_building_gfa_unparsed": 0
+        }
+      }
+    },
+    {
+      "report_month": "2025-05",
+      "citywide": {
+        "unique_permits": 573,
+        "permits_with_reported_construction_value": 573,
+        "reported_construction_value_cad_sum": "183475226",
+        "observed_construction_value_unparsed": 0,
+        "permits_with_measured_building_gfa": 554,
+        "reported_building_gfa_m2_sum": "56724.663",
+        "observed_building_gfa_unparsed": 0
+      },
+      "categories": {
+        "commercial": {
+          "unique_permits": 65,
+          "permits_with_reported_construction_value": 65,
+          "reported_construction_value_cad_sum": "36853939",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 63,
+          "reported_building_gfa_m2_sum": "3656.24",
+          "observed_building_gfa_unparsed": 0
+        },
+        "industrial": {
+          "unique_permits": 14,
+          "permits_with_reported_construction_value": 14,
+          "reported_construction_value_cad_sum": "11208058",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 14,
+          "reported_building_gfa_m2_sum": "7589.36",
+          "observed_building_gfa_unparsed": 0
+        },
+        "light_industrial": {
+          "unique_permits": 0,
+          "permits_with_reported_construction_value": 0,
+          "reported_construction_value_cad_sum": "0",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 0,
+          "reported_building_gfa_m2_sum": "0",
+          "observed_building_gfa_unparsed": 0
+        },
+        "logistics": {
+          "unique_permits": 14,
+          "permits_with_reported_construction_value": 14,
+          "reported_construction_value_cad_sum": "8774000",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 13,
+          "reported_building_gfa_m2_sum": "4122.4",
+          "observed_building_gfa_unparsed": 0
+        },
+        "multi_unit_residential": {
+          "unique_permits": 35,
+          "permits_with_reported_construction_value": 35,
+          "reported_construction_value_cad_sum": "29596900",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 31,
+          "reported_building_gfa_m2_sum": "230",
+          "observed_building_gfa_unparsed": 0
+        },
+        "residential_all": {
+          "unique_permits": 496,
+          "permits_with_reported_construction_value": 496,
+          "reported_construction_value_cad_sum": "149307947",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 482,
+          "reported_building_gfa_m2_sum": "48884.43",
+          "observed_building_gfa_unparsed": 0
+        },
+        "without_reviewed_sector_tag": {
+          "unique_permits": 31,
+          "permits_with_reported_construction_value": 31,
+          "reported_construction_value_cad_sum": "20050969",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 30,
+          "reported_building_gfa_m2_sum": "2773.543",
+          "observed_building_gfa_unparsed": 0
+        }
+      }
+    },
+    {
+      "report_month": "2025-06",
+      "citywide": {
+        "unique_permits": 468,
+        "permits_with_reported_construction_value": 468,
+        "reported_construction_value_cad_sum": "170470812",
+        "observed_construction_value_unparsed": 0,
+        "permits_with_measured_building_gfa": 415,
+        "reported_building_gfa_m2_sum": "66506.4902",
+        "observed_building_gfa_unparsed": 0
+      },
+      "categories": {
+        "commercial": {
+          "unique_permits": 41,
+          "permits_with_reported_construction_value": 41,
+          "reported_construction_value_cad_sum": "28083556",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 29,
+          "reported_building_gfa_m2_sum": "7953.30",
+          "observed_building_gfa_unparsed": 0
+        },
+        "industrial": {
+          "unique_permits": 6,
+          "permits_with_reported_construction_value": 6,
+          "reported_construction_value_cad_sum": "446200",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 5,
+          "reported_building_gfa_m2_sum": "152.80",
+          "observed_building_gfa_unparsed": 0
+        },
+        "light_industrial": {
+          "unique_permits": 0,
+          "permits_with_reported_construction_value": 0,
+          "reported_construction_value_cad_sum": "0",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 0,
+          "reported_building_gfa_m2_sum": "0",
+          "observed_building_gfa_unparsed": 0
+        },
+        "logistics": {
+          "unique_permits": 5,
+          "permits_with_reported_construction_value": 5,
+          "reported_construction_value_cad_sum": "7792850",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 4,
+          "reported_building_gfa_m2_sum": "17344.00",
+          "observed_building_gfa_unparsed": 0
+        },
+        "multi_unit_residential": {
+          "unique_permits": 28,
+          "permits_with_reported_construction_value": 28,
+          "reported_construction_value_cad_sum": "77812877",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 21,
+          "reported_building_gfa_m2_sum": "15570.50",
+          "observed_building_gfa_unparsed": 0
+        },
+        "residential_all": {
+          "unique_permits": 403,
+          "permits_with_reported_construction_value": 403,
+          "reported_construction_value_cad_sum": "137735381",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 367,
+          "reported_building_gfa_m2_sum": "51230.7702",
+          "observed_building_gfa_unparsed": 0
+        },
+        "without_reviewed_sector_tag": {
+          "unique_permits": 35,
+          "permits_with_reported_construction_value": 35,
+          "reported_construction_value_cad_sum": "5718081",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 29,
+          "reported_building_gfa_m2_sum": "2864.54",
+          "observed_building_gfa_unparsed": 0
+        }
+      }
+    },
+    {
+      "report_month": "2025-07",
+      "citywide": {
+        "unique_permits": 439,
+        "permits_with_reported_construction_value": 439,
+        "reported_construction_value_cad_sum": "289809261",
+        "observed_construction_value_unparsed": 0,
+        "permits_with_measured_building_gfa": 381,
+        "reported_building_gfa_m2_sum": "115568.56",
+        "observed_building_gfa_unparsed": 0
+      },
+      "categories": {
+        "commercial": {
+          "unique_permits": 53,
+          "permits_with_reported_construction_value": 53,
+          "reported_construction_value_cad_sum": "101102231",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 46,
+          "reported_building_gfa_m2_sum": "25939.71",
+          "observed_building_gfa_unparsed": 0
+        },
+        "industrial": {
+          "unique_permits": 11,
+          "permits_with_reported_construction_value": 11,
+          "reported_construction_value_cad_sum": "81157928",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 8,
+          "reported_building_gfa_m2_sum": "53394.15",
+          "observed_building_gfa_unparsed": 0
+        },
+        "light_industrial": {
+          "unique_permits": 0,
+          "permits_with_reported_construction_value": 0,
+          "reported_construction_value_cad_sum": "0",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 0,
+          "reported_building_gfa_m2_sum": "0",
+          "observed_building_gfa_unparsed": 0
+        },
+        "logistics": {
+          "unique_permits": 7,
+          "permits_with_reported_construction_value": 7,
+          "reported_construction_value_cad_sum": "76754728",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 6,
+          "reported_building_gfa_m2_sum": "53170.00",
+          "observed_building_gfa_unparsed": 0
+        },
+        "multi_unit_residential": {
+          "unique_permits": 26,
+          "permits_with_reported_construction_value": 26,
+          "reported_construction_value_cad_sum": "47627900",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 21,
+          "reported_building_gfa_m2_sum": "14197.20",
+          "observed_building_gfa_unparsed": 0
+        },
+        "residential_all": {
+          "unique_permits": 358,
+          "permits_with_reported_construction_value": 358,
+          "reported_construction_value_cad_sum": "218920771",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 314,
+          "reported_building_gfa_m2_sum": "88082.18",
+          "observed_building_gfa_unparsed": 0
+        },
+        "without_reviewed_sector_tag": {
+          "unique_permits": 40,
+          "permits_with_reported_construction_value": 40,
+          "reported_construction_value_cad_sum": "47717287",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 33,
+          "reported_building_gfa_m2_sum": "16574.25",
+          "observed_building_gfa_unparsed": 0
+        }
+      }
+    },
+    {
+      "report_month": "2025-08",
+      "citywide": {
+        "unique_permits": 468,
+        "permits_with_reported_construction_value": 468,
+        "reported_construction_value_cad_sum": "90962520",
+        "observed_construction_value_unparsed": 0,
+        "permits_with_measured_building_gfa": 424,
+        "reported_building_gfa_m2_sum": "33274.44",
+        "observed_building_gfa_unparsed": 0
+      },
+      "categories": {
+        "commercial": {
+          "unique_permits": 61,
+          "permits_with_reported_construction_value": 61,
+          "reported_construction_value_cad_sum": "8537782",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 49,
+          "reported_building_gfa_m2_sum": "1709.41",
+          "observed_building_gfa_unparsed": 0
+        },
+        "industrial": {
+          "unique_permits": 5,
+          "permits_with_reported_construction_value": 5,
+          "reported_construction_value_cad_sum": "5662038",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 3,
+          "reported_building_gfa_m2_sum": "1008.26",
+          "observed_building_gfa_unparsed": 0
+        },
+        "light_industrial": {
+          "unique_permits": 0,
+          "permits_with_reported_construction_value": 0,
+          "reported_construction_value_cad_sum": "0",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 0,
+          "reported_building_gfa_m2_sum": "0",
+          "observed_building_gfa_unparsed": 0
+        },
+        "logistics": {
+          "unique_permits": 9,
+          "permits_with_reported_construction_value": 9,
+          "reported_construction_value_cad_sum": "1405000",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 8,
+          "reported_building_gfa_m2_sum": "276.40",
+          "observed_building_gfa_unparsed": 0
+        },
+        "multi_unit_residential": {
+          "unique_permits": 15,
+          "permits_with_reported_construction_value": 15,
+          "reported_construction_value_cad_sum": "3193191",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 12,
+          "reported_building_gfa_m2_sum": "479.30",
+          "observed_building_gfa_unparsed": 0
+        },
+        "residential_all": {
+          "unique_permits": 382,
+          "permits_with_reported_construction_value": 382,
+          "reported_construction_value_cad_sum": "78191088",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 353,
+          "reported_building_gfa_m2_sum": "30022.76",
+          "observed_building_gfa_unparsed": 0
+        },
+        "without_reviewed_sector_tag": {
+          "unique_permits": 30,
+          "permits_with_reported_construction_value": 30,
+          "reported_construction_value_cad_sum": "4134005",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 27,
+          "reported_building_gfa_m2_sum": "1609.17",
+          "observed_building_gfa_unparsed": 0
+        }
+      }
+    },
+    {
+      "report_month": "2025-09",
+      "citywide": {
+        "unique_permits": 488,
+        "permits_with_reported_construction_value": 488,
+        "reported_construction_value_cad_sum": "96632891",
+        "observed_construction_value_unparsed": 0,
+        "permits_with_measured_building_gfa": 426,
+        "reported_building_gfa_m2_sum": "37185.99",
+        "observed_building_gfa_unparsed": 0
+      },
+      "categories": {
+        "commercial": {
+          "unique_permits": 51,
+          "permits_with_reported_construction_value": 51,
+          "reported_construction_value_cad_sum": "10792403",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 41,
+          "reported_building_gfa_m2_sum": "4001.82",
+          "observed_building_gfa_unparsed": 0
+        },
+        "industrial": {
+          "unique_permits": 3,
+          "permits_with_reported_construction_value": 3,
+          "reported_construction_value_cad_sum": "325000",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 3,
+          "reported_building_gfa_m2_sum": "848",
+          "observed_building_gfa_unparsed": 0
+        },
+        "light_industrial": {
+          "unique_permits": 0,
+          "permits_with_reported_construction_value": 0,
+          "reported_construction_value_cad_sum": "0",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 0,
+          "reported_building_gfa_m2_sum": "0",
+          "observed_building_gfa_unparsed": 0
+        },
+        "logistics": {
+          "unique_permits": 5,
+          "permits_with_reported_construction_value": 5,
+          "reported_construction_value_cad_sum": "6853500",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 5,
+          "reported_building_gfa_m2_sum": "3117",
+          "observed_building_gfa_unparsed": 0
+        },
+        "multi_unit_residential": {
+          "unique_permits": 14,
+          "permits_with_reported_construction_value": 14,
+          "reported_construction_value_cad_sum": "1914880",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 10,
+          "reported_building_gfa_m2_sum": "672.40",
+          "observed_building_gfa_unparsed": 0
+        },
+        "residential_all": {
+          "unique_permits": 427,
+          "permits_with_reported_construction_value": 427,
+          "reported_construction_value_cad_sum": "84752737",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 382,
+          "reported_building_gfa_m2_sum": "31551.66",
+          "observed_building_gfa_unparsed": 0
+        },
+        "without_reviewed_sector_tag": {
+          "unique_permits": 29,
+          "permits_with_reported_construction_value": 29,
+          "reported_construction_value_cad_sum": "1226234",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 18,
+          "reported_building_gfa_m2_sum": "84.73",
+          "observed_building_gfa_unparsed": 0
+        }
+      }
+    },
+    {
+      "report_month": "2025-10",
+      "citywide": {
+        "unique_permits": 513,
+        "permits_with_reported_construction_value": 513,
+        "reported_construction_value_cad_sum": "284328797",
+        "observed_construction_value_unparsed": 0,
+        "permits_with_measured_building_gfa": 440,
+        "reported_building_gfa_m2_sum": "67089.12",
+        "observed_building_gfa_unparsed": 0
+      },
+      "categories": {
+        "commercial": {
+          "unique_permits": 51,
+          "permits_with_reported_construction_value": 51,
+          "reported_construction_value_cad_sum": "30646725",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 33,
+          "reported_building_gfa_m2_sum": "8683.58",
+          "observed_building_gfa_unparsed": 0
+        },
+        "industrial": {
+          "unique_permits": 4,
+          "permits_with_reported_construction_value": 4,
+          "reported_construction_value_cad_sum": "11135000",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 4,
+          "reported_building_gfa_m2_sum": "5538",
+          "observed_building_gfa_unparsed": 0
+        },
+        "light_industrial": {
+          "unique_permits": 0,
+          "permits_with_reported_construction_value": 0,
+          "reported_construction_value_cad_sum": "0",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 0,
+          "reported_building_gfa_m2_sum": "0",
+          "observed_building_gfa_unparsed": 0
+        },
+        "logistics": {
+          "unique_permits": 11,
+          "permits_with_reported_construction_value": 11,
+          "reported_construction_value_cad_sum": "11241000",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 8,
+          "reported_building_gfa_m2_sum": "5593",
+          "observed_building_gfa_unparsed": 0
+        },
+        "multi_unit_residential": {
+          "unique_permits": 54,
+          "permits_with_reported_construction_value": 54,
+          "reported_construction_value_cad_sum": "168535500",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 38,
+          "reported_building_gfa_m2_sum": "31477.66",
+          "observed_building_gfa_unparsed": 0
+        },
+        "residential_all": {
+          "unique_permits": 455,
+          "permits_with_reported_construction_value": 455,
+          "reported_construction_value_cad_sum": "247016852",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 404,
+          "reported_building_gfa_m2_sum": "55915.12",
+          "observed_building_gfa_unparsed": 0
+        },
+        "without_reviewed_sector_tag": {
+          "unique_permits": 27,
+          "permits_with_reported_construction_value": 27,
+          "reported_construction_value_cad_sum": "6630845",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 16,
+          "reported_building_gfa_m2_sum": "95",
+          "observed_building_gfa_unparsed": 0
+        }
+      }
+    },
+    {
+      "report_month": "2025-11",
+      "citywide": {
+        "unique_permits": 402,
+        "permits_with_reported_construction_value": 402,
+        "reported_construction_value_cad_sum": "127477922",
+        "observed_construction_value_unparsed": 0,
+        "permits_with_measured_building_gfa": 353,
+        "reported_building_gfa_m2_sum": "16223.99",
+        "observed_building_gfa_unparsed": 0
+      },
+      "categories": {
+        "commercial": {
+          "unique_permits": 58,
+          "permits_with_reported_construction_value": 58,
+          "reported_construction_value_cad_sum": "5430564",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 47,
+          "reported_building_gfa_m2_sum": "942.9",
+          "observed_building_gfa_unparsed": 0
+        },
+        "industrial": {
+          "unique_permits": 2,
+          "permits_with_reported_construction_value": 2,
+          "reported_construction_value_cad_sum": "90000",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 2,
+          "reported_building_gfa_m2_sum": "0",
+          "observed_building_gfa_unparsed": 0
+        },
+        "light_industrial": {
+          "unique_permits": 0,
+          "permits_with_reported_construction_value": 0,
+          "reported_construction_value_cad_sum": "0",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 0,
+          "reported_building_gfa_m2_sum": "0",
+          "observed_building_gfa_unparsed": 0
+        },
+        "logistics": {
+          "unique_permits": 4,
+          "permits_with_reported_construction_value": 4,
+          "reported_construction_value_cad_sum": "136834",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 2,
+          "reported_building_gfa_m2_sum": "0",
+          "observed_building_gfa_unparsed": 0
+        },
+        "multi_unit_residential": {
+          "unique_permits": 37,
+          "permits_with_reported_construction_value": 37,
+          "reported_construction_value_cad_sum": "72643000",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 36,
+          "reported_building_gfa_m2_sum": "270.00",
+          "observed_building_gfa_unparsed": 0
+        },
+        "residential_all": {
+          "unique_permits": 337,
+          "permits_with_reported_construction_value": 337,
+          "reported_construction_value_cad_sum": "118176581",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 306,
+          "reported_building_gfa_m2_sum": "14918.95",
+          "observed_building_gfa_unparsed": 0
+        },
+        "without_reviewed_sector_tag": {
+          "unique_permits": 30,
+          "permits_with_reported_construction_value": 30,
+          "reported_construction_value_cad_sum": "4011650",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 20,
+          "reported_building_gfa_m2_sum": "859.04",
+          "observed_building_gfa_unparsed": 0
+        }
+      }
+    },
+    {
+      "report_month": "2025-12",
+      "citywide": {
+        "unique_permits": 341,
+        "permits_with_reported_construction_value": 341,
+        "reported_construction_value_cad_sum": "50190076",
+        "observed_construction_value_unparsed": 0,
+        "permits_with_measured_building_gfa": 299,
+        "reported_building_gfa_m2_sum": "13506.09",
+        "observed_building_gfa_unparsed": 0
+      },
+      "categories": {
+        "commercial": {
+          "unique_permits": 46,
+          "permits_with_reported_construction_value": 46,
+          "reported_construction_value_cad_sum": "9059979",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 37,
+          "reported_building_gfa_m2_sum": "191.87",
+          "observed_building_gfa_unparsed": 0
+        },
+        "industrial": {
+          "unique_permits": 3,
+          "permits_with_reported_construction_value": 3,
+          "reported_construction_value_cad_sum": "295000",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 2,
+          "reported_building_gfa_m2_sum": "0",
+          "observed_building_gfa_unparsed": 0
+        },
+        "light_industrial": {
+          "unique_permits": 0,
+          "permits_with_reported_construction_value": 0,
+          "reported_construction_value_cad_sum": "0",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 0,
+          "reported_building_gfa_m2_sum": "0",
+          "observed_building_gfa_unparsed": 0
+        },
+        "logistics": {
+          "unique_permits": 5,
+          "permits_with_reported_construction_value": 5,
+          "reported_construction_value_cad_sum": "1400000",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 4,
+          "reported_building_gfa_m2_sum": "0",
+          "observed_building_gfa_unparsed": 0
+        },
+        "multi_unit_residential": {
+          "unique_permits": 50,
+          "permits_with_reported_construction_value": 50,
+          "reported_construction_value_cad_sum": "3800736",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 42,
+          "reported_building_gfa_m2_sum": "30",
+          "observed_building_gfa_unparsed": 0
+        },
+        "residential_all": {
+          "unique_permits": 290,
+          "permits_with_reported_construction_value": 290,
+          "reported_construction_value_cad_sum": "40372860",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 263,
+          "reported_building_gfa_m2_sum": "12103.56",
+          "observed_building_gfa_unparsed": 0
+        },
+        "without_reviewed_sector_tag": {
+          "unique_permits": 17,
+          "permits_with_reported_construction_value": 17,
+          "reported_construction_value_cad_sum": "1045336",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 11,
+          "reported_building_gfa_m2_sum": "521.53",
+          "observed_building_gfa_unparsed": 0
+        }
+      }
+    },
+    {
+      "report_month": "2026-01",
+      "citywide": {
+        "unique_permits": 334,
+        "permits_with_reported_construction_value": 334,
+        "reported_construction_value_cad_sum": "97542139",
+        "observed_construction_value_unparsed": 0,
+        "permits_with_measured_building_gfa": 298,
+        "reported_building_gfa_m2_sum": "16264.72",
+        "observed_building_gfa_unparsed": 0
+      },
+      "categories": {
+        "commercial": {
+          "unique_permits": 27,
+          "permits_with_reported_construction_value": 27,
+          "reported_construction_value_cad_sum": "15955500",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 18,
+          "reported_building_gfa_m2_sum": "31.40",
+          "observed_building_gfa_unparsed": 0
+        },
+        "industrial": {
+          "unique_permits": 6,
+          "permits_with_reported_construction_value": 6,
+          "reported_construction_value_cad_sum": "774000",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 3,
+          "reported_building_gfa_m2_sum": "0.00",
+          "observed_building_gfa_unparsed": 0
+        },
+        "light_industrial": {
+          "unique_permits": 0,
+          "permits_with_reported_construction_value": 0,
+          "reported_construction_value_cad_sum": "0",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 0,
+          "reported_building_gfa_m2_sum": "0",
+          "observed_building_gfa_unparsed": 0
+        },
+        "logistics": {
+          "unique_permits": 6,
+          "permits_with_reported_construction_value": 6,
+          "reported_construction_value_cad_sum": "880000",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 2,
+          "reported_building_gfa_m2_sum": "0",
+          "observed_building_gfa_unparsed": 0
+        },
+        "multi_unit_residential": {
+          "unique_permits": 9,
+          "permits_with_reported_construction_value": 9,
+          "reported_construction_value_cad_sum": "555689",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 8,
+          "reported_building_gfa_m2_sum": "0",
+          "observed_building_gfa_unparsed": 0
+        },
+        "residential_all": {
+          "unique_permits": 262,
+          "permits_with_reported_construction_value": 262,
+          "reported_construction_value_cad_sum": "42347596",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 250,
+          "reported_building_gfa_m2_sum": "12625.64",
+          "observed_building_gfa_unparsed": 0
+        },
+        "without_reviewed_sector_tag": {
+          "unique_permits": 34,
+          "permits_with_reported_construction_value": 34,
+          "reported_construction_value_cad_sum": "6525043",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 26,
+          "reported_building_gfa_m2_sum": "418.58",
+          "observed_building_gfa_unparsed": 0
+        }
+      }
+    },
+    {
+      "report_month": "2026-02",
+      "citywide": {
+        "unique_permits": 301,
+        "permits_with_reported_construction_value": 301,
+        "reported_construction_value_cad_sum": "127017661",
+        "observed_construction_value_unparsed": 0,
+        "permits_with_measured_building_gfa": 275,
+        "reported_building_gfa_m2_sum": "31884.95",
+        "observed_building_gfa_unparsed": 0
+      },
+      "categories": {
+        "commercial": {
+          "unique_permits": 22,
+          "permits_with_reported_construction_value": 22,
+          "reported_construction_value_cad_sum": "15791296",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 20,
+          "reported_building_gfa_m2_sum": "3235.10",
+          "observed_building_gfa_unparsed": 0
+        },
+        "industrial": {
+          "unique_permits": 5,
+          "permits_with_reported_construction_value": 5,
+          "reported_construction_value_cad_sum": "875000",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 4,
+          "reported_building_gfa_m2_sum": "0.00",
+          "observed_building_gfa_unparsed": 0
+        },
+        "light_industrial": {
+          "unique_permits": 0,
+          "permits_with_reported_construction_value": 0,
+          "reported_construction_value_cad_sum": "0",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 0,
+          "reported_building_gfa_m2_sum": "0",
+          "observed_building_gfa_unparsed": 0
+        },
+        "logistics": {
+          "unique_permits": 6,
+          "permits_with_reported_construction_value": 6,
+          "reported_construction_value_cad_sum": "1605000",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 6,
+          "reported_building_gfa_m2_sum": "0.00",
+          "observed_building_gfa_unparsed": 0
+        },
+        "multi_unit_residential": {
+          "unique_permits": 15,
+          "permits_with_reported_construction_value": 15,
+          "reported_construction_value_cad_sum": "45812999",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 10,
+          "reported_building_gfa_m2_sum": "1561.30",
+          "observed_building_gfa_unparsed": 0
+        },
+        "residential_all": {
+          "unique_permits": 219,
+          "permits_with_reported_construction_value": 219,
+          "reported_construction_value_cad_sum": "99925095",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 209,
+          "reported_building_gfa_m2_sum": "25121.90",
+          "observed_building_gfa_unparsed": 0
+        },
+        "without_reviewed_sector_tag": {
+          "unique_permits": 46,
+          "permits_with_reported_construction_value": 46,
+          "reported_construction_value_cad_sum": "3534270",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 33,
+          "reported_building_gfa_m2_sum": "790.65",
+          "observed_building_gfa_unparsed": 0
+        }
+      }
+    },
+    {
+      "report_month": "2026-03",
+      "citywide": {
+        "unique_permits": 421,
+        "permits_with_reported_construction_value": 421,
+        "reported_construction_value_cad_sum": "106222678",
+        "observed_construction_value_unparsed": 0,
+        "permits_with_measured_building_gfa": 402,
+        "reported_building_gfa_m2_sum": "79798.57",
+        "observed_building_gfa_unparsed": 0
+      },
+      "categories": {
+        "commercial": {
+          "unique_permits": 39,
+          "permits_with_reported_construction_value": 39,
+          "reported_construction_value_cad_sum": "7756875",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 38,
+          "reported_building_gfa_m2_sum": "2281.37",
+          "observed_building_gfa_unparsed": 0
+        },
+        "industrial": {
+          "unique_permits": 5,
+          "permits_with_reported_construction_value": 5,
+          "reported_construction_value_cad_sum": "3300000",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 5,
+          "reported_building_gfa_m2_sum": "53728.11",
+          "observed_building_gfa_unparsed": 0
+        },
+        "light_industrial": {
+          "unique_permits": 0,
+          "permits_with_reported_construction_value": 0,
+          "reported_construction_value_cad_sum": "0",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 0,
+          "reported_building_gfa_m2_sum": "0",
+          "observed_building_gfa_unparsed": 0
+        },
+        "logistics": {
+          "unique_permits": 6,
+          "permits_with_reported_construction_value": 6,
+          "reported_construction_value_cad_sum": "20250315",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 5,
+          "reported_building_gfa_m2_sum": "6566",
+          "observed_building_gfa_unparsed": 0
+        },
+        "multi_unit_residential": {
+          "unique_permits": 27,
+          "permits_with_reported_construction_value": 27,
+          "reported_construction_value_cad_sum": "10008038",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 21,
+          "reported_building_gfa_m2_sum": "2900.12",
+          "observed_building_gfa_unparsed": 0
+        },
+        "residential_all": {
+          "unique_permits": 326,
+          "permits_with_reported_construction_value": 326,
+          "reported_construction_value_cad_sum": "42633856",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 313,
+          "reported_building_gfa_m2_sum": "13434.95",
+          "observed_building_gfa_unparsed": 0
+        },
+        "without_reviewed_sector_tag": {
+          "unique_permits": 45,
+          "permits_with_reported_construction_value": 45,
+          "reported_construction_value_cad_sum": "9651441",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 42,
+          "reported_building_gfa_m2_sum": "5144.74",
+          "observed_building_gfa_unparsed": 0
+        }
+      }
+    },
+    {
+      "report_month": "2026-04",
+      "citywide": {
+        "unique_permits": 311,
+        "permits_with_reported_construction_value": 311,
+        "reported_construction_value_cad_sum": "46466621",
+        "observed_construction_value_unparsed": 0,
+        "permits_with_measured_building_gfa": 311,
+        "reported_building_gfa_m2_sum": "12147.81",
+        "observed_building_gfa_unparsed": 0
+      },
+      "categories": {
+        "commercial": {
+          "unique_permits": 51,
+          "permits_with_reported_construction_value": 51,
+          "reported_construction_value_cad_sum": "9867280",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 51,
+          "reported_building_gfa_m2_sum": "784.44",
+          "observed_building_gfa_unparsed": 0
+        },
+        "industrial": {
+          "unique_permits": 1,
+          "permits_with_reported_construction_value": 1,
+          "reported_construction_value_cad_sum": "10000",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 1,
+          "reported_building_gfa_m2_sum": "0.00",
+          "observed_building_gfa_unparsed": 0
+        },
+        "light_industrial": {
+          "unique_permits": 0,
+          "permits_with_reported_construction_value": 0,
+          "reported_construction_value_cad_sum": "0",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 0,
+          "reported_building_gfa_m2_sum": "0",
+          "observed_building_gfa_unparsed": 0
+        },
+        "logistics": {
+          "unique_permits": 7,
+          "permits_with_reported_construction_value": 7,
+          "reported_construction_value_cad_sum": "630543",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 7,
+          "reported_building_gfa_m2_sum": "25.00",
+          "observed_building_gfa_unparsed": 0
+        },
+        "multi_unit_residential": {
+          "unique_permits": 61,
+          "permits_with_reported_construction_value": 61,
+          "reported_construction_value_cad_sum": "8449028",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 61,
+          "reported_building_gfa_m2_sum": "4359.58",
+          "observed_building_gfa_unparsed": 0
+        },
+        "residential_all": {
+          "unique_permits": 238,
+          "permits_with_reported_construction_value": 238,
+          "reported_construction_value_cad_sum": "29695511",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 238,
+          "reported_building_gfa_m2_sum": "10085.14",
+          "observed_building_gfa_unparsed": 0
+        },
+        "without_reviewed_sector_tag": {
+          "unique_permits": 33,
+          "permits_with_reported_construction_value": 33,
+          "reported_construction_value_cad_sum": "5079050",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 33,
+          "reported_building_gfa_m2_sum": "163.27",
+          "observed_building_gfa_unparsed": 0
+        }
+      }
+    },
+    {
+      "report_month": "2026-05",
+      "citywide": {
+        "unique_permits": 469,
+        "permits_with_reported_construction_value": 469,
+        "reported_construction_value_cad_sum": "156389142",
+        "observed_construction_value_unparsed": 0,
+        "permits_with_measured_building_gfa": 469,
+        "reported_building_gfa_m2_sum": "21559.48",
+        "observed_building_gfa_unparsed": 0
+      },
+      "categories": {
+        "commercial": {
+          "unique_permits": 73,
+          "permits_with_reported_construction_value": 73,
+          "reported_construction_value_cad_sum": "42950662",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 73,
+          "reported_building_gfa_m2_sum": "1358.96",
+          "observed_building_gfa_unparsed": 0
+        },
+        "industrial": {
+          "unique_permits": 7,
+          "permits_with_reported_construction_value": 7,
+          "reported_construction_value_cad_sum": "1272085",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 7,
+          "reported_building_gfa_m2_sum": "0.00",
+          "observed_building_gfa_unparsed": 0
+        },
+        "light_industrial": {
+          "unique_permits": 0,
+          "permits_with_reported_construction_value": 0,
+          "reported_construction_value_cad_sum": "0",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 0,
+          "reported_building_gfa_m2_sum": "0",
+          "observed_building_gfa_unparsed": 0
+        },
+        "logistics": {
+          "unique_permits": 11,
+          "permits_with_reported_construction_value": 11,
+          "reported_construction_value_cad_sum": "2919213",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 11,
+          "reported_building_gfa_m2_sum": "1437.48",
+          "observed_building_gfa_unparsed": 0
+        },
+        "multi_unit_residential": {
+          "unique_permits": 80,
+          "permits_with_reported_construction_value": 80,
+          "reported_construction_value_cad_sum": "45064706",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 80,
+          "reported_building_gfa_m2_sum": "2164.39",
+          "observed_building_gfa_unparsed": 0
+        },
+        "residential_all": {
+          "unique_permits": 345,
+          "permits_with_reported_construction_value": 345,
+          "reported_construction_value_cad_sum": "73900341",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 345,
+          "reported_building_gfa_m2_sum": "7911.72",
+          "observed_building_gfa_unparsed": 0
+        },
+        "without_reviewed_sector_tag": {
+          "unique_permits": 60,
+          "permits_with_reported_construction_value": 60,
+          "reported_construction_value_cad_sum": "15304957",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 60,
+          "reported_building_gfa_m2_sum": "671.22",
+          "observed_building_gfa_unparsed": 0
+        }
+      }
+    },
+    {
+      "report_month": "2026-06",
+      "citywide": {
+        "unique_permits": 525,
+        "permits_with_reported_construction_value": 525,
+        "reported_construction_value_cad_sum": "363507625",
+        "observed_construction_value_unparsed": 0,
+        "permits_with_measured_building_gfa": 525,
+        "reported_building_gfa_m2_sum": "81754.46",
+        "observed_building_gfa_unparsed": 0
+      },
+      "categories": {
+        "commercial": {
+          "unique_permits": 90,
+          "permits_with_reported_construction_value": 90,
+          "reported_construction_value_cad_sum": "47436374",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 90,
+          "reported_building_gfa_m2_sum": "4209.21",
+          "observed_building_gfa_unparsed": 0
+        },
+        "industrial": {
+          "unique_permits": 9,
+          "permits_with_reported_construction_value": 9,
+          "reported_construction_value_cad_sum": "216566615",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 9,
+          "reported_building_gfa_m2_sum": "54867.50",
+          "observed_building_gfa_unparsed": 0
+        },
+        "light_industrial": {
+          "unique_permits": 0,
+          "permits_with_reported_construction_value": 0,
+          "reported_construction_value_cad_sum": "0",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 0,
+          "reported_building_gfa_m2_sum": "0",
+          "observed_building_gfa_unparsed": 0
+        },
+        "logistics": {
+          "unique_permits": 5,
+          "permits_with_reported_construction_value": 5,
+          "reported_construction_value_cad_sum": "93300",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 5,
+          "reported_building_gfa_m2_sum": "170.49",
+          "observed_building_gfa_unparsed": 0
+        },
+        "multi_unit_residential": {
+          "unique_permits": 59,
+          "permits_with_reported_construction_value": 59,
+          "reported_construction_value_cad_sum": "43207339",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 59,
+          "reported_building_gfa_m2_sum": "4496.64",
+          "observed_building_gfa_unparsed": 0
+        },
+        "residential_all": {
+          "unique_permits": 377,
+          "permits_with_reported_construction_value": 377,
+          "reported_construction_value_cad_sum": "101196638",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 377,
+          "reported_building_gfa_m2_sum": "14229.96",
+          "observed_building_gfa_unparsed": 0
+        },
+        "without_reviewed_sector_tag": {
+          "unique_permits": 68,
+          "permits_with_reported_construction_value": 68,
+          "reported_construction_value_cad_sum": "4792915",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 68,
+          "reported_building_gfa_m2_sum": "4597.13",
+          "observed_building_gfa_unparsed": 0
+        }
+      }
+    },
+    {
+      "report_month": "2026-07",
+      "citywide": {
+        "unique_permits": 553,
+        "permits_with_reported_construction_value": 553,
+        "reported_construction_value_cad_sum": "211160638",
+        "observed_construction_value_unparsed": 0,
+        "permits_with_measured_building_gfa": 553,
+        "reported_building_gfa_m2_sum": "50349.44",
+        "observed_building_gfa_unparsed": 0
+      },
+      "categories": {
+        "commercial": {
+          "unique_permits": 87,
+          "permits_with_reported_construction_value": 87,
+          "reported_construction_value_cad_sum": "64954531",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 87,
+          "reported_building_gfa_m2_sum": "15544.02",
+          "observed_building_gfa_unparsed": 0
+        },
+        "industrial": {
+          "unique_permits": 4,
+          "permits_with_reported_construction_value": 4,
+          "reported_construction_value_cad_sum": "220250",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 4,
+          "reported_building_gfa_m2_sum": "0.00",
+          "observed_building_gfa_unparsed": 0
+        },
+        "light_industrial": {
+          "unique_permits": 0,
+          "permits_with_reported_construction_value": 0,
+          "reported_construction_value_cad_sum": "0",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 0,
+          "reported_building_gfa_m2_sum": "0",
+          "observed_building_gfa_unparsed": 0
+        },
+        "logistics": {
+          "unique_permits": 6,
+          "permits_with_reported_construction_value": 6,
+          "reported_construction_value_cad_sum": "547350",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 6,
+          "reported_building_gfa_m2_sum": "0.00",
+          "observed_building_gfa_unparsed": 0
+        },
+        "multi_unit_residential": {
+          "unique_permits": 44,
+          "permits_with_reported_construction_value": 44,
+          "reported_construction_value_cad_sum": "94932681",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 44,
+          "reported_building_gfa_m2_sum": "19843.65",
+          "observed_building_gfa_unparsed": 0
+        },
+        "residential_all": {
+          "unique_permits": 404,
+          "permits_with_reported_construction_value": 404,
+          "reported_construction_value_cad_sum": "155199978",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 404,
+          "reported_building_gfa_m2_sum": "36360.27",
+          "observed_building_gfa_unparsed": 0
+        },
+        "without_reviewed_sector_tag": {
+          "unique_permits": 80,
+          "permits_with_reported_construction_value": 80,
+          "reported_construction_value_cad_sum": "4402586",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 80,
+          "reported_building_gfa_m2_sum": "951.16",
+          "observed_building_gfa_unparsed": 0
+        }
+      }
+    },
+    {
+      "report_month": "2026-08",
+      "citywide": {
+        "unique_permits": 499,
+        "permits_with_reported_construction_value": 499,
+        "reported_construction_value_cad_sum": "106136336",
+        "observed_construction_value_unparsed": 0,
+        "permits_with_measured_building_gfa": 499,
+        "reported_building_gfa_m2_sum": "17928.17",
+        "observed_building_gfa_unparsed": 0
+      },
+      "categories": {
+        "commercial": {
+          "unique_permits": 68,
+          "permits_with_reported_construction_value": 68,
+          "reported_construction_value_cad_sum": "10074708",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 68,
+          "reported_building_gfa_m2_sum": "322.58",
+          "observed_building_gfa_unparsed": 0
+        },
+        "industrial": {
+          "unique_permits": 8,
+          "permits_with_reported_construction_value": 8,
+          "reported_construction_value_cad_sum": "40738150",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 8,
+          "reported_building_gfa_m2_sum": "6233.85",
+          "observed_building_gfa_unparsed": 0
+        },
+        "light_industrial": {
+          "unique_permits": 0,
+          "permits_with_reported_construction_value": 0,
+          "reported_construction_value_cad_sum": "0",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 0,
+          "reported_building_gfa_m2_sum": "0",
+          "observed_building_gfa_unparsed": 0
+        },
+        "logistics": {
+          "unique_permits": 8,
+          "permits_with_reported_construction_value": 8,
+          "reported_construction_value_cad_sum": "1232480",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 8,
+          "reported_building_gfa_m2_sum": "0.00",
+          "observed_building_gfa_unparsed": 0
+        },
+        "multi_unit_residential": {
+          "unique_permits": 35,
+          "permits_with_reported_construction_value": 35,
+          "reported_construction_value_cad_sum": "3189625",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 35,
+          "reported_building_gfa_m2_sum": "0.00",
+          "observed_building_gfa_unparsed": 0
+        },
+        "residential_all": {
+          "unique_permits": 359,
+          "permits_with_reported_construction_value": 359,
+          "reported_construction_value_cad_sum": "47333080",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 359,
+          "reported_building_gfa_m2_sum": "6070.80",
+          "observed_building_gfa_unparsed": 0
+        },
+        "without_reviewed_sector_tag": {
+          "unique_permits": 71,
+          "permits_with_reported_construction_value": 71,
+          "reported_construction_value_cad_sum": "7115868",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 71,
+          "reported_building_gfa_m2_sum": "737.75",
+          "observed_building_gfa_unparsed": 0
+        }
+      }
+    },
+    {
+      "report_month": "2026-09",
+      "citywide": {
+        "unique_permits": 420,
+        "permits_with_reported_construction_value": 420,
+        "reported_construction_value_cad_sum": "89801382",
+        "observed_construction_value_unparsed": 0,
+        "permits_with_measured_building_gfa": 328,
+        "reported_building_gfa_m2_sum": "13691.53",
+        "observed_building_gfa_unparsed": 0
+      },
+      "categories": {
+        "commercial": {
+          "unique_permits": 65,
+          "permits_with_reported_construction_value": 65,
+          "reported_construction_value_cad_sum": "10313245",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 60,
+          "reported_building_gfa_m2_sum": "72.52",
+          "observed_building_gfa_unparsed": 0
+        },
+        "industrial": {
+          "unique_permits": 5,
+          "permits_with_reported_construction_value": 5,
+          "reported_construction_value_cad_sum": "1230000",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 5,
+          "reported_building_gfa_m2_sum": "0.00",
+          "observed_building_gfa_unparsed": 0
+        },
+        "light_industrial": {
+          "unique_permits": 0,
+          "permits_with_reported_construction_value": 0,
+          "reported_construction_value_cad_sum": "0",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 0,
+          "reported_building_gfa_m2_sum": "0",
+          "observed_building_gfa_unparsed": 0
+        },
+        "logistics": {
+          "unique_permits": 7,
+          "permits_with_reported_construction_value": 7,
+          "reported_construction_value_cad_sum": "711145",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 7,
+          "reported_building_gfa_m2_sum": "240.65",
+          "observed_building_gfa_unparsed": 0
+        },
+        "multi_unit_residential": {
+          "unique_permits": 35,
+          "permits_with_reported_construction_value": 35,
+          "reported_construction_value_cad_sum": "10083357",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 30,
+          "reported_building_gfa_m2_sum": "407.60",
+          "observed_building_gfa_unparsed": 0
+        },
+        "residential_all": {
+          "unique_permits": 315,
+          "permits_with_reported_construction_value": 315,
+          "reported_construction_value_cad_sum": "42873788",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 264,
+          "reported_building_gfa_m2_sum": "4713.49",
+          "observed_building_gfa_unparsed": 0
+        },
+        "without_reviewed_sector_tag": {
+          "unique_permits": 55,
+          "permits_with_reported_construction_value": 55,
+          "reported_construction_value_cad_sum": "24604624",
+          "observed_construction_value_unparsed": 0,
+          "permits_with_measured_building_gfa": 18,
+          "reported_building_gfa_m2_sum": "8666.19",
+          "observed_building_gfa_unparsed": 0
+        }
+      }
+    }
+  ],
+  "interpretation": {
+    "category_counts_overlap": true,
+    "category_measures_overlap": true,
+    "unique_citywide_permit_count_is_separate": true,
+    "light_industrial": "No standalone explicit-text matches in the current taxonomy; zero matches do not establish no activity.",
+    "residential": "Retained in coverage; multi-unit residential is a separate overlapping focus category.",
+    "current_status": "Monthly audit rows show permit issuance only; they do not establish open, active, under-construction, or completed status.",
+    "value_and_gfa": "Nominal source-reported permit values and reported building GFA; not realized investment or current project value."
+  },
+  "known_source_reconciliation": {
+    "aggregate_reports_matching": 17,
+    "aggregate_reports_with_mismatch": 1,
+    "reports_without_aggregate_summary": 3,
+    "open_issue": "June 2025 has 468 numbered audit rows while its aggregate Summary Report states 469 permits."
+  }
+}
