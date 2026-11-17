@@ -35,3 +35,28 @@ Hamilton dossier and the D-070 key-only parcel tiles. Leak, allowlist, size and
 full-release reproducibility checks passed before publication. This early preview is
 for inspecting what works; it is not a final launch declaration. The release directory
 is immutable; corrections require a new release id.
+
+## Hamilton map layers
+
+`map-releases/ca-on-hamilton/2026-11-16-layer-set-001/` contains 11 screened
+thematic overlays and the OpenStreetMap/Protomaps vector basemap. The overlays
+are grouped into planning, protected-area, and parks PMTiles archives; the
+basemap remains its own archive. `manifest.json` describes every layer, its
+source, feature count, zoom range, field allowlist, color, and archive. The
+release `files.json` records sizes and SHA-256 hashes.
+
+Raw source snapshots remain outside this repository. To recreate the immutable
+release from the approved local snapshots:
+
+```sh
+python3 scripts/build_hamilton_map_layers.py \
+  --input-root /path/to/na/local-data \
+  --basemap /path/to/na/local-data/basemap/hamilton/hamilton-20261116.pmtiles \
+  --output /path/to/new-empty-release \
+  --tippecanoe /path/to/tippecanoe
+```
+
+The builder checks expected feature counts, filters properties to the documented
+allowlists, hashes inputs and outputs, and records its commands and source
+provenance. Tippecanoe 2.53.0 is required. Never rebuild into an existing
+release; create a new release id when source data or processing changes.

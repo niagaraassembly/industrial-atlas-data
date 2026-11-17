@@ -1,0 +1,247 @@
+{
+  "schema": 1,
+  "code": "scripts/build_hamilton_map_layers.py",
+  "generator": "tippecanoe v2.53.0",
+  "build_commands": [
+    {
+      "argv": [
+        "tippecanoe",
+        "--force",
+        "--read-parallel",
+        "--temporary-directory=tmp",
+        "--no-progress-indicator",
+        "-o",
+        "planning.pmtiles",
+        "-n",
+        "Hamilton planning map layers",
+        "-Z",
+        "6",
+        "-z",
+        "14",
+        "--detect-shared-borders",
+        "--simplification=3",
+        "--drop-densest-as-needed",
+        "--extend-zooms-if-still-dropping",
+        "-L",
+        "zoning:prep/zoning.ndjson",
+        "-L",
+        "secondary-plan-land-use:prep/secondary-plan-land-use.ndjson",
+        "-L",
+        "urban-boundary:prep/urban-boundary.ndjson",
+        "-L",
+        "rural-boundary:prep/rural-boundary.ndjson",
+        "-L",
+        "employment-lands:prep/employment-lands.ndjson"
+      ],
+      "cwd": "temporary build directory"
+    },
+    {
+      "argv": [
+        "tippecanoe",
+        "--force",
+        "--read-parallel",
+        "--temporary-directory=tmp",
+        "--no-progress-indicator",
+        "-o",
+        "protected.pmtiles",
+        "-n",
+        "Hamilton protected map layers",
+        "-Z",
+        "6",
+        "-z",
+        "13",
+        "--detect-shared-borders",
+        "--simplification=3",
+        "--drop-densest-as-needed",
+        "--extend-zooms-if-still-dropping",
+        "-L",
+        "greenbelt:prep/greenbelt.ndjson",
+        "-L",
+        "niagara-escarpment-plan:prep/niagara-escarpment-plan.ndjson",
+        "-L",
+        "conservation-hca:prep/conservation-hca.ndjson",
+        "-L",
+        "conservation-npca:prep/conservation-npca.ndjson",
+        "-L",
+        "conservation-grca:prep/conservation-grca.ndjson"
+      ],
+      "cwd": "temporary build directory"
+    },
+    {
+      "argv": [
+        "tippecanoe",
+        "--force",
+        "--read-parallel",
+        "--temporary-directory=tmp",
+        "--no-progress-indicator",
+        "-o",
+        "parks.pmtiles",
+        "-n",
+        "Hamilton parks map layers",
+        "-Z",
+        "6",
+        "-z",
+        "14",
+        "--detect-shared-borders",
+        "--simplification=3",
+        "--drop-densest-as-needed",
+        "--extend-zooms-if-still-dropping",
+        "-L",
+        "parks:prep/parks.ndjson"
+      ],
+      "cwd": "temporary build directory"
+    }
+  ],
+  "grouping": {
+    "planning": "zoning, secondary-plan-land-use, urban-boundary, rural-boundary, employment-lands",
+    "protected": "greenbelt, niagara-escarpment-plan, conservation-hca, conservation-npca, conservation-grca",
+    "parks": "parks"
+  },
+  "tile_processing": "GeoJSON EPSG:4326; property allowlists; tippecanoe shared-border detection; simplification 3; density dropping if required; zoom extension if required",
+  "source_hashes": {
+    "zoning": {
+      "path": "hamilton-city/zoning-bylaw-boundary-hamilton-2026-10-17/zoning-bylaw-boundary.geojson",
+      "sha256": "f460584e66241c49b6bca023b037ffd7ce9b7a6cd9ad0e20f631246cd41d67b5",
+      "source_feature_count": 11860,
+      "mapped_feature_count": 11829,
+      "null_geometry_skipped": 31,
+      "fields": [
+        "ZONING_CODE",
+        "ZONING_DESC",
+        "COMMUNITY",
+        "URBAN_RURAL_SETTLE",
+        "BY_LAW_NUMBER",
+        "EXCEPTION1",
+        "EXCEPTION2",
+        "EXCEPTION3",
+        "HOLDING1",
+        "HOLDING2",
+        "HOLDING3"
+      ],
+      "source": "City of Hamilton",
+      "source_url": "https://open.hamilton.ca/"
+    },
+    "secondary-plan-land-use": {
+      "path": "hamilton-city/secondary-plan-land-use-hamilton-2026-10-17/secondary-plan-land-use.geojson",
+      "sha256": "7ff88cc0d4db0a83b505346180a817cbf8be99833c1f6600e773706ea17bfae4",
+      "source_feature_count": 47206,
+      "mapped_feature_count": 47206,
+      "null_geometry_skipped": 0,
+      "fields": [
+        "LANDUSE_CLASS",
+        "SEC_PLAN_NAME",
+        "COMMUNITY",
+        "AREA_HEC"
+      ],
+      "source": "City of Hamilton",
+      "source_url": "https://open.hamilton.ca/"
+    },
+    "urban-boundary": {
+      "path": "hamilton-city/urban-boundary-hamilton-2026-10-17/urban-boundary.geojson",
+      "sha256": "ec9805aa3298ef652964286f87e3b0233f1488ae8e5e5f6daa0f8f811cd6ea6b",
+      "source_feature_count": 1,
+      "mapped_feature_count": 1,
+      "null_geometry_skipped": 0,
+      "fields": [],
+      "source": "City of Hamilton",
+      "source_url": "https://open.hamilton.ca/"
+    },
+    "rural-boundary": {
+      "path": "hamilton-city/rural-boundary-hamilton-2026-10-17/rural-boundary.geojson",
+      "sha256": "d6254f02007f1c64f5a40c4966e1b9de77b687e9cec796eea4b663a48ef2fef8",
+      "source_feature_count": 1,
+      "mapped_feature_count": 1,
+      "null_geometry_skipped": 0,
+      "fields": [],
+      "source": "City of Hamilton",
+      "source_url": "https://open.hamilton.ca/"
+    },
+    "employment-lands": {
+      "path": "hamilton-city/employment-lands-hamilton-2026-10-17/employment-lands.geojson",
+      "sha256": "4bce868e14551894a90323bdb789658fed30269ae17b1962ce668e2cba60d96b",
+      "source_feature_count": 22,
+      "mapped_feature_count": 22,
+      "null_geometry_skipped": 0,
+      "fields": [
+        "AREA_NAME",
+        "CATEGORY",
+        "AREA_HECTARES"
+      ],
+      "source": "City of Hamilton",
+      "source_url": "https://open.hamilton.ca/"
+    },
+    "greenbelt": {
+      "path": "lio/greenbelt-designation-hamilton-2026-10-17/greenbelt-designation.geojson",
+      "sha256": "8903b69f2385667bbf69fc540cd68e76956a325b5ab3759a2ef1737768859a37",
+      "source_feature_count": 9,
+      "mapped_feature_count": 9,
+      "null_geometry_skipped": 0,
+      "fields": [
+        "DESIGNATION"
+      ],
+      "source": "Ontario Land Information Ontario",
+      "source_url": "https://geohub.lio.gov.on.ca/"
+    },
+    "niagara-escarpment-plan": {
+      "path": "lio/nep-designation-hamilton-2026-10-17/nep-designation.geojson",
+      "sha256": "efa4e7059d5ae9e2e3939d0c8b2cab8c61f54e5e91fc4ca1e552d76080990041",
+      "source_feature_count": 115,
+      "mapped_feature_count": 115,
+      "null_geometry_skipped": 0,
+      "fields": [
+        "DESIGNATION"
+      ],
+      "source": "Ontario Land Information Ontario",
+      "source_url": "https://geohub.lio.gov.on.ca/"
+    },
+    "conservation-hca": {
+      "path": "hca/regulated-areas-hamilton-2026-10-17/regulated-areas.geojson",
+      "sha256": "0095f14a14b6fb4d1c90e8c3424044ca4324fb9736652ea434c20bef902d88f3",
+      "source_feature_count": 134,
+      "mapped_feature_count": 134,
+      "null_geometry_skipped": 0,
+      "fields": [],
+      "source": "Hamilton Conservation Authority",
+      "source_url": "https://hca-open-data-camaps.hub.arcgis.com/"
+    },
+    "conservation-npca": {
+      "path": "npca/approximate-regulation-lands-hamilton-2026-10-17/approximate-regulation-lands.geojson",
+      "sha256": "4cf0d16c706b2592fe144c863b729b5bd2b6104170209371b5a36efb1807ab3c",
+      "source_feature_count": 271,
+      "mapped_feature_count": 271,
+      "null_geometry_skipped": 0,
+      "fields": [],
+      "source": "Niagara Peninsula Conservation Authority",
+      "source_url": "https://gis-npca-camaps.opendata.arcgis.com/"
+    },
+    "conservation-grca": {
+      "path": "grca/regulation-limits-hamilton-2026-10-17/grca_regulation_limits_hamilton_clipped.geojson",
+      "sha256": "505ad92d8baa177de2002df598f913432025058e64ec4da82b624e5f4f932109",
+      "source_feature_count": 199,
+      "mapped_feature_count": 199,
+      "null_geometry_skipped": 0,
+      "fields": [
+        "GR_FEATURE",
+        "MU_LTIER",
+        "MU_UTIER"
+      ],
+      "source": "Grand River Conservation Authority",
+      "source_url": "https://data.grandriver.ca/downloads-geospatial.html"
+    },
+    "parks": {
+      "path": "hamilton-city/parks-hamilton-2026-10-17/parks.geojson",
+      "sha256": "3365c50ded20e1400838ffb6082a9ecba179f98ec82c872f7c44d6da6f143fe3",
+      "source_feature_count": 633,
+      "mapped_feature_count": 633,
+      "null_geometry_skipped": 0,
+      "fields": [
+        "NAME",
+        "PARK_CLASS",
+        "TYPE",
+        "AREA_HA"
+      ],
+      "source": "City of Hamilton",
+      "source_url": "https://open.hamilton.ca/"
+    }
+  }
+}
